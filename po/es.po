@@ -34,88 +34,88 @@ msgstr ""
 
 #: pkg/docker/storage.jsx:261
 msgid " (shared with the OS)"
-msgstr " (compartido con el SO)"
+msgstr " (compartido con el SO)"#TODO
 
 #: pkg/machines/components/diskAdd.jsx:236
 msgid " Attaching it will make this disk shareable for every VM using it."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2317
 msgid "$0 Active Zone"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2317
 msgid "$0 Active Zones"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/others-panel.jsx:57
 msgid "$0 Block Device"
-msgstr "$0 Dispositivo de Bloque"
+msgstr "$0 Dispositivo de Bloque"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:188
 msgid "$0 Chunk Size"
-msgstr "$0 tamaño del fragmento"
+msgstr "$0 tamaño del fragmento"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:186
 msgid "$0 Disks"
-msgstr "$0 Discos"
+msgstr "$0 Discos"#TODO
 
 #: pkg/storaged/content-views.jsx:356
 msgctxt "storage-id-desc"
 msgid "$0 File System"
-msgstr "$0 Sistema de archivos"
+msgstr "$0 Sistema de archivos"#TODO
 
 #: pkg/systemd/overview-cards/usageCard.jsx:84
-msgid "$0 GiB / $1 GiB"
+msgid "$0 GiB / $1 GiB"#TODO
 msgstr ""
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:105
 msgid "$0 Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/history.jsx:100
 msgid "$0 Package"
 msgid_plural "$0 Packages"
-msgstr[0] ""
+msgstr[0] ""#TODO
 
 #: pkg/systemd/init.js:484 pkg/systemd/service-details.jsx:59
 msgid "$0 Template"
-msgstr "$0 Plantilla"
+msgstr "$0 Plantilla"#TODO
 
 #: pkg/networkmanager/firewall.jsx:160
 msgid "$0 Zone"
-msgstr ""
+msgstr ""#TODO
 
 #: src/base1/test-locale.js:83 src/base1/test-locale.js:84
 #: src/base1/test-locale.js:85 src/base1/test-locale.js:86
 msgid "$0 bit"
 msgid_plural "$0 bits"
 msgstr[0] "$0 bit"
-msgstr[1] "$0 bits"
+msgstr[1] "$0 bits"#TODO
 
 #: src/base1/test-locale.js:74 src/base1/test-locale.js:75
 #: src/base1/test-locale.js:87 src/base1/test-locale.js:88
 msgid "$0 byte"
 msgid_plural "$0 bytes"
 msgstr[0] "$0 byte"
-msgstr[1] "$0 bytes"
+msgstr[1] "$0 bytes"#TODO
 
 #: src/base1/test-locale.js:76 src/base1/test-locale.js:77
 msgctxt "memory"
 msgid "$0 byte"
 msgid_plural "$0 bytes"
 msgstr[0] "$0 byte"
-msgstr[1] "$0 bytes"
+msgstr[1] "$0 bytes"#TODO
 
 #: pkg/storaged/vdo-details.jsx:279
 msgid "$0 data + $1 overhead used of $2 ($3)"
-msgstr "$0 datos + $1 geneal utilizado de $2 ($3)"
+msgstr "$0 datos + $1 geneal utilizado de $2 ($3)"#TODO
 
 #: pkg/lib/plot.js:971
 msgid "$0 day"
 msgid_plural "$0 days"
 msgstr[0] "$0 día"
-msgstr[1] "$0 días"
+msgstr[1] "$0 días"#TODO
 
 #: src/base1/test-locale.js:65 src/base1/test-locale.js:66
 #: src/base1/test-locale.js:67 pkg/playground/translate.js:26
@@ -123,7 +123,7 @@ msgstr[1] "$0 días"
 msgid "$0 disk is missing"
 msgid_plural "$0 disks are missing"
 msgstr[0] "Falta $0 disco"
-msgstr[1] "Faltan $0 discos"
+msgstr[1] "Faltan $0 discos"#TODO
 
 #: src/base1/test-locale.js:68 src/base1/test-locale.js:70
 #: src/base1/test-locale.js:72 pkg/playground/translate.js:32
@@ -132,37 +132,37 @@ msgctxt "disk-non-rotational"
 msgid "$0 disk is missing"
 msgid_plural "$0 disks are missing"
 msgstr[0] "Falta $0 disco"
-msgstr[1] "Faltan $0 discos"
+msgstr[1] "Faltan $0 discos"#TODO
 
 #: src/ws/login.js:336 src/ws/login.js:695
 msgid "$0 error"
-msgstr "$0 error"
+msgstr "$0 error"#TODO
 
 #: src/base1/cockpit.js:2785
 msgid "$0 exited with code $1"
-msgstr "$0 finalizó con el código $1"
+msgstr "$0 finalizó con el código $1"#TODO
 
 #: src/base1/cockpit.js:2787
 msgid "$0 failed"
-msgstr "$0 falló"
+msgstr "$0 falló"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:161
 msgid "$0 filesystems can not be made larger."
-msgstr "$0 los sistemas de archivos no se pueden hacer más grandes."
+msgstr "$0 los sistemas de archivos no se pueden hacer más grandes."#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:158
 msgid "$0 filesystems can not be made smaller."
-msgstr "$0 los sistemas de archivos no se pueden hacer más pequeños."
+msgstr "$0 los sistemas de archivos no se pueden hacer más pequeños."#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:154
 msgid "$0 filesystems can not be resized here."
-msgstr "$0 a los sistemas de archivos no se les puede cambiar el tamaño aquí."
+msgstr "$0 a los sistemas de archivos no se les puede cambiar el tamaño aquí."#TODO
 
 #: pkg/lib/plot.js:974
 msgid "$0 hour"
 msgid_plural "$0 hours"
 msgstr[0] "$0 horas"
-msgstr[1] "$0 horas"
+msgstr[1] "$0 horas"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:44
 msgid ""
@@ -170,7 +170,7 @@ msgid ""
 "GNOME Software or run the following:"
 msgstr ""
 "$0 esta disponible para muchos sistemas operativos. Para instalarlo, búscalo"
-" en \"GNOME Software\" o ejecuta el siguiente comando:"
+" en \"GNOME Software\" o ejecuta el siguiente comando:"#TODO
 
 #: pkg/storaged/content-views.jsx:298 pkg/storaged/content-views.jsx:538
 #: pkg/storaged/format-dialog.jsx:164 pkg/storaged/lvol-tabs.jsx:203
@@ -178,371 +178,371 @@ msgstr ""
 #: pkg/storaged/mdraid-details.jsx:282 pkg/storaged/vdo-details.jsx:128
 #: pkg/storaged/vdo-details.jsx:159 pkg/storaged/vgroup-details.jsx:199
 msgid "$0 is in active use"
-msgstr "$0 esta en uso actualmente"
+msgstr "$0 esta en uso actualmente"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:153
 msgid "$0 is not available from any repository."
-msgstr "$0 no está disponible en ningún repositorio"
+msgstr "$0 no está disponible en ningún repositorio"#TODO
 
 #: src/base1/cockpit.js:2783
 msgid "$0 killed with signal $1"
-msgstr "$0 terminado con señal $1"
+msgstr "$0 terminado con señal $1"#TODO
 
 #: pkg/lib/plot.js:977
 msgid "$0 minute"
 msgid_plural "$0 minutes"
 msgstr[0] "$0 minuto"
-msgstr[1] "$0 minutos"
+msgstr[1] "$0 minutos"#TODO
 
 #: pkg/lib/plot.js:965
 msgid "$0 month"
 msgid_plural "$0 months"
 msgstr[0] "$0 mes"
-msgstr[1] "$0 meses"
+msgstr[1] "$0 meses"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:434
 msgid "$0 occurrence"
 msgid_plural "$1 occurrences"
 msgstr[0] "$1 ocurrencia"
-msgstr[1] "$1 ocurrencias"
+msgstr[1] "$1 ocurrencias"#TODO
 
 #: pkg/storaged/fsys-tab.jsx:365
 msgid "$0 of $1"
-msgstr "$0 de $1"
+msgstr "$0 de $1"#TODO
 
 #: pkg/systemd/init.js:424
 msgid "$0 service has failed"
 msgid_plural "$0 services have failed"
-msgstr[0] ""
+msgstr[0] ""#TODO
 
 #: pkg/docker/util.js:125
 msgid "$0 shares"
-msgstr "$0 comparticiones"
+msgstr "$0 comparticiones"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:589
 msgid "$0 slots remain"
-msgstr "$0 las ranuras permanecen"
+msgstr "$0 las ranuras permanecen"#TODO
 
 #: pkg/packagekit/updates.jsx:162
 msgid "$0 update"
 msgid_plural "$0 updates"
 msgstr[0] "$0 actualización."
-msgstr[1] "$0 actualizaciones."
+msgstr[1] "$0 actualizaciones."#TODO
 
 #: pkg/storaged/vdo-details.jsx:291
 msgid "$0 used of $1 ($2 saved)"
-msgstr "$0 usado de $1 ($2 guardado)"
+msgstr "$0 usado de $1 ($2 guardado)"#TODO
 
 #: pkg/lib/plot.js:968
 msgid "$0 week"
 msgid_plural "$0 weeks"
 msgstr[0] "$0 semana"
-msgstr[1] "$0 semanas"
+msgstr[1] "$0 semanas"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:108
 msgid "$0 will be installed."
-msgstr "Se instalará $0"
+msgstr "Se instalará $0"#TODO
 
 #: pkg/lib/plot.js:962
 msgid "$0 year"
 msgid_plural "$0 years"
 msgstr[0] "$0 año"
-msgstr[1] "$0 años"
+msgstr[1] "$0 años"#TODO
 
 #: pkg/storaged/vgroup-details.jsx:111
 msgid "$0, $1 free"
-msgstr "$0, $1 disponible"
+msgstr "$0, $1 disponible"#TODO
 
 #: pkg/systemd/logs.js:457
 msgid "$0: crash at $1"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/updates.jsx:160
 msgid "$1 security fix"
 msgid_plural "$1 security fixes"
 msgstr[0] "$1 corrección de seguridad"
-msgstr[1] "$1 correcciones de seguridad"
+msgstr[1] "$1 correcciones de seguridad"#TODO
 
 #: pkg/networkmanager/interfaces.js:2739
 msgid "$mtu"
-msgstr "$mtu"
+msgstr "$mtu"#TODO
 
 #: pkg/storaged/utils.js:182
 msgid "$name (from $host)"
-msgstr "$name (de $host)"
+msgstr "$name (de $host)"#TODO
 
 #: pkg/docker/details.js:151
 msgid "${hip}:${hport} -> $cport"
-msgstr "${hip}:${hport} → $cport"
+msgstr "${hip}:${hport} → $cport"#TODO
 
 #: pkg/storaged/utils.js:126
 msgid "${size} ${desc}"
-msgstr "${size} ${desc}"
+msgstr "${size} ${desc}"#TODO
 
 #: pkg/networkmanager/firewall.jsx:573
 msgid "(Optional)"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/crypto-tab.jsx:132
 msgid "(none)"
-msgstr "(ninguno)"
+msgstr "(ninguno)"#TODO
 
 #: pkg/packagekit/updates.jsx:164
 msgid ", including $1 security fix"
 msgid_plural ", including $1 security fixes"
 msgstr[0] ", incluyendo la corrección de seguridad $1 "
-msgstr[1] ", incluyendo las correcciones de seguridad $1"
+msgstr[1] ", incluyendo las correcciones de seguridad $1"#TODO
 
 #: pkg/storaged/nfs-details.jsx:325
 msgid "--"
-msgstr "--"
+msgstr "--"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:106
 msgid "1 MiB"
-msgstr "1 MiB"
+msgstr "1 MiB"#TODO
 
 #: pkg/systemd/index.html:183 pkg/systemd/index.html:187
 msgid "1 Minute"
-msgstr "1 minuto"
+msgstr "1 minuto"#TODO
 
 #: pkg/docker/containers-view.jsx:614
 msgid "1 Vulnerability"
 msgid_plural "$0 Vulnerabilities"
-msgstr[0] ""
+msgstr[0] ""#TODO
 
 #: pkg/dashboard/index.html:55 pkg/networkmanager/index.html:72
 #: pkg/networkmanager/index.html:408 pkg/systemd/graphs.html:55
 #: pkg/storaged/plot.jsx:85
 msgid "1 day"
-msgstr "1 día"
+msgstr "1 día"#TODO
 
 #: pkg/dashboard/index.html:51 pkg/networkmanager/index.html:70
 #: pkg/networkmanager/index.html:406 pkg/systemd/graphs.html:51
 #: pkg/storaged/plot.jsx:79
 msgid "1 hour"
-msgstr "1 hora"
+msgstr "1 hora"#TODO
 
 #: pkg/systemd/graphs.js:384
 msgid "1 min"
-msgstr "1 min"
+msgstr "1 min"#TODO
 
 #: pkg/dashboard/index.html:57 pkg/networkmanager/index.html:73
 #: pkg/networkmanager/index.html:409 pkg/systemd/graphs.html:57
 #: pkg/storaged/plot.jsx:88
 msgid "1 week"
-msgstr "1 semana"
+msgstr "1 semana"#TODO
 
 #: pkg/systemd/services.html:164
 msgid "10th"
-msgstr "10.º"
+msgstr "10.º"#TODO
 
 #: pkg/systemd/services.html:165
 msgid "11th"
-msgstr "11.º"
+msgstr "11.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:104
 msgid "128 KiB"
-msgstr "128 KiB"
+msgstr "128 KiB"#TODO
 
 #: pkg/systemd/services.html:166
 msgid "12th"
-msgstr "12.º"
+msgstr "12.º"#TODO
 
 #: pkg/systemd/services.html:167
 msgid "13th"
-msgstr "13.º"
+msgstr "13.º"#TODO
 
 #: pkg/systemd/services.html:168
 msgid "14th"
-msgstr "14.º"
+msgstr "14.º"#TODO
 
 #: pkg/systemd/services.html:169
 msgid "15th"
-msgstr "15.º"
+msgstr "15.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:101
 msgid "16 KiB"
-msgstr "16 KiB"
+msgstr "16 KiB"#TODO
 
 #: pkg/systemd/services.html:170
 msgid "16th"
-msgstr "16.º"
+msgstr "16.º"#TODO
 
 #: pkg/systemd/services.html:171
 msgid "17th"
-msgstr "17.º"
+msgstr "17.º"#TODO
 
 #: pkg/systemd/services.html:172
 msgid "18th"
-msgstr "18.º"
+msgstr "18.º"#TODO
 
 #: pkg/systemd/services.html:173
 msgid "19th"
-msgstr "19.º"
+msgstr "19.º"#TODO
 
 #: pkg/systemd/services.html:155
 msgid "1st"
-msgstr "1.º"
+msgstr "1.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:107
 msgid "2 MiB"
-msgstr "2 MiB"
+msgstr "2 MiB"#TODO
 
 #: pkg/systemd/graphs.js:383
 msgid "2 min"
-msgstr "2 min"
+msgstr "2 min"#TODO
 
 #: pkg/systemd/index.html:189
 msgid "20 Minutes"
-msgstr "20 minutos"
+msgstr "20 minutos"#TODO
 
 #: pkg/systemd/services.html:174
 msgid "20th"
-msgstr "20.º"
+msgstr "20.º"#TODO
 
 #: pkg/systemd/services.html:175
 msgid "21st"
-msgstr "21.º"
+msgstr "21.º"#TODO
 
 #: pkg/systemd/services.html:176
 msgid "22nd"
-msgstr "22.º"
+msgstr "22.º"#TODO
 
 #: pkg/systemd/services.html:177
 msgid "23rd"
-msgstr "23.º"
+msgstr "23.º"#TODO
 
 #: pkg/systemd/services.html:178
 msgid "24th"
-msgstr "24.º"
+msgstr "24.º"#TODO
 
 #: pkg/systemd/services.html:179
 msgid "25th"
-msgstr "25.º"
+msgstr "25.º"#TODO
 
 #: pkg/systemd/services.html:180
 msgid "26th"
-msgstr "26.º"
+msgstr "26.º"#TODO
 
 #: pkg/systemd/services.html:181
 msgid "27th"
-msgstr "27.º"
+msgstr "27.º"#TODO
 
 #: pkg/systemd/services.html:182
 msgid "28th"
-msgstr "28.º"
+msgstr "28.º"#TODO
 
 #: pkg/systemd/services.html:183
 msgid "29th"
-msgstr "29.º"
+msgstr "29.º"#TODO
 
 #: pkg/systemd/services.html:156
 msgid "2nd"
-msgstr "2.º"
+msgstr "2.º"#TODO
 
 #: pkg/systemd/graphs.js:382
 msgid "3 min"
-msgstr "3 min"
+msgstr "3 min"#TODO
 
 #: pkg/systemd/services.html:184
 msgid "30th"
-msgstr "30.º"
+msgstr "30.º"#TODO
 
 #: pkg/systemd/services.html:185
 msgid "31st"
-msgstr "31.º"
+msgstr "31.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:102
 msgid "32 KiB"
-msgstr "32 KiB"
+msgstr "32 KiB"#TODO
 
 #: pkg/systemd/services.html:157
 msgid "3rd"
-msgstr "3.º"
+msgstr "3.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:99
 msgid "4 KiB"
-msgstr "4 KiB"
+msgstr "4 KiB"#TODO
 
 #: pkg/systemd/graphs.js:381
 msgid "4 min"
-msgstr "4 min"
+msgstr "4 min"#TODO
 
 #: pkg/systemd/index.html:190
 msgid "40 Minutes"
-msgstr "40 minutos"
+msgstr "40 minutos"#TODO
 
 #: pkg/systemd/services.html:158
 msgid "4th"
-msgstr "4.º"
+msgstr "4.º"#TODO
 
 #: pkg/systemd/index.html:188
 msgid "5 Minutes"
-msgstr "5 minutos"
+msgstr "5 minutos"#TODO
 
 #: pkg/systemd/graphs.js:380
 msgid "5 min"
-msgstr "5 min"
+msgstr "5 min"#TODO
 
 #: pkg/dashboard/index.html:49 pkg/networkmanager/index.html:69
 #: pkg/networkmanager/index.html:405 pkg/systemd/graphs.html:49
 #: pkg/storaged/plot.jsx:76
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 minutos"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:105
 msgid "512 KiB"
-msgstr "512 KiB"
+msgstr "512 KiB"#TODO
 
 #: pkg/systemd/services.html:159
 msgid "5th"
-msgstr "5.º"
+msgstr "5.º"#TODO
 
 #: pkg/dashboard/index.html:53 pkg/networkmanager/index.html:71
 #: pkg/networkmanager/index.html:407 pkg/systemd/graphs.html:53
 #: pkg/storaged/plot.jsx:82
 msgid "6 hours"
-msgstr "6 horas"
+msgstr "6 horas"#TODO
 
 #: pkg/systemd/index.html:191
 msgid "60 Minutes"
-msgstr "60 minutos"
+msgstr "60 minutos"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:103
 msgid "64 KiB"
-msgstr "64 KiB"
+msgstr "64 KiB"#TODO
 
 #: pkg/systemd/services.html:160
 msgid "6th"
-msgstr "6.º"
+msgstr "6.º"#TODO
 
 #: pkg/systemd/services.html:161
 msgid "7th"
-msgstr "7.º"
+msgstr "7.º"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:100
 msgid "8 KiB"
-msgstr "8 KiB"
+msgstr "8 KiB"#TODO
 
 #: pkg/networkmanager/interfaces.js:1966
 msgid "802.3ad"
-msgstr "802.3ad"
+msgstr "802.3ad"#TODO
 
 #: pkg/networkmanager/interfaces.js:1983
 msgid "802.3ad LACP"
-msgstr "802.3ad LACP"
+msgstr "802.3ad LACP"#TODO
 
 #: pkg/systemd/services.html:162
 msgid "8th"
-msgstr "8.º"
+msgstr "8.º"#TODO
 
 #: pkg/systemd/services.html:163
 msgid "9th"
-msgstr "9.º"
+msgstr "9.º"#TODO
 
 #: pkg/lib/machine-not-supported.html:5
 msgid ""
@@ -550,11 +550,11 @@ msgid ""
 "{{#strong}}{{host}}{{/strong}}."
 msgstr ""
 "No se ha instalado una versión compatible de Cockpit en "
-"{{#strong}}{{host}}{{/strong}}."
+"{{#strong}}{{host}}{{/strong}}."#TODO
 
 #: pkg/storaged/vdos-panel.jsx:95
 msgid "A disk is needed."
-msgstr "Es necesario un disco."
+msgstr "Es necesario un disco."#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -562,83 +562,83 @@ msgstr "Es necesario un disco."
 msgid ""
 "A modern browser is required for security, reliability, and performance."
 msgstr ""
-"Se necesita un navegador moderno por seguridad, fiabilidad y rendimiento."
+"Se necesita un navegador moderno por seguridad, fiabilidad y rendimiento."#TODO
 
 #: pkg/storaged/mdraid-details.jsx:114
 msgid "A spare disk needs to be added first before this disk can be removed."
 msgstr ""
-"Un disco de repuesto debe agregarse primero antes de este disco se puede "
-"quitar."
+"Un disco de repuesto debe agregarse primero antes de este disco se puede "#TODO
+"quitar."#TODO
 
 #: pkg/networkmanager/interfaces.js:1974
 msgid "ARP"
-msgstr "ARP"
+msgstr "ARP"#TODO
 
 #: pkg/networkmanager/interfaces.js:2768
 msgid "ARP Monitoring"
-msgstr "Supervisión ARP"
+msgstr "Supervisión ARP"#TODO
 
 #: pkg/networkmanager/interfaces.js:1995
 msgid "ARP Ping"
-msgstr "Ping ARP"
+msgstr "Ping ARP"#TODO
 
 #: pkg/shell/index.html:57 pkg/shell/index.html:83
 msgid "About Cockpit"
-msgstr "Acerca de Cockpit"
+msgstr "Acerca de Cockpit"#TODO
 
 #: pkg/lib/machine-info.js:254
 msgid "Absent"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/users/index.html:104 pkg/users/index.html:190
 #: pkg/machines/components/diskEdit.jsx:58
 #: pkg/machines/components/vmDisksTab.jsx:115
 msgid "Access"
-msgstr "Acceder"
+msgstr "Acceder"#TODO
 
 #: pkg/users/index.html:249
 msgid "Account Expiration"
-msgstr "Expiración de la cuenta"
+msgstr "Expiración de la cuenta"#TODO
 
 #: pkg/shell/index.html:64
 msgid "Account Settings"
-msgstr "Configuración de la cuenta"
+msgstr "Configuración de la cuenta"#TODO
 
 #: pkg/users/index.html:63
 msgid "Account not available or cannot be edited."
-msgstr "La cuenta no está disponible o no se puede modificar."
+msgstr "La cuenta no está disponible o no se puede modificar."#TODO
 
 #: pkg/playground/translate.html:95 pkg/users/index.html:71
 #: pkg/users/manifest.json.in
 msgid "Accounts"
-msgstr "Cuentas"
+msgstr "Cuentas"#TODO
 
 #: pkg/users/local.js:339 pkg/users/local.js:660
 msgctxt "page-title"
 msgid "Accounts"
-msgstr "Cuentas"
+msgstr "Cuentas"#TODO
 
 #: pkg/machines/components/networks/network.jsx:157
 #: pkg/machines/components/storagePools/storagePool.jsx:176
 #: pkg/storaged/content-views.jsx:270
 msgid "Activate"
-msgstr "Activar"
+msgstr "Activar"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:68
 msgid "Activating $target"
-msgstr "Activando $target"
+msgstr "Activando $target"#TODO
 
 #: pkg/networkmanager/interfaces.js:842 pkg/networkmanager/interfaces.js:1989
 msgid "Active"
-msgstr "Activo"
+msgstr "Activo"#TODO
 
 #: pkg/networkmanager/interfaces.js:1963 pkg/networkmanager/interfaces.js:1980
 msgid "Active Backup"
-msgstr "Copia de seguridad activa"
+msgstr "Copia de seguridad activa"#TODO
 
 #: pkg/shell/index.html:60 pkg/shell/active-pages.js:95
 msgid "Active Pages"
-msgstr "Páginas Activas"
+msgstr "Páginas Activas"#TODO
 
 #: pkg/storaged/dialog.jsx:1030 pkg/storaged/dialog.jsx:1034
 msgid "Active since"
