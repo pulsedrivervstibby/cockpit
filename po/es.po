@@ -3040,386 +3040,386 @@ msgstr "Cambio de clave forzado"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:381
 msgid "Force remove passphrase in $0"
-msgstr "Forzar la eliminación de la contraseña en $0"
+msgstr "Forzar la eliminación de la contraseña en $0"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:249
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:64
 #: pkg/storaged/content-views.jsx:330 pkg/storaged/content-views.jsx:332
 #: pkg/storaged/content-views.jsx:569 pkg/storaged/format-dialog.jsx:263
 msgid "Format"
-msgstr "Formato"
+msgstr "Formato"#TODO
 
 #: pkg/storaged/format-dialog.jsx:134
 msgid "Format $0"
-msgstr "Formatear $0"
+msgstr "Formatear $0"#TODO
 
 #: pkg/storaged/content-views.jsx:545
 msgid "Format Disk $0"
-msgstr "Formatear Disco $0"
+msgstr "Formatear Disco $0"#TODO
 
 #: pkg/storaged/content-views.jsx:570
 msgid "Formatting a disk will erase all data on it."
-msgstr "Formatear un disco eliminará todos los datos en el."
+msgstr "Formatear un disco eliminará todos los datos en el."#TODO
 
 #: pkg/storaged/format-dialog.jsx:265
 msgid "Formatting a storage device will erase all data on it."
 msgstr ""
-"Formatear un dispositivo de almacenamiento eliminará todos los datos en el."
+"Formatear un dispositivo de almacenamiento eliminará todos los datos en el."#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:133
 msgid "Forward Mode"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2843
 msgid "Forward delay $forward_delay"
-msgstr "Retardo del reenvío $forward_delay"
+msgstr "Retardo del reenvío $forward_delay"#TODO
 
 #: pkg/machines/components/networks/networkList.jsx:55
 msgid "Forwarding mode"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/storage.jsx:329 pkg/docker/storage.jsx:352
 #: pkg/storaged/pvol-tabs.jsx:44
 msgid "Free"
-msgstr "Libre"
+msgstr "Libre"#TODO
 
 #: pkg/storaged/content-views.jsx:472
 msgid "Free Space"
-msgstr "Espacio Libre"
+msgstr "Espacio Libre"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:380
 msgid ""
 "Free up space in this group: Shrink or delete other logical volumes or add "
 "another physical volume."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:130
 msgid "Friday"
-msgstr "Viernes"
+msgstr "Viernes"#TODO
 
 #: pkg/packagekit/autoupdates.jsx:325
 msgid "Fridays"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/users/index.html:86 pkg/users/index.html:167
 msgid "Full Name"
-msgstr "Nombre Completo"
+msgstr "Nombre Completo"#TODO
 
 #: pkg/docker/index.html:184
 msgid "Gateway:"
-msgstr "Pasarela:"
+msgstr "Pasarela:"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:80
 #: pkg/networkmanager/interfaces.js:2685 pkg/systemd/logs.js:546
 msgid "General"
-msgstr "General"
+msgstr "General"#TODO
 
 #: pkg/machines/components/nicAdd.jsx:49
 msgid "Generate automatically"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/sosreport/index.html:55
 msgid "Generating report"
-msgstr "Generando reporte"
+msgstr "Generando reporte"#TODO
 
 #: pkg/docker/containers-view.jsx:683
 msgid "Get new image"
-msgstr "Obtener nueva imagen"
+msgstr "Obtener nueva imagen"#TODO
 
 #: pkg/machines/components/memorySelectRow.jsx:87
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:98
 #: pkg/machines/components/vmDisksTab.jsx:50
 msgid "GiB"
-msgstr "GiB"
+msgstr "GiB"#TODO
 
 #: pkg/systemd/logs.js:226
 msgid "Go to"
-msgstr "Ir a"
+msgstr "Ir a"#TODO
 
 #: pkg/systemd/graphs.html:46
 msgid "Go to                                                now"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/apps/application.jsx:108
 msgid "Go to Application"
-msgstr "Ir a la aplicación"
+msgstr "Ir a la aplicación"#TODO
 
 #: pkg/dashboard/index.html:46 pkg/networkmanager/index.html:67
 #: pkg/networkmanager/index.html:403 pkg/storaged/plot.jsx:72
 msgid "Go to now"
-msgstr "Ir a ahora"
+msgstr "Ir a ahora"#TODO
 
 #: pkg/machines/components/consoles.jsx:51
 msgid "Graphics Console (VNC)"
-msgstr "Consola Gráfica (VNC)"
+msgstr "Consola Gráfica (VNC)"#TODO
 
 #: pkg/machines/components/consoles.jsx:60
 msgid "Graphics Console in Desktop Viewer"
-msgstr "Consola Gráfica en Visualizador de Escritorio"
+msgstr "Consola Gráfica en Visualizador de Escritorio"#TODO
 
 #: pkg/systemd/graphs.html:5
 msgid "Graphs"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:240 pkg/storaged/lvol-tabs.jsx:408
 #: pkg/storaged/lvol-tabs.jsx:461 pkg/storaged/vdo-details.jsx:228
 #: pkg/storaged/vdo-details.jsx:297
 msgid "Grow"
-msgstr "Crecer"
+msgstr "Crecer"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:423
 msgid "Grow Content"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:236
 msgid "Grow Logical Volume"
-msgstr "Crecer Volumen Lógico"
+msgstr "Crecer Volumen Lógico"#TODO
 
 #: pkg/storaged/vdo-details.jsx:216
 msgid "Grow logical size of $0"
-msgstr "Crece el tamaño lógico de $0"
+msgstr "Crece el tamaño lógico de $0"#TODO
 
 #: pkg/storaged/vdo-details.jsx:113
 msgid "Grow to take all space"
-msgstr "Crecer para tomar todo el espacio"
+msgstr "Crecer para tomar todo el espacio"#TODO
 
 #: pkg/networkmanager/index.html:259
 msgid "Hair Pin mode"
-msgstr "Modo horquilla"
+msgstr "Modo horquilla"#TODO
 
 #: pkg/networkmanager/interfaces.js:2869
 msgid "Hairpin mode"
-msgstr "Modo horquilla"
+msgstr "Modo horquilla"#TODO
 
 #: pkg/lib/machine-info.js:77
 msgid "Hand Held"
-msgstr "Portátil"
+msgstr "Portátil"#TODO
 
 #: pkg/docker/storage.jsx:168
 msgid "Hard Disk"
-msgstr "Disco Duro"
+msgstr "Disco Duro"#TODO
 
 #: pkg/systemd/hwinfo.html:4 pkg/systemd/hwinfo.jsx:283
 msgid "Hardware Information"
-msgstr "Información de Hardware"
+msgstr "Información de Hardware"#TODO
 
 #: pkg/systemd/overview-cards/healthCard.jsx:72
 msgid "Health"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2845
 msgid "Hello time $hello_time"
-msgstr "Tiempo de saludo $hello_time"
+msgstr "Tiempo de saludo $hello_time"#TODO
 
 #: pkg/machines/components/diskAdd.jsx:167
 msgid "Hide Performance Options"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:137
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:35
 #: pkg/machines/components/vm/bootOrderModal.jsx:97
 #: pkg/machines/components/vmDiskColumns.jsx:47 pkg/shell/indexes.js:575
 msgid "Host"
-msgstr "Anfitrión"
+msgstr "Anfitrión"#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:172
 msgid "Host Device"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/dashboard/index.html:137
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:142
 msgid "Host Name"
-msgstr "Nombre de Host"
+msgstr "Nombre de Host"#TODO
 
 #: src/base1/cockpit.js:4040
 msgid "Host key is incorrect"
-msgstr "Tecla del Host es incorrecta"
+msgstr "Tecla del Host es incorrecta"#TODO
 
 #: pkg/realmd/operation.js:609
 msgid "Host name should not be changed in a domain"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:148
 msgid "Host should not be empty"
-msgstr "El anfitrión no debe estar vacío"
+msgstr "El anfitrión no debe estar vacío"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:349
 msgid "Hostname"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:353
 msgid "Hour : Minute"
-msgstr "Hora : Minuto"
+msgstr "Hora : Minuto"#TODO
 
 #: pkg/systemd/init.js:1229 pkg/systemd/init.js:1258
 msgid "Hour needs to be a number between 0-23"
-msgstr "La hora es necesario que sea un número entre 0 y 23"
+msgstr "La hora es necesario que sea un número entre 0 y 23"#TODO
 
 #: pkg/systemd/services.html:319
 msgid "Hours"
-msgstr "Horas"
+msgstr "Horas"#TODO
 
 #: pkg/systemd/graphs.html:146 pkg/systemd/graphs.js:297
 msgid "I/O Wait"
-msgstr "Espera de E/S"
+msgstr "Espera de E/S"#TODO
 
 #: pkg/systemd/hwinfo.jsx:271
 msgid "ID"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:126 pkg/networkmanager/index.html:144
 #: pkg/machines/components/vmnetworktab.jsx:162
 msgid "IP Address"
-msgstr "Dirección IP"
+msgstr "Dirección IP"#TODO
 
 #: pkg/docker/index.html:176
 msgid "IP Address:"
-msgstr "Dirección IP:"
+msgstr "Dirección IP:"#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:183
 msgid "IP Configuration"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:180
 msgid "IP Prefix Length:"
-msgstr "Longitud de Prefijo IP:"
+msgstr "Longitud de Prefijo IP:"#TODO
 
 #: pkg/networkmanager/index.html:473
 msgid "IP Settings"
-msgstr "Configuración IP"
+msgstr "Configuración IP"#TODO
 
 #: pkg/networkmanager/firewall.jsx:732
 msgid ""
 "IP address with routing prefix. Separate multiple values with a comma. "
 "Example: 192.0.2.0/24, 2001:db8::/32"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2894
 msgid "IPv4"
-msgstr "IPv4"
+msgstr "IPv4"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:105
 msgid "IPv4 Address"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:265
 msgid "IPv4 Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:45
 msgid "IPv4 Network should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3344
 msgid "IPv4 Settings"
-msgstr "Configuración IPv4"
+msgstr "Configuración IPv4"#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:199
 msgid "IPv4 and IPv6"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:193
 msgid "IPv4 only"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2895
 msgid "IPv6"
-msgstr "IPv6"
+msgstr "IPv6"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:128
 msgid "IPv6 Address"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:309
 msgid "IPv6 Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:73
 msgid "IPv6 Network should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3344
 msgid "IPv6 Settings"
-msgstr "Configuración IPv6"
+msgstr "Configuración IPv6"#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:196
 msgid "IPv6 only"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/containers-view.jsx:128 pkg/docker/containers-view.jsx:408
 #: pkg/machines/components/diskEdit.jsx:34
 msgid "Id"
-msgstr "Id"
+msgstr "Id"#TODO
 
 #: pkg/networkmanager/interfaces.js:2886
 msgid "Id $id"
-msgstr "Id $id"
+msgstr "Id $id"#TODO
 
 #: pkg/docker/index.html:149
 msgid "Id:"
-msgstr "Id:"
+msgstr "Id:"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:333
 msgid "If tang-show-keys is not available, run the following:"
-msgstr "Si tang-show-keys no está disponible, ejecuta lo siguiente:"
+msgstr "Si tang-show-keys no está disponible, ejecuta lo siguiente:"#TODO
 
 #: pkg/networkmanager/interfaces.js:1957 pkg/packagekit/updates.jsx:501
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignorar"#TODO
 
 #: pkg/docker/index.html:270 pkg/docker/index.html:433
 #: pkg/docker/containers-view.jsx:131 pkg/docker/containers-view.jsx:359
 msgid "Image"
-msgstr "Imagén"
+msgstr "Imagén"#TODO
 
 #: pkg/docker/image.js:73
 msgid "Image $0"
-msgstr "Imagén $0"
+msgstr "Imagén $0"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/users/local.js:767
 msgid "Image Builder"
-msgstr "Creador de imágenes"
+msgstr "Creador de imágenes"#TODO
 
 #: pkg/docker/index.html:580
 msgid "Image Search"
-msgstr "Buscar Imagen"
+msgstr "Buscar Imagen"#TODO
 
 #: pkg/docker/index.html:157
 msgid "Image:"
-msgstr "Imagen:"
+msgstr "Imagen:"#TODO
 
 #: pkg/docker/containers-view.jsx:715
 msgid "Images"
-msgstr "Imágenes"
+msgstr "Imágenes"#TODO
 
 #: pkg/docker/image.js:40
 msgctxt "page-title"
 msgid "Images"
-msgstr "Imágenes"
+msgstr "Imágenes"#TODO
 
 #: pkg/docker/containers-view.jsx:109
 msgid "Images and running containers"
-msgstr "Imágenes y contenedores corriendo"
+msgstr "Imágenes y contenedores corriendo"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:799
 msgid "Immediately Start VM"
-msgstr "Iniciar Inmediatamente VM"
+msgstr "Iniciar Inmediatamente VM"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:884
 msgid "Import VM"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/mdraid-details.jsx:95
 msgid "In Sync"
-msgstr "En Sincronía"
+msgstr "En Sincronía"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:240
 msgid ""
 "In most configurations, macvtap does not work for host to guest network "
 "communication."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-sync-users.html:52
 msgid ""
@@ -3427,382 +3427,382 @@ msgid ""
 "{{#strong}}{{host}}{{/strong}}."
 msgstr ""
 "Con el objetivo de sincronizar usuarios, necesita acceder a "
-"{{#strong}}{{host}}{{/strong}}."
+"{{#strong}}{{host}}{{/strong}}."#TODO
 
 #: pkg/networkmanager/interfaces.js:828 pkg/networkmanager/interfaces.js:1398
 #: pkg/networkmanager/interfaces.js:1405 pkg/networkmanager/interfaces.js:2588
 msgid "Inactive"
-msgstr "Inactivo"
+msgstr "Inactivo"#TODO
 
 #: pkg/storaged/content-views.jsx:653
 msgid "Inactive volume"
-msgstr "Volumen inactivo"
+msgstr "Volumen inactivo"#TODO
 
 #: pkg/networkmanager/firewall.jsx:700
 msgid "Included services"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-invalid-hostkey.html:2
 msgid "Incorrect Host Key"
-msgstr "Llave de Host Incorrecta"
+msgstr "Llave de Host Incorrecta"#TODO
 
 #: pkg/storaged/vdo-details.jsx:300 pkg/storaged/vdos-panel.jsx:106
 msgid "Index Memory"
-msgstr "Índice de Memoria"
+msgstr "Índice de Memoria"#TODO
 
 #: pkg/systemd/logs.html:62
 msgid "Info and above"
-msgstr "Información y arriba"
+msgstr "Información y arriba"#TODO
 
 #: pkg/docker/storage.jsx:313
 msgid "Information about the Docker storage pool is not available."
 msgstr ""
-"No hay información disponible sobre el grupo de almacenamiento de Docker."
+"No hay información disponible sobre el grupo de almacenamiento de Docker."#TODO
 
 #: pkg/packagekit/updates.jsx:458
 msgid "Initializing..."
-msgstr "Inicializando..."
+msgstr "Inicializando..."#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:164
 msgid "Initiator"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:175
 msgid "Initiator IQN should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/apps/application-list.jsx:83 pkg/apps/application.jsx:112
 #: pkg/lib/cockpit-components-install-dialog.jsx:118
 #: pkg/machines/components/vm/vmActions.jsx:98
 msgid "Install"
-msgstr "Instalar"
+msgstr "Instalar"#TODO
 
 #: pkg/packagekit/updates.jsx:838
 msgid "Install All Updates"
-msgstr "Instalar todas las Actualizaciones"
+msgstr "Instalar todas las Actualizaciones"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/nfs-panel.jsx:94
 msgid "Install NFS Support"
-msgstr "Instalar soporte para NFS"
+msgstr "Instalar soporte para NFS"#TODO
 
 #: pkg/packagekit/updates.jsx:838 pkg/packagekit/updates.jsx:844
 msgid "Install Security Updates"
-msgstr "Instalar Actualizaciones de Seguridad"
+msgstr "Instalar Actualizaciones de Seguridad"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:105
 msgid "Install Software"
-msgstr "Instalar software"
+msgstr "Instalar software"#TODO
 
 #: pkg/storaged/vdos-panel.jsx:44
 msgid "Install VDO Support"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:384
 msgid "Install setroubleshoot-server to troubleshoot SELinux events."
 msgstr ""
 "Instale «setroubleshoot-server» para solucionar problemas con sucesos de "
-"SELinux."
+"SELinux."#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:306
 msgid "Installation Source"
-msgstr "Fuente de la Instalación"
+msgstr "Fuente de la Instalación"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:152
 msgid "Installation Source must not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:284
 msgid "Installation Type"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/updates.jsx:60
 msgid "Installed"
-msgstr "Instalado"
+msgstr "Instalado"#TODO
 
 #: pkg/apps/application-list.jsx:48 pkg/apps/application.jsx:55
 #: pkg/packagekit/updates.jsx:52
 msgid "Installing"
-msgstr "Instalando"
+msgstr "Instalando"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:186
 msgid "Installing $0"
-msgstr "Instalando $0"
+msgstr "Instalando $0"#TODO
 
 #: pkg/systemd/service-details.jsx:488
 msgid "Instance of template: "
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/service-details.jsx:63
 msgid "Instantiate"
-msgstr "Instanciar"
+msgstr "Instanciar"#TODO
 
 #: pkg/machines/components/nicBody.jsx:128
 msgid "Interface Type"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:114 pkg/networkmanager/index.html:273
 #: pkg/networkmanager/firewall.jsx:162 pkg/networkmanager/firewall.jsx:706
 #: pkg/networkmanager/interfaces.js:2968
 msgid "Interfaces"
-msgstr "Interfaces"
+msgstr "Interfaces"#TODO
 
 #: src/ws/login.js:667
 msgid "Internal Error: Invalid challenge header"
-msgstr "Error Interno: Encabezado del reto no valido "
+msgstr "Error Interno: Encabezado del reto no valido "#TODO
 
 #: src/base1/cockpit.js:4042
 msgid "Internal error"
-msgstr "Error interno"
+msgstr "Error interno"#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:47
 #: pkg/machines/components/networks/createNetworkDialog.jsx:58
 #: pkg/machines/components/networks/createNetworkDialog.jsx:65
 msgid "Invalid IPv4 address"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:52
 msgid "Invalid IPv4 mask or prefix length"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:75
 #: pkg/machines/components/networks/createNetworkDialog.jsx:86
 #: pkg/machines/components/networks/createNetworkDialog.jsx:93
 msgid "Invalid IPv6 address"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:80
 msgid "Invalid IPv6 prefix"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/utils.js:90 pkg/networkmanager/utils.js:175
 msgid "Invalid address $0"
-msgstr "La dirección $0 no es válida"
+msgstr "La dirección $0 no es válida"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:928
 #: pkg/systemd/shutdown.js:154
 msgid "Invalid date format"
-msgstr "Formato de fecha inválido"
+msgstr "Formato de fecha inválido"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:924
 #: pkg/systemd/shutdown.js:150
 msgid "Invalid date format and invalid time format"
-msgstr "Formato de fecha y formato de hora inválidos "
+msgstr "Formato de fecha y formato de hora inválidos "#TODO
 
 #: pkg/systemd/init.js:1264
 msgid "Invalid date format."
-msgstr "El formato de fecha no es válido."
+msgstr "El formato de fecha no es válido."#TODO
 
 #: pkg/users/local.js:1255
 msgid "Invalid expiration date"
-msgstr "Fecha de expiración invalida"
+msgstr "Fecha de expiración invalida"#TODO
 
 #: pkg/lib/credentials.js:285
 msgid "Invalid file permissions"
-msgstr "Permisos de archivo invalidos"
+msgstr "Permisos de archivo invalidos"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:139
 msgid "Invalid filename"
-msgstr "Nobre de fichero no válido"
+msgstr "Nobre de fichero no válido"#TODO
 
 #: pkg/users/index.html:377
 msgid "Invalid key"
-msgstr "Llave inválida"
+msgstr "Llave inválida"#TODO
 
 #: pkg/networkmanager/utils.js:55
 msgid "Invalid metric $0"
-msgstr "La métrica $0 no es válida"
+msgstr "La métrica $0 no es válida"#TODO
 
 #: pkg/users/local.js:1331
 msgid "Invalid number of days"
-msgstr "Numero de días incorrecto."
+msgstr "Numero de días incorrecto."#TODO
 
 #: pkg/systemd/init.js:1211
 msgid "Invalid number."
-msgstr "El número no es válido."
+msgstr "El número no es válido."#TODO
 
 #: pkg/docker/run.js:269
 msgid "Invalid port"
-msgstr "Puerto invalido"
+msgstr "Puerto invalido"#TODO
 
 #: pkg/networkmanager/firewall.jsx:386
 msgid "Invalid port number"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/utils.js:41
 msgid "Invalid prefix $0"
-msgstr "El prefijo $0 no es válido"
+msgstr "El prefijo $0 no es válido"#TODO
 
 #: pkg/networkmanager/utils.js:136
 msgid "Invalid prefix or netmask $0"
-msgstr "El prefijo o la máscara de red $0 no es válido"
+msgstr "El prefijo o la máscara de red $0 no es válido"#TODO
 
 #: pkg/networkmanager/firewall.jsx:413
 msgid "Invalid range"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:926
 #: pkg/systemd/shutdown.js:152
 msgid "Invalid time format"
-msgstr "Formato de hora inválido"
+msgstr "Formato de hora inválido"#TODO
 
 #: pkg/systemd/index.html:88
 msgid "Invalid time zone"
-msgstr "El huso horario no es válido"
+msgstr "El huso horario no es válido"#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:80 pkg/storaged/iscsi-panel.jsx:169
 msgid "Invalid username or password"
-msgstr "Nombre de usuario o contraseña invalidos"
+msgstr "Nombre de usuario o contraseña invalidos"#TODO
 
 #: pkg/lib/machine-info.js:99
 msgid "IoT Gateway"
-msgstr "Pasarela IoT"
+msgstr "Pasarela IoT"#TODO
 
 #: pkg/lib/machine-change-port.html:15
 msgid "Is sshd running on a different port?"
-msgstr "¿sshd está corriendo en un puerto diferente?"
+msgstr "¿sshd está corriendo en un puerto diferente?"#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:108
 msgid "Isolated Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/jobs-panel.jsx:186
 msgid "Jobs"
-msgstr "Trabajos"
+msgstr "Trabajos"#TODO
 
 #: pkg/realmd/operation.js:119
 msgid "Join"
-msgstr "Unirse"
+msgstr "Unirse"#TODO
 
 #: pkg/realmd/operation.js:602
 msgid "Join Domain"
-msgstr "Unirse a Dominio"
+msgstr "Unirse a Dominio"#TODO
 
 #: pkg/realmd/operation.js:118
 msgid "Join a Domain"
-msgstr "Unirse a un dominio"
+msgstr "Unirse a un dominio"#TODO
 
 #: pkg/realmd/operation.js:510
 msgid "Joining this domain is not supported"
-msgstr "Unirse a este dominio no esta soportado"
+msgstr "Unirse a este dominio no esta soportado"#TODO
 
 #: pkg/systemd/service-details.jsx:437
 msgid "Joins Namespace Of"
-msgstr "Se une a Namespace de"
+msgstr "Se une a Namespace de"#TODO
 
 #: pkg/systemd/logs.html:23
 msgid "Journal"
-msgstr "Bitacora"
+msgstr "Bitacora"#TODO
 
 #: pkg/systemd/logs.js:443
 msgid "Journal entry"
-msgstr "Bitacora de entradas"
+msgstr "Bitacora de entradas"#TODO
 
 #: pkg/systemd/logs.js:481
 msgid "Journal entry not found"
-msgstr "Entrada de bitacora no encontrada"
+msgstr "Entrada de bitacora no encontrada"#TODO
 
 #: pkg/kdump/kdump-view.jsx:462
 msgid ""
 "Kdump service not installed. Please ensure package kexec-tools is installed."
 msgstr ""
 "No se ha instalado el servicio Kdump. Asegúrese de que esté instalado el "
-"paquete «kexec-tools»."
+"paquete «kexec-tools»."#TODO
 
 #: pkg/networkmanager/index.html:733
 msgid "Keep connection"
-msgstr "Mantener la conexión"
+msgstr "Mantener la conexión"#TODO
 
 #: pkg/lib/machine-auth-failed.html:10
 msgid "Kerberos Based SSO"
-msgstr "SSO Basado en Kerberos"
+msgstr "SSO Basado en Kerberos"#TODO
 
 #: pkg/lib/machine-change-auth.html:69
 msgid "Kerberos Ticket"
-msgstr "Tiquete Kerberos"
+msgstr "Tiquete Kerberos"#TODO
 
 #: pkg/systemd/graphs.html:142 pkg/systemd/graphs.js:298
 msgid "Kernel"
-msgstr "Kernel"
+msgstr "Kernel"#TODO
 
 #: pkg/kdump/index.html:23 pkg/kdump/manifest.json.in
 msgid "Kernel Dump"
-msgstr "Volcado del Kernel"
+msgstr "Volcado del Kernel"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:576
 msgid "Key slots with unknown types can not be edited here"
-msgstr "Las ranuras clave con tipos desconocidos no se pueden editar aquí"
+msgstr "Las ranuras clave con tipos desconocidos no se pueden editar aquí"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:204
 msgid "Key source"
-msgstr "Fuente clave"
+msgstr "Fuente clave"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:599
 msgid "Keys"
-msgstr "Claves"
+msgstr "Claves"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:570
 msgid "Keyserver"
-msgstr "Servidor de claves"
+msgstr "Servidor de claves"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:228 pkg/storaged/crypto-keyslots.jsx:278
 msgid "Keyserver address"
-msgstr "Dirección del servidor de claves"
+msgstr "Dirección del servidor de claves"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:424
 msgid "Keyserver removal may prevent unlocking $0."
-msgstr "La eliminación de Keyserver puede evitar el desbloqueo $0."
+msgstr "La eliminación de Keyserver puede evitar el desbloqueo $0."#TODO
 
 #: pkg/networkmanager/index.html:384
 msgid "LACP Key"
-msgstr "Clave de LACP"
+msgstr "Clave de LACP"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:66
 msgid "LVM Volume Group"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-info.js:75
 msgid "Laptop"
-msgstr "Sobremesa"
+msgstr "Sobremesa"#TODO
 
 #: pkg/systemd/logs.html:44
 msgid "Last 24 hours"
-msgstr "Ultimas 24 horas"
+msgstr "Ultimas 24 horas"#TODO
 
 #: pkg/systemd/logs.html:45
 msgid "Last 7 days"
-msgstr "Ultimos 7 dias"
+msgstr "Ultimos 7 dias"#TODO
 
 #: pkg/users/index.html:100
 msgid "Last Login"
-msgstr "Último inicio de sesión"
+msgstr "Último inicio de sesión"#TODO
 
 #: pkg/systemd/init.js:311
 msgid "Last Trigger"
-msgstr "Última ejecución"
+msgstr "Última ejecución"#TODO
 
 #: pkg/packagekit/updates.jsx:180
 msgid "Last checked: $0 ago"
-msgstr "Ultima revisión: $0 atrás"
+msgstr "Ultima revisión: $0 atrás"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:128
 msgid "Launch Remote Viewer"
-msgstr "Lanzar Visualizador remoto"
+msgstr "Lanzar Visualizador remoto"#TODO
 
 #: pkg/realmd/operation.html:24 pkg/realmd/operation.html:28
 msgid "Leave Domain"
-msgstr "Abandonar el dominio"
+msgstr "Abandonar el dominio"#TODO
 
 #: pkg/dashboard/index.html:149
 msgid ""
@@ -3812,7 +3812,7 @@ msgid ""
 msgstr ""
 "Déjelo vacío para conectar con este equipo como el usuario cuya sesión está "
 "iniciada actualmente. Si proporciona un nombre de usuario distinto, siempre "
-"se utilizará ese usuario cuando se conecte con esta máquina."
+"se utilizará ese usuario cuando se conecte con esta máquina."#TODO
 
 #: pkg/lib/machine-change-auth.html:23
 msgid ""
@@ -3824,316 +3824,316 @@ msgstr ""
 "Déjelo en blanco para conectarse a esta máquina como el usuario actualmente "
 "conectado {{#default_user}} ({{default_user}}){{/default_user}}. Si usted "
 "introduce un nombre de usuario diferente, se usará siempre ese usuario para "
-"conectarse a esta máquina."
+"conectarse a esta máquina."#TODO
 
 #: pkg/shell/index.html:91
 msgid "Licensed under:"
-msgstr "Disponible según los términos de:"
+msgstr "Disponible según los términos de:"#TODO
 
 #: pkg/systemd/terminal.jsx:101
 msgid "Light"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:301
 msgid "Link Monitoring"
-msgstr "Monitorear enlace"
+msgstr "Monitorear enlace"#TODO
 
 #: pkg/networkmanager/index.html:345
 msgid "Link Watch"
-msgstr "Enlace para ver"
+msgstr "Enlace para ver"#TODO
 
 #: pkg/networkmanager/index.html:318 pkg/networkmanager/index.html:362
 msgid "Link down delay"
-msgstr "Desvincular demora"
+msgstr "Desvincular demora"#TODO
 
 #: pkg/networkmanager/interfaces.js:1945 pkg/networkmanager/interfaces.js:1955
 msgid "Link local"
-msgstr "Enlace local"
+msgstr "Enlace local"#TODO
 
 #: pkg/docker/index.html:499
 msgid "Link to another container"
-msgstr "Enlazar con otro contenedor"
+msgstr "Enlazar con otro contenedor"#TODO
 
 #: pkg/networkmanager/index.html:314 pkg/networkmanager/index.html:358
 msgid "Link up delay"
-msgstr "Vincular demora"
+msgstr "Vincular demora"#TODO
 
 #: pkg/docker/index.html:495
 msgid "Links"
-msgstr "Vinculos"
+msgstr "Vinculos"#TODO
 
 #: pkg/docker/index.html:196
 msgid "Links:"
-msgstr "Enlaces:"
+msgstr "Enlaces:"#TODO
 
 #: pkg/networkmanager/interfaces.js:1981
 msgid "Load Balancing"
-msgstr "Equilibrio de carga"
+msgstr "Equilibrio de carga"#TODO
 
 #: pkg/systemd/logs.js:161
 msgid "Load earlier entries"
-msgstr "Cargar entradas anteriores"
+msgstr "Cargar entradas anteriores"#TODO
 
 #: pkg/machines/components/libvirtSlate.jsx:89
 msgid "Loading Resources"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/updates.jsx:47
 msgid "Loading available updates failed"
-msgstr "Fallo la carga de  las actualizaciones disponibles "
+msgstr "Fallo la carga de  las actualizaciones disponibles "#TODO
 
 #: pkg/packagekit/updates.jsx:40
 msgid "Loading available updates, please wait..."
-msgstr "Leyendo actualizaciones disponibles, por favor espere..."
+msgstr "Leyendo actualizaciones disponibles, por favor espere..."#TODO
 
 #: pkg/lib/cockpit-components-modifications.jsx:145
 msgid "Loading system modifications..."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:77 pkg/kdump/kdump-view.jsx:370
 #: pkg/machines/components/serialConsole.jsx:65 pkg/storaged/devices.jsx:65
 #: pkg/systemd/logs.js:233
 msgid "Loading..."
-msgstr "Cargando..."
+msgstr "Cargando..."#TODO
 
 #: pkg/users/index.html:23
 msgid "Local Accounts"
-msgstr "Cuentas Locales"
+msgstr "Cuentas Locales"#TODO
 
 #: pkg/docker/storage.jsx:200
 msgid "Local Disks"
-msgstr "Discos locales"
+msgstr "Discos locales"#TODO
 
 #: pkg/kdump/kdump-view.jsx:136
 msgid "Local Filesystem"
-msgstr "Sistema de archivos local"
+msgstr "Sistema de archivos local"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:292
 msgid "Local Install Media"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:160
 msgid "Local Mount Point"
-msgstr "Punto de Montaje Local"
+msgstr "Punto de Montaje Local"#TODO
 
 #: pkg/kdump/kdump-view.jsx:145
 msgid "Location"
-msgstr "Ubicación"
+msgstr "Ubicación"#TODO
 
 #: pkg/storaged/content-views.jsx:252
 msgid "Lock"
-msgstr "Bloquear"
+msgstr "Bloquear"#TODO
 
 #: pkg/users/index.html:109 pkg/users/index.html:193
 msgid "Lock Account"
-msgstr "Bloquear Cuenta"
+msgstr "Bloquear Cuenta"#TODO
 
 #: pkg/users/local.js:897 pkg/users/local.js:1236
 msgid "Lock account on $0"
-msgstr "Cuenta bloqueada en $0"
+msgstr "Cuenta bloqueada en $0"#TODO
 
 #: pkg/lib/machine-change-auth.html:76
 msgid "Locked"
-msgstr "Bloqueado"
+msgstr "Bloqueado"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:38
 msgid "Locking $target"
-msgstr "Bloquendo $target"
+msgstr "Bloquendo $target"#TODO
 
 #: pkg/lib/machine-change-auth.html:92 src/ws/login.html:84
 #: src/ws/login.js:516
 msgid "Log In"
-msgstr "Iniciar sesión"
+msgstr "Iniciar sesión"#TODO
 
 #: pkg/shell/index.html:71
 msgid "Log Out"
-msgstr "Salir"
+msgstr "Salir"#TODO
 
 #: pkg/lib/machine-change-auth.html:4
 msgid "Log in to {{host}}"
-msgstr "Iniciar sesión en {{host}}"
+msgstr "Iniciar sesión en {{host}}"#TODO
 
 #: src/ws/login.js:542
 msgid "Log in with your server user account."
-msgstr "Acceda con su cuenta de usuario del servidor."
+msgstr "Acceda con su cuenta de usuario del servidor."#TODO
 
 #: pkg/systemd/index.html:52
 msgid "Log messages"
-msgstr "Mensajes de registro"
+msgstr "Mensajes de registro"#TODO
 
 #: pkg/users/local.js:979
 msgid "Logged In"
-msgstr "Sesión iniciada"
+msgstr "Sesión iniciada"#TODO
 
 #: pkg/storaged/vdo-details.jsx:288
 msgid "Logical"
-msgstr "Logico"
+msgstr "Logico"#TODO
 
 #: pkg/storaged/vdo-details.jsx:218 pkg/storaged/vdos-panel.jsx:99
 msgid "Logical Size"
-msgstr "Tamaño Lógico"
+msgstr "Tamaño Lógico"#TODO
 
 #: pkg/storaged/utils.js:198
 msgid "Logical Volume"
-msgstr "Volumen Lógico"
+msgstr "Volumen Lógico"#TODO
 
 #: pkg/storaged/utils.js:196
 msgid "Logical Volume (Snapshot)"
-msgstr "Volumen Lógico(Captura)"
+msgstr "Volumen Lógico(Captura)"#TODO
 
 #: pkg/storaged/utils.js:270
 msgid "Logical Volume of $0"
-msgstr "Volumen lógico de $0"
+msgstr "Volumen lógico de $0"#TODO
 
 #: src/ws/login.js:310
 msgid "Login Again"
-msgstr "Acceda de Nuevo"
+msgstr "Acceda de Nuevo"#TODO
 
 #: pkg/realmd/operation.html:14
 msgid "Login Format"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-change-auth.html:68
 msgid "Login Password"
-msgstr "Contraseña de inicio de sesión"
+msgstr "Contraseña de inicio de sesión"#TODO
 
 #: src/base1/cockpit.js:4032
 msgid "Login failed"
-msgstr "Inicio de sesión fallido"
+msgstr "Inicio de sesión fallido"#TODO
 
 #: pkg/shell/index.html:36
 msgid "Login has escalated admin privileges"
-msgstr "El inicio de sesión ha aumentado los privilegios de administrador"
+msgstr "El inicio de sesión ha aumentado los privilegios de administrador"#TODO
 
 #: src/ws/login.js:311
 msgid "Logout Successful"
-msgstr "Logout Exitoso"
+msgstr "Logout Exitoso"#TODO
 
 #: pkg/systemd/logs.html:82 pkg/systemd/manifest.json.in
 msgid "Logs"
-msgstr "Registros"
+msgstr "Registros"#TODO
 
 #: pkg/dashboard/index.html:112
 msgid "Lost connection. Trying to reconnect"
-msgstr "Conexión perdida. Intentando conectarse nuevamente"
+msgstr "Conexión perdida. Intentando conectarse nuevamente"#TODO
 
 #: pkg/lib/machine-info.js:70
 msgid "Low Profile Desktop"
-msgstr "Escritorio de Perfil Bajo"
+msgstr "Escritorio de Perfil Bajo"#TODO
 
 #: pkg/lib/machine-info.js:82
 msgid "Lunch Box"
-msgstr "Loncheras"
+msgstr "Loncheras"#TODO
 
 #: pkg/networkmanager/index.html:199 pkg/networkmanager/index.html:278
 #: pkg/machines/components/vm/bootOrderModal.jsx:103
 msgid "MAC"
-msgstr "MAC"
+msgstr "MAC"#TODO
 
 #: pkg/machines/components/nicAdd.jsx:40
 #: pkg/machines/components/nicEdit.jsx:43
 #: pkg/machines/components/vmnetworktab.jsx:160
 msgid "MAC Address"
-msgstr "Dirección MAC"
+msgstr "Dirección MAC"#TODO
 
 #: pkg/docker/index.html:188
 msgid "MAC Address:"
-msgstr "Dirección MAC:"
+msgstr "Dirección MAC:"#TODO
 
 #: pkg/networkmanager/interfaces.js:1973
 msgid "MII (Recommended)"
-msgstr "MII (Recomendado)"
+msgstr "MII (Recomendado)"#TODO
 
 #: pkg/networkmanager/interfaces.js:2743
 msgid "MTU"
-msgstr "MTU"
+msgstr "MTU"#TODO
 
 #: pkg/networkmanager/interfaces.js:4542
 msgid "MTU must be a positive number"
-msgstr "El MTU debe ser un número positivo"
+msgstr "El MTU debe ser un número positivo"#TODO
 
 #: pkg/systemd/overview-cards/systemInformationCard.jsx:104
 msgid "Machine ID"
-msgstr "Id. de máquina"
+msgstr "Id. de máquina"#TODO
 
 #: pkg/systemd/index.html:151
 msgid "Machine SSH Key Fingerprints"
-msgstr "Huellas de clave SSH de la máquina"
+msgstr "Huellas de clave SSH de la máquina"#TODO
 
 #: pkg/shell/indexes.js:539
 msgid "Machines"
-msgstr "Maquinas"
+msgstr "Maquinas"#TODO
 
 #: pkg/lib/machine-info.js:83
 msgid "Main Server Chassis"
-msgstr "Chasis del Servidor Principal"
+msgstr "Chasis del Servidor Principal"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:327
 msgid "Make sure the key hash from the Tang server matches:"
-msgstr "Asegúrese de que la clave hash del servidor Tang coincida:"
+msgstr "Asegúrese de que la clave hash del servidor Tang coincida:"#TODO
 
 #: pkg/networkmanager/interfaces.js:1946 pkg/networkmanager/interfaces.js:1956
 msgid "Manual"
-msgstr "Manual"
+msgstr "Manual"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:193
 msgid "Manual Connection"
-msgstr "Conexión Manual"
+msgstr "Conexión Manual"#TODO
 
 #: pkg/systemd/index.html:96 pkg/systemd/index.html:100
 msgid "Manually"
-msgstr "Manualmente"
+msgstr "Manualmente"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:330
 msgid "Manually check with SSH: "
-msgstr "Compruebe manualmente con SSH: "
+msgstr "Compruebe manualmente con SSH: "#TODO
 
 #: pkg/storaged/jobs-panel.jsx:60
 msgid "Marking $target as faulty"
-msgstr "Marcando $target como fallado"
+msgstr "Marcando $target como fallado"#TODO
 
 #: pkg/systemd/service-details.jsx:200 pkg/systemd/service-details.jsx:203
 msgid "Mask Service"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:279
 msgid "Mask or Prefix Length"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:50
 msgid "Mask or Prefix Length should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/service-details.jsx:324
 msgid "Masked"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/service-details.jsx:201
-msgid ""
+msgid ""#TODO
 "Masking service prevents all dependant units from running. This can have "
 "bigger impact than anticipated. Please confirm that you want to mask this "
 "unit."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2749
 msgid "Master"
-msgstr "Maestro"
+msgstr "Maestro"#TODO
 
 #: pkg/machines/components/vm/memoryModal.jsx:125
 msgid "Maximum Allocation"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:98
 msgid "Maximum Transmission Unit"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/vm/memoryModal.jsx:82
 msgid "Maximum memory could not be saved"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:2847
 msgid "Maximum message age $max_age"
-msgstr "Edad máxima del mensaje $max_age"
+msgstr "Edad máxima del mensaje $max_age"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -4141,15 +4141,15 @@ msgstr "Edad máxima del mensaje $max_age"
 msgid ""
 "Maximum number of virtual CPUs allocated for the guest OS, which must be "
 "between 1 and $0"
-msgstr "Número máximo de CPU virtuales asignadas al SO invitado, entre 1 y $0"
+msgstr "Número máximo de CPU virtuales asignadas al SO invitado, entre 1 y $0"#TODO
 
 #: pkg/storaged/content-views.jsx:367
 msgid "Member of RAID Device"
-msgstr "Miembro del dispositivo RAID"
+msgstr "Miembro del dispositivo RAID"#TODO
 
 #: pkg/storaged/content-views.jsx:363
 msgid "Member of RAID Device $0"
-msgstr "Miembro del dispositivo RAID $0"
+msgstr "Miembro del dispositivo RAID $0"#TODO
 
 #: pkg/dashboard/index.html:71 pkg/docker/index.html:273
 #: pkg/playground/translate.html:90 pkg/systemd/graphs.html:82
@@ -4158,237 +4158,237 @@ msgstr "Miembro del dispositivo RAID $0"
 #: pkg/machines/components/vmOverviewTab.jsx:74 pkg/systemd/hwinfo.jsx:270
 #: pkg/systemd/overview-cards/usageCard.jsx:78
 msgid "Memory"
-msgstr "Memoria"
+msgstr "Memoria"#TODO
 
 #: pkg/systemd/graphs.js:356
 msgctxt "page-title"
 msgid "Memory"
-msgstr "Memoria"
+msgstr "Memoria"#TODO
 
 #: pkg/systemd/graphs.html:83
 msgid "Memory & Swap"
-msgstr "Memoria e intercambio"
+msgstr "Memoria e intercambio"#TODO
 
 #: pkg/systemd/graphs.js:441
 msgid "Memory & Swap Usage"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/graphs.js:499
 msgid "Memory Graph"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/hwinfo.jsx:271
 msgid "Memory Technology"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/vm/memoryModal.jsx:86
 #: pkg/machines/components/vm/memoryModal.jsx:96
 msgid "Memory could not be saved"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:454 pkg/docker/index.html:626
 msgid "Memory limit"
-msgstr "Limite de Memoria "
+msgstr "Limite de Memoria "#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:156
 msgid "Memory must not be 0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:211
 msgid "Memory usage:"
-msgstr "Uso de memoria:"
+msgstr "Uso de memoria:"#TODO
 
 #: pkg/systemd/shutdown.js:83
 msgid "Message to logged in users"
-msgstr "Mensaje para usuarios activos "
+msgstr "Mensaje para usuarios activos "#TODO
 
 #: pkg/shell/index.html:430
 msgid "Messages related to the failure might be found in the journal:"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:468
 msgid "Metadata Used"
-msgstr "Metadatos en uso"
+msgstr "Metadatos en uso"#TODO
 
 #: pkg/docker/index.html:468 pkg/docker/index.html:640
 #: pkg/machines/components/memorySelectRow.jsx:84
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:95
 msgid "MiB"
-msgstr "MiB"
+msgstr "MiB"#TODO
 
 #: pkg/lib/machine-info.js:101
 msgid "Mini PC"
-msgstr "Mini PC"
+msgstr "Mini PC"#TODO
 
 #: pkg/lib/machine-info.js:72
 msgid "Mini Tower"
-msgstr "Mini Torre"
+msgstr "Mini Torre"#TODO
 
 #: pkg/systemd/init.js:1235 pkg/systemd/init.js:1244 pkg/systemd/init.js:1253
 msgid "Minute needs to be a number between 0-59"
-msgstr "El minuto debe ser un número comprendido entre 0 y 59"
+msgstr "El minuto debe ser un número comprendido entre 0 y 59"#TODO
 
 #: pkg/systemd/services.html:318
 msgid "Minutes"
-msgstr "Minutos"
+msgstr "Minutos"#TODO
 
 #: pkg/systemd/hwinfo.jsx:57
 msgid "Mitigations"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:291
 msgid "Mode"
-msgstr "Modo"
+msgstr "Modo"#TODO
 
 #: pkg/machines/components/nicBody.jsx:44 pkg/systemd/hwinfo.jsx:258
 #: pkg/systemd/overview-cards/systemInformationCard.jsx:92
 msgid "Model"
-msgstr "Modelo"
+msgstr "Modelo"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:150
 msgid "Model type"
-msgstr "Modelo tipo"
+msgstr "Modelo tipo"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:39 pkg/storaged/jobs-panel.jsx:45
 #: pkg/storaged/jobs-panel.jsx:52
 msgid "Modifying $target"
-msgstr "Modificando $target"
+msgstr "Modificando $target"#TODO
 
 #: pkg/systemd/services.html:126
 msgid "Monday"
-msgstr "Lunes"
+msgstr "Lunes"#TODO
 
 #: pkg/packagekit/autoupdates.jsx:321
 msgid "Mondays"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:306
 msgid "Monitoring Interval"
-msgstr "Monitorear intervalo"
+msgstr "Monitorear intervalo"#TODO
 
 #: pkg/networkmanager/index.html:310
 msgid "Monitoring Targets"
-msgstr "Monitorear objetivos"
+msgstr "Monitorear objetivos"#TODO
 
 #: pkg/realmd/operation.js:534
 msgid "More"
-msgstr "Más"
+msgstr "Más"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:102
 #: pkg/machines/components/desktopConsole.jsx:110
 msgid "More Information"
-msgstr "Mas información"
+msgstr "Mas información"#TODO
 
 #: pkg/kdump/kdump-view.jsx:451
 msgid "More details"
-msgstr "Más detalles"
+msgstr "Más detalles"#TODO
 
 #: pkg/kdump/kdump-view.jsx:99 pkg/storaged/content-views.jsx:339
 #: pkg/storaged/fsys-tab.jsx:268 pkg/storaged/nfs-details.jsx:302
 msgid "Mount"
-msgstr "Montar"
+msgstr "Montar"#TODO
 
 #: pkg/storaged/fsys-tab.jsx:264
 msgid "Mount Configuration"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:262
 msgid "Mount Filesystem"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/format-dialog.jsx:236 pkg/storaged/fsys-tab.jsx:233
 #: pkg/storaged/nfs-details.jsx:171
 msgid "Mount Options"
-msgstr "Opciones de Montaje"
+msgstr "Opciones de Montaje"#TODO
 
 #: pkg/storaged/format-dialog.jsx:230 pkg/storaged/fsys-panel.jsx:95
 #: pkg/storaged/fsys-tab.jsx:228 pkg/storaged/fsys-tab.jsx:496
 #: pkg/storaged/nfs-details.jsx:319 pkg/storaged/nfs-panel.jsx:103
 msgid "Mount Point"
-msgstr "Punto de Montaje"
+msgstr "Punto de Montaje"#TODO
 
 #: pkg/storaged/fsys-tab.jsx:466
 msgid "Mount also automatically on boot"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:174
 msgid "Mount at boot"
-msgstr "Montar en el arranque"
+msgstr "Montar en el arranque"#TODO
 
 #: pkg/storaged/fsys-tab.jsx:458 pkg/storaged/fsys-tab.jsx:470
 msgid "Mount automatically on $0 on boot"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:521
 msgid "Mount container volumes"
-msgstr "Montar volúmenes de contenedores"
+msgstr "Montar volúmenes de contenedores"#TODO
 
 #: pkg/storaged/format-dialog.jsx:245 pkg/storaged/fsys-tab.jsx:463
 msgid "Mount now"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:459
 msgid "Mount on $0 now"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:83
 msgid "Mount point cannot be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:165
 msgid "Mount point cannot be empty."
-msgstr "El punto de montaje no puede estar vacío."
+msgstr "El punto de montaje no puede estar vacío."#TODO
 
 #: pkg/storaged/fsys-tab.jsx:87
 msgid "Mount point is already used for $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:167
 msgid "Mount point must start with \"/\"."
-msgstr "El punto de montaje debe empezar con \"/\"."
+msgstr "El punto de montaje debe empezar con \"/\"."#TODO
 
 #: pkg/storaged/format-dialog.jsx:246 pkg/storaged/fsys-tab.jsx:240
 #: pkg/storaged/nfs-details.jsx:175
 msgid "Mount read only"
-msgstr "Montar en sólo lectura"
+msgstr "Montar en sólo lectura"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:43
 msgid "Mounting $target"
-msgstr "Montando $target"
+msgstr "Montando $target"#TODO
 
 #: pkg/lib/machine-info.js:91
 msgid "Multi-system Chassis"
-msgstr "Chasis Multisistema"
+msgstr "Chasis Multisistema"#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:93
 msgid "NAT to $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:136
 msgid "NFS Mount"
-msgstr "Montar NFS"
+msgstr "Montar NFS"#TODO
 
 #: pkg/storaged/nfs-panel.jsx:90 pkg/storaged/nfs-panel.jsx:97
 msgid "NFS Mounts"
-msgstr "Montajes NFS"
+msgstr "Montajes NFS"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/nfs-panel.jsx:93
 msgid "NFS Support not installed"
-msgstr "No está instalado el soporte para NFS"
+msgstr "No está instalado el soporte para NFS"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:121
 msgid "NIC $0 of VM $1 failed to change state"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:1996
 msgid "NSNA Ping"
-msgstr "«Ping» de NSNA"
+msgstr "«Ping» de NSNA"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:997
 msgid "NTP Server"
-msgstr "Servidor NTP"
+msgstr "Servidor NTP"#TODO
 
 #: pkg/docker/index.html:269 pkg/networkmanager/index.html:125
 #: pkg/networkmanager/index.html:143 pkg/networkmanager/index.html:172
@@ -4414,356 +4414,356 @@ msgstr "Servidor NTP"
 #: pkg/storaged/vgroups-panel.jsx:74 pkg/systemd/hwinfo.jsx:70
 #: pkg/systemd/init.js:308
 msgid "Name"
-msgstr "Nombre"
+msgstr "Nombre"#TODO
 
 #: pkg/storaged/vdos-panel.jsx:87
 msgid "Name can not be empty."
-msgstr "Nombre no puede estar vacío."
+msgstr "Nombre no puede estar vacío."#TODO
 
 #: pkg/storaged/utils.js:131
 msgid "Name cannot be empty."
-msgstr "El nombre no puede estar vacío."
+msgstr "El nombre no puede estar vacío."#TODO
 
 #: pkg/storaged/utils.js:159
 msgid "Name cannot be longer than $0 bytes"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/utils.js:157
 msgid "Name cannot be longer than $0 characters"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/utils.js:133
 msgid "Name cannot be longer than 127 characters."
-msgstr "El nombre no puede superar los 127 caracteres."
+msgstr "El nombre no puede superar los 127 caracteres."#TODO
 
 #: pkg/storaged/utils.js:137
 msgid "Name cannot contain the character '$0'."
-msgstr "El nombre no puede contener el carácter «$0»."
+msgstr "El nombre no puede contener el carácter «$0»."#TODO
 
 #: pkg/storaged/utils.js:139
 msgid "Name cannot contain whitespace."
-msgstr "El nombre no puede contener espacios."
+msgstr "El nombre no puede contener espacios."#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:123
 msgid "Name must not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:41
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:53
 msgid "Name should not be empty"
-msgstr "El nombre no debería estar vacío"
+msgstr "El nombre no debería estar vacío"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:36
 msgid "Name: "
-msgstr "Nombre: "
+msgstr "Nombre: "#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:824
 msgid "Need at least one NTP server"
-msgstr "Se requiere al menos un servidor NTP"
+msgstr "Se requiere al menos un servidor NTP"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:114
 msgid "Netmask"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/aggregateStatusCards.jsx:72
 #, fuzzy
 msgid "Network"
 msgid_plural "Networks"
-msgstr[0] "Red"
+msgstr[0] "Red"#TODO
 
 #: pkg/dashboard/index.html:72
 msgctxt "label"
 msgid "Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/network.jsx:119
 msgid "Network $0 failed to get activated"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/network.jsx:131
 msgid "Network $0 failed to get deactivated"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:298
 msgid "Network Boot (PXE)"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:295
 msgid "Network Boot is available only when using System connection"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:63
 msgid "Network File System"
-msgstr "Sistema de archivos de red"
+msgstr "Sistema de archivos de red"#TODO
 
 #: pkg/machines/components/vm/vm.jsx:52
 msgid "Network Interfaces"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:246
 msgid "Network Selection does not support PXE."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/graphs.js:75
 msgid "Network Traffic"
-msgstr "Tránsito de redes"
+msgstr "Tránsito de redes"#TODO
 
 #: pkg/networkmanager/index.html:56
 msgid "Network devices and graphs require NetworkManager."
-msgstr "Los dispositivos y gráficos de red requieren NetworkManager."
+msgstr "Los dispositivos y gráficos de red requieren NetworkManager."#TODO
 
 #: pkg/machines/components/nicAdd.jsx:148
 #: pkg/machines/components/nicEdit.jsx:118
 msgid "Network interface settings could not be saved"
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/networkmanager/index.html:47
 msgid "NetworkManager is not running."
-msgstr "NetworkManager no está funcionando."
+msgstr "NetworkManager no está funcionando."#TODO
 
 #: pkg/networkmanager/index.html:23 pkg/networkmanager/index.html:392
 #: pkg/networkmanager/firewall.jsx:947 pkg/networkmanager/manifest.json.in
 msgid "Networking"
-msgstr "Redes"
+msgstr "Redes"#TODO
 
 #: pkg/networkmanager/interfaces.js:1612 pkg/networkmanager/interfaces.js:2195
 msgctxt "page-title"
 msgid "Networking"
-msgstr "Redes"
+msgstr "Redes"#TODO
 
 #: pkg/networkmanager/index.html:155
 msgid "Networking Logs"
-msgstr "Registros de redes"
+msgstr "Registros de redes"#TODO
 
 #: pkg/machines/components/networks/networkList.jsx:50
 #: pkg/machines/components/networks/networkList.jsx:54
 msgid "Networks"
-msgstr "Redes"
+msgstr "Redes"#TODO
 
 #: pkg/users/local.js:981
 msgid "Never"
-msgstr "Nunca"
+msgstr "Nunca"#TODO
 
 #: pkg/users/index.html:297 pkg/users/local.js:886
 msgid "Never expire password"
-msgstr "La clave nunca expira"
+msgstr "La clave nunca expira"#TODO
 
 #: pkg/users/index.html:258 pkg/users/local.js:894
 msgid "Never lock account"
-msgstr "Cuenta nunca bloqueada"
+msgstr "Cuenta nunca bloqueada"#TODO
 
 #: pkg/storaged/nfs-details.jsx:136
 msgid "New NFS Mount"
-msgstr "Nuevo Montaje NFS"
+msgstr "Nuevo Montaje NFS"#TODO
 
 #: pkg/shell/index.html:314 pkg/users/index.html:218
 msgid "New Password"
-msgstr "Nueva contraseña"
+msgstr "Nueva contraseña"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:39
 msgid "New Volume Name"
-msgstr "Nuevo nombre de volumen"
+msgstr "Nuevo nombre de volumen"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:214 pkg/storaged/crypto-keyslots.jsx:260
 msgid "New passphrase"
-msgstr "Nueva frase de acceso"
+msgstr "Nueva frase de acceso"#TODO
 
 #: pkg/lib/credentials.js:237 pkg/users/local.js:139
 msgid "New password was not accepted"
-msgstr "Nueva contraseña no fue aceptada"
+msgstr "Nueva contraseña no fue aceptada"#TODO
 
 #: pkg/realmd/operation.html:84 pkg/storaged/iscsi-panel.jsx:50
 msgid "Next"
-msgstr "Siguiente"
+msgstr "Siguiente"#TODO
 
 #: pkg/systemd/init.js:310
 msgid "Next Run"
-msgstr "En la próxima ejecución"
+msgstr "En la próxima ejecución"#TODO
 
 #: pkg/systemd/graphs.html:134 pkg/systemd/graphs.js:300
 msgid "Nice"
-msgstr "Bien"
+msgstr "Bien"#TODO
 
 #: pkg/docker/index.html:544 pkg/docker/index.html:548 pkg/docker/run.js:239
 #: pkg/docker/util.js:103 pkg/networkmanager/interfaces.js:2576
 #: pkg/systemd/reporting.jsx:270
 msgid "No"
-msgstr "No"
+msgstr "No"#TODO
 
 #: pkg/systemd/index.html:193
 msgid "No Delay"
-msgstr "Sin retardo"
+msgstr "Sin retardo"#TODO
 
 #: pkg/storaged/things-panel.jsx:81
 msgid "No Devices"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/format-dialog.jsx:156
 msgid "No Filesystem"
-msgstr "Ningún Sistema de Archivos"
+msgstr "Ningún Sistema de Archivos"#TODO
 
 #: pkg/storaged/content-views.jsx:762
 msgid "No Logical Volumes"
-msgstr "No hay ningún volumen lógico"
+msgstr "No hay ningún volumen lógico"#TODO
 
 #: pkg/systemd/logs.js:159 pkg/systemd/logs.js:181 pkg/systemd/logs.js:345
 msgid "No Logs Found"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:83
 msgid "No Matching Results"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-panel.jsx:100
 msgid "No NFS mounts set up"
-msgstr "Sin ajustes de montaje NFS"
+msgstr "Sin ajustes de montaje NFS"#TODO
 
 #: pkg/machines/components/nicBody.jsx:114
 msgid "No Network Devices"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:370
 msgid "No SELinux alerts."
-msgstr "No hay ninguna alerta de SELinux."
+msgstr "No hay ninguna alerta de SELinux."#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:439
 msgid "No Storage"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/diskAdd.jsx:133
 #: pkg/machines/components/diskAdd.jsx:145
 msgid "No Storage Pools available"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/storagePoolVolumesTab.jsx:115
 msgid "No Storage Volumes defined for this Storage Pool"
 msgstr ""
 "No hay volúmenes de almacenamiento definidos para este grupo de "
-"almacenamiento"
+"almacenamiento"#TODO
 
 #: pkg/lib/cockpit-components-modifications.jsx:138
 msgid "No System Modifications"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/hostvmslist.jsx:85
 msgid "No VM is running or defined on this host"
-msgstr "No hay ninguna MV en ejecución o definida en este anfitrión"
+msgstr "No hay ninguna MV en ejecución o definida en este anfitrión"#TODO
 
 #: pkg/machines/components/nicBody.jsx:112
 msgid "No Virtual Networks"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/storage.jsx:208
 msgid "No additional local storage found."
-msgstr "No se encontró ningún almacenamiento local adicional."
+msgstr "No se encontró ningún almacenamiento local adicional."#TODO
 
 #: pkg/docker/run.js:338
 msgid "No alias specified"
-msgstr "No se ha especificado un alias"
+msgstr "No se ha especificado un alias"#TODO
 
 #: pkg/apps/application-list.jsx:133
 msgid "No applications installed or available"
-msgstr "No hay aplicaciones instaladas o disponibles"
+msgstr "No hay aplicaciones instaladas o disponibles"#TODO
 
 #: pkg/sosreport/index.js:129
 msgid "No archive has been created."
-msgstr "No archive has been created."
+msgstr "No archive has been created."#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:589
 msgid "No available slots"
-msgstr "No hay ranuras disponibles"
+msgstr "No hay ranuras disponibles"#TODO
 
 #: pkg/machines/components/vmOverviewTabLibvirt.jsx:48
 msgid "No boot device found"
-msgstr "No encontrado dispositivo de arranque"
+msgstr "No encontrado dispositivo de arranque"#TODO
 
 #: pkg/networkmanager/interfaces.js:1400
 msgid "No carrier"
-msgstr "Ningún portador"
+msgstr "Ningún portador"#TODO
 
 #: pkg/kdump/kdump-view.jsx:399
 msgid "No configuration found"
-msgstr "No se encontró ninguna configuración"
+msgstr "No se encontró ninguna configuración"#TODO
 
 #: pkg/machines/components/consoles.jsx:97
 msgid "No console defined for this virtual machine."
-msgstr "No hay consola definida para esta máquina virtual."
+msgstr "No hay consola definida para esta máquina virtual."#TODO
 
 #: pkg/docker/run.js:372
 msgid "No container specified"
-msgstr "No se ha especificado un contenedor"
+msgstr "No se ha especificado un contenedor"#TODO
 
 #: pkg/docker/containers-view.jsx:369
 msgid "No containers"
-msgstr "No hay ningún contenedor"
+msgstr "No hay ningún contenedor"#TODO
 
 #: pkg/docker/containers-view.jsx:371
 msgid "No containers that match the current filter"
-msgstr "Ningún contenedor corresponde al filtro actual"
+msgstr "Ningún contenedor corresponde al filtro actual"#TODO
 
 #: pkg/networkmanager/firewall.jsx:697
 msgid "No description available"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/apps/application.jsx:79
 msgid "No description provided."
-msgstr "No se ha suministrado descripción."
+msgstr "No se ha suministrado descripción."#TODO
 
 #: pkg/storaged/mdraid-details.jsx:50 pkg/storaged/mdraids-panel.jsx:112
 #: pkg/storaged/vdos-panel.jsx:92 pkg/storaged/vgroup-details.jsx:56
 #: pkg/storaged/vgroups-panel.jsx:81
 msgid "No disks are available."
-msgstr "No hay discos disponibles."
+msgstr "No hay discos disponibles."#TODO
 
 #: pkg/machines/components/vmDisksTab.jsx:195
 msgid "No disks defined for this VM"
-msgstr "No se han definido discos para esta VM"
+msgstr "No se han definido discos para esta VM"#TODO
 
 #: pkg/storaged/drives-panel.jsx:103
 msgid "No drives attached"
-msgstr "No hay dispositivos adjuntos"
+msgstr "No hay dispositivos adjuntos"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:594
 msgid "No free key slots"
-msgstr "No hay ranuras clave gratis"
+msgstr "No hay ranuras clave gratis"#TODO
 
 #: pkg/storaged/content-views.jsx:747
 msgid "No free space"
-msgstr "No queda espacio disponible"
+msgstr "No queda espacio disponible"#TODO
 
 #: pkg/systemd/index.html:141
 msgid "No host keys found."
-msgstr "No se encontró ninguna clave de anfitrión."
+msgstr "No se encontró ninguna clave de anfitrión."#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:269
 msgid "No iSCSI targets set up"
-msgstr "Sin objetivos iSCSI ajustados"
+msgstr "Sin objetivos iSCSI ajustados"#TODO
 
 #: pkg/docker/containers-view.jsx:709
 msgid "No images"
-msgstr "No hay imágenes"
+msgstr "No hay imágenes"#TODO
 
 #: pkg/docker/containers-view.jsx:711
 msgid "No images that match the current filter"
-msgstr "No hay imágenes que correspondan al filtro actual"
+msgstr "No hay imágenes que correspondan al filtro actual"#TODO
 
 #: pkg/apps/utils.jsx:96
 msgid "No installation package found for this application."
-msgstr "No se ha encontrado paquete de instalación para esta aplicación."
+msgstr "No se ha encontrado paquete de instalación para esta aplicación."#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:533
 msgid "No keys added"
-msgstr "Sin llaves añadidas"
+msgstr "Sin llaves añadidas"#TODO
 
 #: pkg/storaged/drive-details.jsx:75
 msgid "No media inserted"
-msgstr "No hay media insertada"
+msgstr "No hay media insertada"#TODO
 
 #: pkg/kdump/kdump-view.jsx:453
 msgid ""
@@ -4773,210 +4773,210 @@ msgid ""
 msgstr ""
 "No se ha reservado memoria. Anexe una opción de «crashkernel» a la consola "
 "del núcleo (p. ej. en /etc/default/grub) para reservar memoria durante el "
-"arranque. Ejemplo: crashkernel=512M"
+"arranque. Ejemplo: crashkernel=512M"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:289
 msgid "No network interfaces defined for this VM"
-msgstr "No se han definido interfaces de red para esta VM"
+msgstr "No se han definido interfaces de red para esta VM"#TODO
 
 #: pkg/machines/components/networks/networkList.jsx:56
 msgid "No network is defined on this host"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:180
 msgid "No networks available"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/content-views.jsx:564
 msgid "No partitioning"
-msgstr "No particionar"
+msgstr "No particionar"#TODO
 
 #: pkg/users/local.js:453
 msgid "No real name specified"
-msgstr "Nombre real no especificado"
+msgstr "Nombre real no especificado"#TODO
 
 #: pkg/docker/search.js:146
 msgid "No results for $0"
-msgstr "No hay resultados para $0"
+msgstr "No hay resultados para $0"#TODO
 
 #: pkg/shell/indexes.js:524
 msgid "No results found"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/containers-view.jsx:364
 msgid "No running containers"
-msgstr "No hay contenedores corriendo"
+msgstr "No hay contenedores corriendo"#TODO
 
 #: pkg/docker/containers-view.jsx:366
 msgid "No running containers that match the current filter"
-msgstr "No hay contenedores corriendo que coincidan con el filtro actual"
+msgstr "No hay contenedores corriendo que coincidan con el filtro actual"#TODO
 
 #: pkg/machines/components/storagePools/storagePoolList.jsx:55
 msgid "No storage pool is defined on this host"
-msgstr "Ningún grupo de almacenamiento está definido en este host"
+msgstr "Ningún grupo de almacenamiento está definido en este host"#TODO
 
 #: pkg/lib/credentials.js:186
 msgid "No such file or directory"
-msgstr "No existe el archivo o directorio"
+msgstr "No existe el archivo o directorio"#TODO
 
 #: pkg/packagekit/updates.jsx:43
 msgid "No updates pending"
-msgstr "No hay actualizaciones pendientes"
+msgstr "No hay actualizaciones pendientes"#TODO
 
 #: pkg/users/local.js:448
 msgid "No user name specified"
-msgstr "Nombre de usuario no especificado"
+msgstr "Nombre de usuario no especificado"#TODO
 
 #: pkg/machines/components/networks/network.jsx:164
 msgid ""
 "Non-persistent network cannot be deleted. It ceases to exists when it's "
 "deactivated."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/storagePoolDelete.jsx:189
 msgid ""
 "Non-persistent storage pool cannot be deleted. It ceases to exists when it's"
 " deactivated."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/kdump/kdump-view.jsx:422
 #: pkg/machines/components/networks/createNetworkDialog.jsx:190
 #: pkg/networkmanager/firewall.jsx:702 pkg/tuned/dialog.js:232
 msgid "None"
-msgstr "Ninguno"
+msgstr "Ninguno"#TODO
 
 #: pkg/machines/helpers.js:231
 msgid "None (Isolated Network)"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/playground/translate.html:29
 msgid "Not Ready"
-msgstr "No está listo"
+msgstr "No está listo"#TODO
 
 #: pkg/packagekit/updates.jsx:789
 msgid "Not Registered"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/credentials.js:255
 msgid "Not a valid private key"
-msgstr "No es llave privada valida."
+msgstr "No es llave privada valida."#TODO
 
 #: pkg/docker/index.html:57
 msgid "Not authorized to access Docker on this system"
-msgstr "No esta autorizado a acceder a Docker en este sistema"
+msgstr "No esta autorizado a acceder a Docker en este sistema"#TODO
 
 #: pkg/networkmanager/firewall.jsx:899
 msgid "Not authorized to add a new zone"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:146
 msgid "Not authorized to add services to zone $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:933
 msgid "Not authorized to disable the firewall"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:933
 msgid "Not authorized to enable the firewall"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:79
 msgid "Not authorized to remove service $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:134
 msgid "Not authorized to remove zone $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:826
 msgid "Not available"
-msgstr "No disponible"
+msgstr "No disponible"#TODO
 
 #: pkg/selinux/setroubleshoot.js:240
 msgid "Not connected"
-msgstr "No conectado"
+msgstr "No conectado"#TODO
 
 #: pkg/systemd/overview-cards/healthCard.jsx:90
 #: pkg/systemd/overview-cards/healthCard.jsx:91
 msgid "Not connected to Insights"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:378
 msgid "Not enough space to grow."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/details.js:186 pkg/storaged/details.jsx:121
 msgid "Not found"
-msgstr "No encontrado"
+msgstr "No encontrado"#TODO
 
 #: pkg/storaged/nfs-panel.jsx:52
 msgid "Not mounted"
-msgstr "No montado"
+msgstr "No montado"#TODO
 
 #: src/base1/cockpit.js:4030
 msgid "Not permitted to perform this action."
-msgstr "No esta permitido ejecutar esta acción."
+msgstr "No esta permitido ejecutar esta acción."#TODO
 
 #: pkg/storaged/mdraid-details.jsx:336 pkg/systemd/service-details.jsx:362
 msgid "Not running"
-msgstr "No esta corriendo"
+msgstr "No esta corriendo"#TODO
 
 #: pkg/systemd/index.html:50
 msgid "Not synchronized"
-msgstr "No sincronizado"
+msgstr "No sincronizado"#TODO
 
 #: pkg/systemd/service-details.jsx:451
 msgid "Note"
-msgstr "Nota"
+msgstr "Nota"#TODO
 
 #: pkg/lib/machine-info.js:76
 msgid "Notebook"
-msgstr "Portátil"
+msgstr "Portátil"#TODO
 
 #: pkg/systemd/logs.html:61
 msgid "Notice and above"
-msgstr "Aviso y arriba"
+msgstr "Aviso y arriba"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:399
 msgid "Occurred $0"
-msgstr "Ocurrió $0"
+msgstr "Ocurrió $0"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:394
 msgid "Occurred between $0 and $1"
-msgstr "Ocurrió entre $0 y $1"
+msgstr "Ocurrió entre $0 y $1"#TODO
 
 #: pkg/lib/cockpit-components-dialog.jsx:196
 msgid "Ok"
-msgstr "Aceptar"
+msgstr "Aceptar"#TODO
 
 #: pkg/shell/index.html:305 pkg/users/index.html:215
 msgid "Old Password"
-msgstr "Contraseña vieja"
+msgstr "Contraseña vieja"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:257
 msgid "Old passphrase"
-msgstr "Frase de acceso vieja"
+msgstr "Frase de acceso vieja"#TODO
 
 #: pkg/lib/credentials.js:218 pkg/users/local.js:86
 msgid "Old password not accepted"
-msgstr "Contraseña antigua no aceptada"
+msgstr "Contraseña antigua no aceptada"#TODO
 
 #: pkg/docker/index.html:549 pkg/systemd/service-details.jsx:432
 msgid "On Failure"
-msgstr "Al producirse un fallo"
+msgstr "Al producirse un fallo"#TODO
 
 #: pkg/kdump/kdump-view.jsx:396
 msgid "On a mounted device"
-msgstr "Al montarse un dispositivo"
+msgstr "Al montarse un dispositivo"#TODO
 
 #: pkg/docker/util.js:105
 msgid "On failure, retry $0 time"
 msgid_plural "On failure, retry $0 times"
 msgstr[0] "Al producirse un fallo, reintentar $0 vez"
-msgstr[1] "Al producirse un fallo, reintentar $0 veces"
+msgstr[1] "Al producirse un fallo, reintentar $0 veces"#TODO
 
 #: src/ws/cockpit.appdata.xml.in:26
 msgid ""
@@ -4984,84 +4984,84 @@ msgid ""
 "cockpit.socket\"."
 msgstr ""
 "Una vez que se instale Cockpit, habilítelo con \"systemctl enable --now "
-"cockpit.socket\"."
+"cockpit.socket\"."#TODO
 
 #: pkg/realmd/operation.html:68 pkg/realmd/operation.js:340
 msgid "One Time Password"
-msgstr "Contraseña de un solo uso"
+msgstr "Contraseña de un solo uso"#TODO
 
 #: pkg/machines/components/storagePools/storageVolumeDelete.jsx:76
 msgid ""
 "One or more selected volumes are used by domains. Detach the disks first to "
 "allow volume deletion."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/vdo-details.jsx:117
 msgid "Only $0 of $1 are used."
-msgstr "Sólo $0 de $1 fue usado."
+msgstr "Sólo $0 de $1 fue usado."#TODO
 
 #: pkg/systemd/logs.html:56
 msgid "Only Emergency"
-msgstr "Solo Emergencia"
+msgstr "Solo Emergencia"#TODO
 
 #: pkg/systemd/init.js:1185
 msgid "Only alphabets, numbers, : , _ , . , @ , - are allowed."
-msgstr "Solo se permiten caracteres alfanuméricos y  : , _ , . , @ , -."
+msgstr "Solo se permiten caracteres alfanuméricos y  : , _ , . , @ , -."#TODO
 
 #: pkg/machines/components/vm/memoryModal.jsx:137
 msgid "Only editable when the guest is shut off"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/shell/index.html:43
 msgid "Ooops!"
-msgstr "Ooops!"
+msgstr "Ooops!"#TODO
 
 #: pkg/machines/helpers.js:229
 msgid "Open"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:356
 msgid "Operating System"
-msgstr "Sistema Operativo"
+msgstr "Sistema Operativo"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:84
 msgid "Operation '$operation' on $target"
-msgstr "Actividad '$operation' en $target"
+msgstr "Actividad '$operation' en $target"#TODO
 
 #: pkg/machines/components/storagePools/storagePool.jsx:181
 #: pkg/machines/components/storagePools/storagePool.jsx:188
 msgid "Operation is in progress"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/drives-panel.jsx:76
 msgctxt "storage"
 msgid "Optical Drive"
-msgstr "Disco Óptico"
+msgstr "Disco Óptico"#TODO
 
 #: pkg/storaged/crypto-tab.jsx:131 pkg/storaged/vdos-panel.jsx:116
 msgid "Options"
-msgstr "Opciones"
+msgstr "Opciones"#TODO
 
 #: src/ws/login.html:123
 msgid "Or use a bundled browser"
-msgstr "O use un navegador incluido"
+msgstr "O use un navegador incluido"#TODO
 
 #: pkg/lib/machine-info.js:67
 msgid "Other"
-msgstr "Otro"
+msgstr "Otro"#TODO
 
 #: pkg/storaged/content-views.jsx:375
 msgctxt "storage-id-desc"
 msgid "Other Data"
-msgstr "Otros datos"
+msgstr "Otros datos"#TODO
 
 #: pkg/storaged/others-panel.jsx:71
 msgid "Other Devices"
-msgstr "Otros dispositivos"
+msgstr "Otros dispositivos"#TODO
 
 #: src/ws/login.html:70
 msgid "Other Options"
-msgstr "Otras Opciones"
+msgstr "Otras Opciones"#TODO
 
 #: pkg/docker/index.html:299 pkg/systemd/graphs.html:25
 #: pkg/systemd/graphs.html:109 pkg/machines/components/networks/network.jsx:73
@@ -5069,90 +5069,90 @@ msgstr "Otras Opciones"
 #: pkg/machines/components/vm/vm.jsx:49 pkg/systemd/hwinfo.jsx:282
 #: pkg/systemd/manifest.json.in
 msgid "Overview"
-msgstr "Visión conjunta"
+msgstr "Visión conjunta"#TODO
 
 #: pkg/storaged/content-views.jsx:552 pkg/storaged/format-dialog.jsx:196
 msgid "Overwrite existing data with zeros"
-msgstr "Sobreescribir los datos existentes con ceros"
+msgstr "Sobreescribir los datos existentes con ceros"#TODO
 
 #: pkg/systemd/hwinfo.jsx:254
 msgid "PCI"
-msgstr "PCI"
+msgstr "PCI"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:398
 msgid "PCP"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/updates.jsx:506
 msgid "Package information"
-msgstr "Información del paquete"
+msgstr "Información del paquete"#TODO
 
 #: pkg/lib/packagekit.js:126
 msgid "PackageKit crashed"
-msgstr "PackageKit roto"
+msgstr "PackageKit roto"#TODO
 
 #: pkg/packagekit/updates.jsx:568
 msgid "PackageKit is not installed"
-msgstr "PackageKit no está instalado"
+msgstr "PackageKit no está instalado"#TODO
 
 #: pkg/packagekit/updates.jsx:736
 msgid "PackageKit reported error code $0"
-msgstr "PackageKit reportó error con código $0"
+msgstr "PackageKit reportó error con código $0"#TODO
 
 #: pkg/networkmanager/index.html:163
 msgid "Parent"
-msgstr "Padre"
+msgstr "Padre"#TODO
 
 #: pkg/networkmanager/interfaces.js:2885
 msgid "Parent $parent"
-msgstr "Padre $parent"
+msgstr "Padre $parent"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/systemd/service-details.jsx:422
 msgid "Part Of"
-msgstr "Parte de"
+msgstr "Parte de"#TODO
 
 #: pkg/networkmanager/interfaces.js:1446
 msgid "Part of "
-msgstr "Parte de"
+msgstr "Parte de"#TODO
 
 #: pkg/storaged/content-views.jsx:146
 msgid "Partition"
-msgstr "Partición"
+msgstr "Partición"#TODO
 
 #: pkg/storaged/utils.js:272
 msgid "Partition of $0"
-msgstr "Partición de $0"
+msgstr "Partición de $0"#TODO
 
 #: pkg/storaged/content-views.jsx:555
 msgid "Partitioning"
-msgstr "Particionamiento"
+msgstr "Particionamiento"#TODO
 
 #: pkg/networkmanager/interfaces.js:1988
 msgid "Passive"
-msgstr "Pasivo"
+msgstr "Pasivo"#TODO
 
 #: pkg/storaged/content-views.jsx:238 pkg/storaged/crypto-keyslots.jsx:209
 #: pkg/storaged/crypto-keyslots.jsx:565 pkg/storaged/format-dialog.jsx:213
 msgid "Passphrase"
-msgstr "Palabra de paso"
+msgstr "Palabra de paso"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:158 pkg/storaged/crypto-keyslots.jsx:217
 #: pkg/storaged/crypto-keyslots.jsx:258 pkg/storaged/crypto-keyslots.jsx:261
 #: pkg/storaged/format-dialog.jsx:217
 msgid "Passphrase cannot be empty"
-msgstr "La frase de contraseña no puede estar vacía"
+msgstr "La frase de contraseña no puede estar vacía"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:364
 msgid "Passphrase removal may prevent unlocking $0."
 msgstr ""
-"La eliminación de la frase de contraseña puede evitar el desbloqueo $0."
+"La eliminación de la frase de contraseña puede evitar el desbloqueo $0."#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:225 pkg/storaged/crypto-keyslots.jsx:263
 #: pkg/storaged/format-dialog.jsx:225
 msgid "Passphrases do not match"
-msgstr "Palabra de paso no coincide"
+msgstr "Palabra de paso no coincide"#TODO
 
 #: pkg/lib/machine-auth-failed.html:8 pkg/lib/machine-change-auth.html:52
 #: pkg/lib/machine-sync-users.html:63 pkg/shell/index.html:223
@@ -5160,208 +5160,208 @@ msgstr "Palabra de paso no coincide"
 #: pkg/users/index.html:173 src/ws/login.html:55
 #: pkg/storaged/iscsi-panel.jsx:47 pkg/storaged/iscsi-panel.jsx:157
 msgid "Password"
-msgstr "Contraseña"
+msgstr "Contraseña"#TODO
 
 #: pkg/users/index.html:288
 msgid "Password Expiration"
-msgstr "Expiración de Contraseña"
+msgstr "Expiración de Contraseña"#TODO
 
 #: pkg/users/local.js:277
 msgid "Password is not acceptable"
-msgstr "La contraseña no es aceptable"
+msgstr "La contraseña no es aceptable"#TODO
 
 #: pkg/users/local.js:265
 msgid "Password is too weak"
-msgstr "La contraseña en muy débil"
+msgstr "La contraseña en muy débil"#TODO
 
 #: pkg/users/local.js:888
 msgid "Password must be changed"
-msgstr "Se debe cambiar la contraseña"
+msgstr "Se debe cambiar la contraseña"#TODO
 
 #: pkg/lib/credentials.js:289
 msgid "Password not accepted"
-msgstr "Contraseña no aceptada"
+msgstr "Contraseña no aceptada"#TODO
 
 #: pkg/shell/index.html:172
 msgid ""
 "Password not usable for privileged tasks or to connect to other machines"
 msgstr ""
 "Contraseña no utilizable para tareas privilegiadas o para conectar a otras "
-"máquinas"
+"máquinas"#TODO
 
 #: pkg/lib/cockpit-components-context-menu.jsx:107
 msgid "Paste"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/users/index.html:409
 msgid "Paste the contents of your public SSH key file here"
-msgstr "Pegue aquí el contenido de su archivo de clave SSH pública"
+msgstr "Pegue aquí el contenido de su archivo de clave SSH pública"#TODO
 
 #: pkg/machines/components/deleteDialog.jsx:45
 #: pkg/machines/components/diskEdit.jsx:36 pkg/systemd/service-details.jsx:482
 msgid "Path"
-msgstr "Trayecto"
+msgstr "Trayecto"#TODO
 
 #: pkg/networkmanager/index.html:255
 msgid "Path cost"
-msgstr "Costo de trayecto"
+msgstr "Costo de trayecto"#TODO
 
 #: pkg/networkmanager/interfaces.js:2867
 msgid "Path cost $path_cost"
-msgstr "Costo de trayecto $path_cost"
+msgstr "Costo de trayecto $path_cost"#TODO
 
 #: pkg/storaged/nfs-details.jsx:148
 msgid "Path on Server"
-msgstr "Ruta sobre el Servidor"
+msgstr "Ruta sobre el Servidor"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:116
 msgid "Path on host's filesystem"
-msgstr "Ruta en el sistema de archivos del host"
+msgstr "Ruta en el sistema de archivos del host"#TODO
 
 #: pkg/storaged/nfs-details.jsx:153
 msgid "Path on server cannot be empty."
-msgstr "La ruta sobre el servidor no puede estar vacía"
+msgstr "La ruta sobre el servidor no puede estar vacía"#TODO
 
 #: pkg/storaged/nfs-details.jsx:155
 msgid "Path on server must start with \"/\"."
-msgstr "La ruta sobre el servidor debe empezar con \"/\"."
+msgstr "La ruta sobre el servidor debe empezar con \"/\"."#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:223
 msgid "Path to ISO file on host's file system"
-msgstr "Ruta al fichero ISO en el sistema de archivos del host"
+msgstr "Ruta al fichero ISO en el sistema de archivos del host"#TODO
 
 #: pkg/lib/cockpit-components-file-autocomplete.jsx:141
 msgid "Path to file"
-msgstr "Ruta al fichero"
+msgstr "Ruta al fichero"#TODO
 
 #: pkg/systemd/services.jsx:53
 msgid "Paths"
-msgstr "Trayectos"
+msgstr "Trayectos"#TODO
 
 #: pkg/machines/components/vm/vmActions.jsx:77
 msgid "Pause"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:372
 msgid "Performance profile"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-info.js:87
 msgid "Peripheral Chassis"
-msgstr "Chasis Periférico"
+msgstr "Chasis Periférico"#TODO
 
 #: pkg/networkmanager/interfaces.js:3619
 msgid "Permanent"
-msgstr "Permanente"
+msgstr "Permanente"#TODO
 
 #: src/ws/login.js:691
 msgid "Permission denied"
-msgstr "Permiso denegado"
+msgstr "Permiso denegado"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:291
 msgid "Permissive"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/diskAdd.jsx:112
 #: pkg/machines/components/nicAdd.jsx:80
 msgid "Persistence"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:83
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:66
 msgid "Persistent"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/vdo-details.jsx:276
 msgid "Physical"
-msgstr "Físico"
+msgstr "Físico"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:65
 msgid "Physical Disk Device"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/content-views.jsx:157 pkg/storaged/content-views.jsx:365
 msgid "Physical Volume"
-msgstr "Volumen físico"
+msgstr "Volumen físico"#TODO
 
 #: pkg/storaged/vgroup-details.jsx:127
 msgid "Physical Volumes"
-msgstr "Volúmenea Físicos"
+msgstr "Volúmenea Físicos"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:197
 msgid "Physical disk device on host"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/content-views.jsx:360
 msgid "Physical volume of $0"
-msgstr "Volumen físico de $0"
+msgstr "Volumen físico de $0"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:166
 msgid "Physical volumes can not be resized here."
-msgstr "No se puede modificar el tamaño de los volúmenes físicos aquí."
+msgstr "No se puede modificar el tamaño de los volúmenes físicos aquí."#TODO
 
 #: pkg/networkmanager/index.html:350
 msgid "Ping Interval"
-msgstr "Intervalo entre cada «ping»"
+msgstr "Intervalo entre cada «ping»"#TODO
 
 #: pkg/networkmanager/index.html:354
 msgid "Ping Target"
-msgstr "Hacer Ping al Objetivo"
+msgstr "Hacer Ping al Objetivo"#TODO
 
 #: pkg/lib/machine-info.js:71
 msgid "Pizza Box"
-msgstr "Pizza Box"
+msgstr "Pizza Box"#TODO
 
 #: pkg/docker/containers-view.jsx:200 pkg/docker/details.js:291
 #: pkg/docker/util.js:612 pkg/storaged/content-views.jsx:305
 #: pkg/storaged/mdraid-details.jsx:289 pkg/storaged/vdo-details.jsx:194
 #: pkg/storaged/vgroup-details.jsx:207
 msgid "Please confirm deletion of $0"
-msgstr "Por favor confirmar la eliminación de $0"
+msgstr "Por favor confirmar la eliminación de $0"#TODO
 
 #: pkg/docker/util.js:517
 msgid "Please confirm forced deletion of $0"
-msgstr "Por favor confirme, forzar el borrado de $0"
+msgstr "Por favor confirme, forzar el borrado de $0"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:238 pkg/storaged/vdo-details.jsx:136
 msgid "Please confirm stopping of $0"
-msgstr "Por favor confirma la parada de $0"
+msgstr "Por favor confirma la parada de $0"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/machines/components/diskAdd.jsx:386
 msgid "Please enter new volume name"
-msgstr "Introduzca el nuevo nombre de volumen"
+msgstr "Introduzca el nuevo nombre de volumen"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/machines/components/diskAdd.jsx:389
 msgid "Please enter new volume size"
-msgstr "Introduzca el nuevo tamaño de volumen"
+msgstr "Introduzca el nuevo tamaño de volumen"#TODO
 
 #: pkg/networkmanager/firewall.jsx:889
 msgid "Please install the $0 package"
-msgstr "Por favor instale el $0 paquete"
+msgstr "Por favor instale el $0 paquete"#TODO
 
 #: pkg/users/local.js:1250
 msgid "Please specify an expiration date"
-msgstr "Por favor especifique una fecha de expiración"
+msgstr "Por favor especifique una fecha de expiración"#TODO
 
 #: src/ws/login.js:472
 msgid "Please specify the host to connect to"
-msgstr "Por favor especifique el host para conectarse"
+msgstr "Por favor especifique el host para conectarse"#TODO
 
 #: pkg/machines/components/consoles.jsx:38
 msgid "Please start the virtual machine to access its console."
-msgstr "Por favor arranque la maquina virtual para acceder a su consola."
+msgstr "Por favor arranque la maquina virtual para acceder a su consola."#TODO
 
 #: pkg/docker/search.js:148
 msgid "Please try another term"
-msgstr "Pruebe con otro término"
+msgstr "Pruebe con otro término"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:236
 msgid "Plug"
-msgstr "Enchufe"
+msgstr "Enchufe"#TODO
 
 #: pkg/machines/components/deleteDialog.jsx:53
 #: pkg/machines/components/diskAdd.jsx:128
@@ -5369,28 +5369,28 @@ msgstr "Enchufe"
 #: pkg/machines/components/vmDiskColumns.jsx:45
 #: pkg/storaged/content-views.jsx:138
 msgid "Pool"
-msgstr "Grupo"
+msgstr "Grupo"#TODO
 
 #: pkg/storaged/utils.js:192
 msgid "Pool for Thin Logical Volumes"
-msgstr "Reserva para Volúmenes Lógicos Delgados"
+msgstr "Reserva para Volúmenes Lógicos Delgados"#TODO
 
 #: pkg/storaged/content-views.jsx:634
 msgid "Pool for Thin Volumes"
-msgstr "Grupo para Volúmenes Finos"
+msgstr "Grupo para Volúmenes Finos"#TODO
 
 #: pkg/storaged/content-views.jsx:695
 msgid "Pool for thinly provisioned volumes"
-msgstr "Grupo para volúmenes poco aprovisionados"
+msgstr "Grupo para volúmenes poco aprovisionados"#TODO
 
 #: pkg/machines/components/storagePools/storageVolumeCreate.jsx:142
 msgid "Pool type doesn't support volume creation"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/storagePoolDelete.jsx:150
 #: pkg/machines/components/storagePools/storagePoolDelete.jsx:184
 msgid "Pool's volumes are used by VMs "
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-change-port.html:23
 #: pkg/machines/components/vm/bootOrderModal.jsx:98
@@ -5399,442 +5399,442 @@ msgstr ""
 #: pkg/machines/components/vmnetworktab.jsx:132
 #: pkg/storaged/iscsi-panel.jsx:128
 msgid "Port"
-msgstr "Puerto"
+msgstr "Puerto"#TODO
 
 #: pkg/networkmanager/firewall.jsx:390
 msgid "Port number and type do not match"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/machine-info.js:74
 msgid "Portable"
-msgstr "Portable"
+msgstr "Portable"#TODO
 
 #: pkg/docker/index.html:506 pkg/networkmanager/index.html:220
 #: pkg/networkmanager/index.html:330 pkg/docker/containers-view.jsx:414
 #: pkg/networkmanager/interfaces.js:2968
 msgid "Ports"
-msgstr "Puertos"
+msgstr "Puertos"#TODO
 
 #: pkg/docker/index.html:192
 msgid "Ports:"
-msgstr "Puertos:"
+msgstr "Puertos:"#TODO
 
 #: pkg/machines/components/vcpuModal.jsx:225
 msgid "Preferred number of sockets to expose to the guest."
-msgstr "Número preferido de sockets para exponer al invitado."
+msgstr "Número preferido de sockets para exponer al invitado."#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:137
 msgid "Prefix"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:323
 msgid "Prefix Length"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:78
 msgid "Prefix Length should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3291
 msgid "Prefix length"
-msgstr "Tamaño del prefijo"
+msgstr "Tamaño del prefijo"#TODO
 
 #: pkg/networkmanager/interfaces.js:3291
 msgid "Prefix length or Netmask"
-msgstr "Tamaño del prefijo o máscara de red"
+msgstr "Tamaño del prefijo o máscara de red"#TODO
 
 #: pkg/networkmanager/interfaces.js:830
 msgid "Preparing"
-msgstr "Preparando"
+msgstr "Preparando"#TODO
 
 #: pkg/lib/machine-info.js:254
 msgid "Present"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3620
 msgid "Preserve"
-msgstr "Conservar"
+msgstr "Conservar"#TODO
 
 #: pkg/systemd/index.html:223
 msgid "Pretty Host Name"
-msgstr "Bonito Nombre de Host"
+msgstr "Bonito Nombre de Host"#TODO
 
 #: pkg/systemd/logs.html:43
 msgid "Previous boot"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:296
 msgid "Primary"
-msgstr "Primario"
+msgstr "Primario"#TODO
 
 #: pkg/networkmanager/index.html:251 pkg/networkmanager/index.html:370
 #: pkg/networkmanager/index.html:380
 msgid "Priority"
-msgstr "Prioridad"
+msgstr "Prioridad"#TODO
 
 #: pkg/networkmanager/interfaces.js:2841 pkg/networkmanager/interfaces.js:2865
 msgid "Priority $priority"
-msgstr "Prioridad $priority"
+msgstr "Prioridad $priority"#TODO
 
 #: pkg/machines/helpers.js:234
 msgid "Private"
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/shell/index.html:39
 msgid "Privileged"
-msgstr "Con privilegios"
+msgstr "Con privilegios"#TODO
 
 #: pkg/systemd/logs.js:548
 msgid "Problem details"
-msgstr "Detalles del problema"
+msgstr "Detalles del problema"#TODO
 
 #: pkg/systemd/logs.js:547
 msgid "Problem info"
-msgstr "Información de problema"
+msgstr "Información de problema"#TODO
 
 #: pkg/docker/containers-view.jsx:345
 msgid "Problems"
-msgstr "Problemas"
+msgstr "Problemas"#TODO
 
 #: pkg/storaged/dialog.jsx:1030
 msgid "Process"
-msgstr "Proceso"
+msgstr "Proceso"#TODO
 
 #: pkg/machines/components/vm/bootOrderModal.jsx:121
 #: pkg/machines/components/vm/bootOrderModal.jsx:127
 msgid "Product"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/shell/index.html:87
 msgid "Project website"
-msgstr "Sitio web del proyecto"
+msgstr "Sitio web del proyecto"#TODO
 
 #: pkg/users/local.js:91
 msgid "Prompting via passwd timed out"
-msgstr "Iniciando a través de passwd tiempo de espera agotado"
+msgstr "Iniciando a través de passwd tiempo de espera agotado"#TODO
 
 #: pkg/lib/credentials.js:260
 msgid "Prompting via ssh-add timed out"
-msgstr "Expiro el tiempo de espera vía ssh."
+msgstr "Expiro el tiempo de espera vía ssh."#TODO
 
 #: pkg/lib/credentials.js:196
 msgid "Prompting via ssh-keygen timed out"
-msgstr "Iniciando a través de ssh-keygen tiempo de espera agotado"
+msgstr "Iniciando a través de ssh-keygen tiempo de espera agotado"#TODO
 
 #: pkg/systemd/service-details.jsx:435
 msgid "Propagates Reload To"
-msgstr "Propaga recargar a"
+msgstr "Propaga recargar a"#TODO
 
 #: pkg/machines/components/vm/bootOrderModal.jsx:94
 #: pkg/machines/components/vm/bootOrderModal.jsx:139
 #: pkg/machines/components/vmDiskColumns.jsx:44
 msgid "Protocol"
-msgstr "Protocolo"
+msgstr "Protocolo"#TODO
 
 #: pkg/lib/machine-auth-failed.html:9 pkg/shell/index.html:251
 msgid "Public Key"
-msgstr "Llave pública"
+msgstr "Llave pública"#TODO
 
 #: pkg/storaged/content-views.jsx:687
 msgid "Purpose"
-msgstr "Proposito"
+msgstr "Proposito"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:181
 msgid "RAID ($0)"
-msgstr "RAID ($0)"
+msgstr "RAID ($0)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:175
 msgid "RAID 0"
-msgstr "RAID 0"
+msgstr "RAID 0"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:68
 msgid "RAID 0 (Stripe)"
-msgstr "RAID 0 (Stripe)"
+msgstr "RAID 0 (Stripe)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:176
 msgid "RAID 1"
-msgstr "RAID 1"
+msgstr "RAID 1"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:72
 msgid "RAID 1 (Mirror)"
-msgstr "RAID 1 (Espejo)"
+msgstr "RAID 1 (Espejo)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:180
 msgid "RAID 10"
-msgstr "RAID 10"
+msgstr "RAID 10"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:88
 msgid "RAID 10 (Stripe of Mirrors)"
-msgstr "RAID 10 (Arreglo de espejos)"
+msgstr "RAID 10 (Arreglo de espejos)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:177
 msgid "RAID 4"
-msgstr "RAID 4"
+msgstr "RAID 4"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:76
 msgid "RAID 4 (Dedicated Parity)"
-msgstr "RAID 4 (Paridad Dedicada)"
+msgstr "RAID 4 (Paridad Dedicada)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:178
 msgid "RAID 5"
-msgstr "RAID 5"
+msgstr "RAID 5"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:80
 msgid "RAID 5 (Distributed Parity)"
-msgstr "RAID 5 (Paridad Distribuida)"
+msgstr "RAID 5 (Paridad Distribuida)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:179
 msgid "RAID 6"
-msgstr "RAID 6"
+msgstr "RAID 6"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:84
 msgid "RAID 6 (Double Distributed Parity)"
-msgstr "RAID 6 (Doble Paridad Distribuida)"
+msgstr "RAID 6 (Doble Paridad Distribuida)"#TODO
 
 #: pkg/lib/machine-info.js:88
 msgid "RAID Chassis"
-msgstr "Chasis RAID"
+msgstr "Chasis RAID"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:41 pkg/storaged/pvol-tabs.jsx:59
 msgid "RAID Device"
-msgstr "Dispositivo RAID"
+msgstr "Dispositivo RAID"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:309 pkg/storaged/utils.js:242
 msgid "RAID Device $0"
-msgstr "Dispositivo RAID $0"
+msgstr "Dispositivo RAID $0"#TODO
 
 #: pkg/storaged/mdraids-panel.jsx:62
 msgid "RAID Level"
-msgstr "Nivel RAID"
+msgstr "Nivel RAID"#TODO
 
 #: pkg/storaged/content-views.jsx:160
 msgid "RAID Member"
-msgstr "Miembro de RAID"
+msgstr "Miembro de RAID"#TODO
 
 #: pkg/lib/machine-info.js:89
 msgid "Rack Mount Chassis"
-msgstr "Chasis Montado en Rack"
+msgstr "Chasis Montado en Rack"#TODO
 
 #: pkg/networkmanager/interfaces.js:3621
 msgid "Random"
-msgstr "Al azar"
+msgstr "Al azar"#TODO
 
 #: pkg/networkmanager/firewall.jsx:728
 msgid "Range"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:421
 msgid "Range must be strictly ordered"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/hwinfo.jsx:271
 msgid "Rank"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/kdump/kdump-view.jsx:391
 msgid "Raw to a device"
-msgstr "Sin procesar a un dispositivo"
+msgstr "Sin procesar a un dispositivo"#TODO
 
 #: pkg/systemd/hwinfo.jsx:197
 msgid "Read more..."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/diskEdit.jsx:70
 #: pkg/machines/components/vmDisksTab.jsx:144
 #: pkg/systemd/service-details.jsx:389
 msgid "Read-only"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:365
 msgid "ReadOnly"
-msgstr "SoloLectura"
+msgstr "SoloLectura"#TODO
 
 #: pkg/docker/index.html:364
 msgid "ReadWrite"
-msgstr "LecturaEscritura"
+msgstr "LecturaEscritura"#TODO
 
 #: pkg/storaged/plot.jsx:312
 msgid "Reading"
-msgstr "Leyendo"
+msgstr "Leyendo"#TODO
 
 #: pkg/kdump/kdump-view.jsx:416
 msgid "Reading..."
-msgstr "Consultando…"
+msgstr "Consultando…"#TODO
 
 #: pkg/playground/translate.html:19
 msgid "Ready"
-msgstr "Listo"
+msgstr "Listo"#TODO
 
 #: pkg/playground/translate.html:24
 msgctxt "verb"
 msgid "Ready"
-msgstr "Preparado"
+msgstr "Preparado"#TODO
 
 #: pkg/systemd/index.html:232
 msgid "Real Host Name"
-msgstr "Nombre de anfitrión real"
+msgstr "Nombre de anfitrión real"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:495
 msgid ""
 "Real host name can only contain lower-case characters, digits, dashes, and "
-"periods (with populated subdomains)"
+"periods (with populated subdomains)"#TODO
 msgstr ""
 "El nombre real de anfitrión únicamente puede contener caracteres en "
-"minúscula, dígitos, guiones y puntos (con subdominios rellenados)"
+"minúscula, dígitos, guiones y puntos (con subdominios rellenados)"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:496
 msgid "Real host name must be 64 characters or less"
-msgstr "El nombre real de anfitrión debe tener 64 caracteres o menos"
+msgstr "El nombre real de anfitrión debe tener 64 caracteres o menos"#TODO
 
 #: pkg/lib/cockpit-components-logs-panel.jsx:82 pkg/lib/journal.js:248
 msgid "Reboot"
-msgstr "Reiniciar"
+msgstr "Reiniciar"#TODO
 
 #: pkg/networkmanager/index.html:92 pkg/networkmanager/index.html:128
 #: pkg/networkmanager/index.html:146 pkg/networkmanager/index.html:428
 #: pkg/networkmanager/index.html:456
 msgid "Receiving"
-msgstr "Recibiendo"
+msgstr "Recibiendo"#TODO
 
 #: pkg/systemd/logs.html:41
 msgid "Recent"
-msgstr "Reciente"
+msgstr "Reciente"#TODO
 
 #: pkg/storaged/format-dialog.jsx:152
 msgid "Recommended default"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/shell/index.html:413
 msgid "Reconnect"
-msgstr "Reconectarse"
+msgstr "Reconectarse"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:96
 msgid "Recovering"
-msgstr "Recuperando"
+msgstr "Recuperando"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:65
 msgid "Recovering RAID Device $target"
-msgstr "Recuperando Dispositivo RAID $target"
+msgstr "Recuperando Dispositivo RAID $target"#TODO
 
 #: pkg/docker/storage.jsx:396
 msgid "Reformat and add disks"
-msgstr "Reformatear y añadir discos"
+msgstr "Reformatear y añadir discos"#TODO
 
 #: pkg/packagekit/updates.jsx:42
 msgid "Refreshing package information"
-msgstr "Refrescando información del paquete"
+msgstr "Refrescando información del paquete"#TODO
 
 #: src/ws/login.js:681
 msgid "Refusing to connect. Host is unknown"
-msgstr "Rechazando conexión. El host es desconocido"
+msgstr "Rechazando conexión. El host es desconocido"#TODO
 
 #: src/ws/login.js:683
 msgid "Refusing to connect. Hostkey does not match"
-msgstr "Rechazando conexión. La clave de host no coincide"
+msgstr "Rechazando conexión. La clave de host no coincide"#TODO
 
 #: src/ws/login.js:679
 msgid "Refusing to connect. Hostkey is unknown"
-msgstr "Rechazando la conexión. La clave de host es desconocida"
+msgstr "Rechazando la conexión. La clave de host es desconocida"#TODO
 
 #: pkg/packagekit/updates.jsx:806
 msgid "Register…"
-msgstr "Registro…"
+msgstr "Registro…"#TODO
 
 #: pkg/systemd/service-details.jsx:166
 msgid "Reload"
-msgstr "Recargar"
+msgstr "Recargar"#TODO
 
 #: pkg/systemd/service-details.jsx:436
 msgid "Reload Propagated From"
-msgstr "Recargar propagado desde"
+msgstr "Recargar propagado desde"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:270
 msgid "Remote URL"
-msgstr "URL Remota"
+msgstr "URL Remota"#TODO
 
 #: pkg/kdump/kdump-view.jsx:137 pkg/kdump/kdump-view.jsx:389
 msgid "Remote over NFS"
-msgstr "Remoto a través de NFS"
+msgstr "Remoto a través de NFS"#TODO
 
 #: pkg/kdump/kdump-view.jsx:138 pkg/kdump/kdump-view.jsx:387
 msgid "Remote over SSH"
-msgstr "Remoto sobre SSH"
+msgstr "Remoto sobre SSH"#TODO
 
 #: pkg/storaged/drives-panel.jsx:72 pkg/storaged/drives-panel.jsx:74
 msgctxt "storage"
 msgid "Removable Drive"
-msgstr "Disco Removible"
+msgstr "Disco Removible"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:83
 msgid "Removals:"
-msgstr "Eliminaciones:"
+msgstr "Eliminaciones:"#TODO
 
 #: pkg/apps/application-list.jsx:81 pkg/apps/application.jsx:109
 #: pkg/machines/components/vmDisksTab.jsx:177
 #: pkg/storaged/crypto-keyslots.jsx:402 pkg/storaged/crypto-keyslots.jsx:439
 #: pkg/storaged/nfs-details.jsx:309
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Eliminar"#TODO
 
 #: pkg/networkmanager/interfaces.js:3038
 msgid "Remove $0"
-msgstr "Quitar $0"
+msgstr "Quitar $0"#TODO
 
 #: pkg/networkmanager/firewall.jsx:838
 msgid "Remove $0 service from $1 zone"
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:423
 msgid "Remove $0?"
-msgstr "¿Quitar $0?"
+msgstr "¿Quitar $0?"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:433
 msgid "Remove Tang keyserver"
-msgstr "Eliminar Tang keyserver"
+msgstr "Eliminar Tang keyserver"#TODO
 
 #: pkg/storaged/vdo-details.jsx:100
 msgid "Remove device"
-msgstr "Quitar dispositivo"
+msgstr "Quitar dispositivo"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:396
 msgid "Remove passphrase"
-msgstr "Eliminar frase de acceso"
+msgstr "Eliminar frase de acceso"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:362
 msgid "Remove passphrase in $0?"
-msgstr "¿Eliminar frase de acceso en $0?"
+msgstr "¿Eliminar frase de acceso en $0?"#TODO
 
 #: pkg/networkmanager/firewall.jsx:84
 msgid "Remove service $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:138 pkg/networkmanager/firewall.jsx:821
 msgid "Remove zone $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/apps/application-list.jsx:52 pkg/apps/application.jsx:59
 msgid "Removing"
-msgstr "Quitando"
+msgstr "Quitando"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/lib/cockpit-components-install-dialog.jsx:184
 msgid "Removing $0"
-msgstr "Quitando $0"
+msgstr "Quitando $0"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:61
 msgid "Removing $target from RAID Device"
-msgstr "Removiendo $target del Dispositivo RAID"
+msgstr "Removiendo $target del Dispositivo RAID"#TODO
 
 #: pkg/networkmanager/interfaces.js:3037
 msgid ""
@@ -5842,147 +5842,147 @@ msgid ""
 "the administration UI unavailable."
 msgstr ""
 "Quitar <b>$0</b> romperá la conexión con el servidor y hará la "
-"administración de UI no disponible."
+"administración de UI no disponible."#TODO
 
 #: pkg/storaged/jobs-panel.jsx:74
 msgid "Removing physical volume from $target"
-msgstr "Eliminando volumen físico de $target"
+msgstr "Eliminando volumen físico de $target"#TODO
 
 #: pkg/networkmanager/firewall.jsx:836
 msgid ""
 "Removing the cockpit service might result in the web console becoming "
 "unreachable. Make sure that this zone does not apply to your current web "
 "console connection."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/firewall.jsx:819
 msgid "Removing the zone will remove all services within it."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:39 pkg/storaged/vgroup-details.jsx:182
 #: pkg/storaged/vgroup-details.jsx:231
 msgid "Rename"
-msgstr "Renombrar"
+msgstr "Renombrar"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:33
 msgid "Rename Logical Volume"
-msgstr "Cambiar nombre de volumen lógico"
+msgstr "Cambiar nombre de volumen lógico"#TODO
 
 #: pkg/storaged/vgroup-details.jsx:173
 msgid "Rename Volume Group"
-msgstr "Renombrar Grupo de Volumen"
+msgstr "Renombrar Grupo de Volumen"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:77
 msgid "Renaming $target"
-msgstr "Renombrando $target"
+msgstr "Renombrando $target"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:48
 msgid "Repairing $target"
-msgstr "Reparando $target"
+msgstr "Reparando $target"#TODO
 
 #: pkg/systemd/services.html:343
 msgid "Repeat Daily"
-msgstr "Repetir cada día"
+msgstr "Repetir cada día"#TODO
 
 #: pkg/systemd/services.html:342
 msgid "Repeat Hourly"
-msgstr "Repetir cada hora"
+msgstr "Repetir cada hora"#TODO
 
 #: pkg/systemd/services.html:345
 msgid "Repeat Monthly"
-msgstr "Repetir cada mes"
+msgstr "Repetir cada mes"#TODO
 
 #: pkg/systemd/services.html:344
 msgid "Repeat Weekly"
-msgstr "Repetir cada semana"
+msgstr "Repetir cada semana"#TODO
 
 #: pkg/systemd/services.html:346
 msgid "Repeat Yearly"
-msgstr "Repetir cada año"
+msgstr "Repetir cada año"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:207 pkg/storaged/crypto-keyslots.jsx:219
 #: pkg/storaged/crypto-keyslots.jsx:262
 msgid "Repeat passphrase"
-msgstr "Repita la frase de acceso"
+msgstr "Repita la frase de acceso"#TODO
 
 #: pkg/systemd/reporting.jsx:428
 msgid "Report"
-msgstr "Informe"
+msgstr "Informe"#TODO
 
 #: pkg/systemd/reporting.jsx:152
 msgid "Report to ABRT Analytics"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/reporting.jsx:409
 msgid "Reported; no links available"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/reporting.jsx:305
 msgid "Reporting failed"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/reporting.jsx:205
 msgid "Reporting was canceled"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/reporting.jsx:407
 msgid "Reports:"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:690
 msgid "Repository"
-msgstr "Repositorio"
+msgstr "Repositorio"#TODO
 
 #: pkg/users/local.js:1314
 msgid "Require password change every $0 days"
-msgstr "Se requiere que la contraseña cambie cada $0 días"
+msgstr "Se requiere que la contraseña cambie cada $0 días"#TODO
 
 #: pkg/users/local.js:890
 msgid "Require password change on $0"
-msgstr "Se requiere que la contraseña se cambie en $0"
+msgstr "Se requiere que la contraseña se cambie en $0"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/systemd/service-details.jsx:423
 msgid "Required By"
-msgstr "Necesitado por"
+msgstr "Necesitado por"#TODO
 
 #: pkg/systemd/service-details.jsx:375
 msgid "Required by "
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/systemd/service-details.jsx:418
 msgid "Requires"
-msgstr "Requiere"
+msgstr "Requiere"#TODO
 
 #: pkg/systemd/service-details.jsx:390
 msgid "Requires administration access to edit"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/service-details.jsx:419
 msgid "Requisite"
-msgstr "Requisito"
+msgstr "Requisito"#TODO
 
 #: pkg/systemd/service-details.jsx:424
 msgid "Requisite Of"
-msgstr "Requisito de"
+msgstr "Requisito de"#TODO
 
 #: pkg/kdump/kdump-view.jsx:504
 msgid "Reserved memory"
-msgstr "Memoria reservada"
+msgstr "Memoria reservada"#TODO
 
 #: pkg/docker/index.html:303 pkg/users/index.html:333
 #: pkg/systemd/terminal.jsx:106
 msgid "Reset"
-msgstr "Reiniciar"
+msgstr "Reiniciar"#TODO
 
 #: pkg/docker/storage.jsx:452
 msgid "Reset Storage Pool"
-msgstr "Restablecer grupo de almacenamiento"
+msgstr "Restablecer grupo de almacenamiento"#TODO
 
 #: pkg/docker/storage.jsx:455
 msgid ""
@@ -5990,188 +5990,188 @@ msgid ""
 "the pool."
 msgstr ""
 "Si restablece el grupo de almacenamiento se borrarán todos los contenedores "
-"y los discos de liberación del grupo."
+"y los discos de liberación del grupo."#TODO
 
 #: pkg/storaged/jobs-panel.jsx:40 pkg/storaged/jobs-panel.jsx:46
 #: pkg/storaged/jobs-panel.jsx:78
 msgid "Resizing $target"
-msgstr "Redimencionando $target"
+msgstr "Redimencionando $target"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:229 pkg/storaged/lvol-tabs.jsx:314
 msgid ""
 "Resizing an encrypted filesystem requires unlocking the disk. Please provide"
 " a current disk passphrase."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:138 pkg/docker/containers-view.jsx:315
 #: pkg/machines/components/vm/vmActions.jsx:42 pkg/systemd/overview.jsx:116
 #: pkg/systemd/service-details.jsx:170 pkg/systemd/shutdown.js:99
 #: pkg/systemd/shutdown.js:100
 msgid "Restart"
-msgstr "Reiniciar"
+msgstr "Reiniciar"#TODO
 
 #: pkg/packagekit/updates.jsx:503
 msgid "Restart Now"
-msgstr "Reiniciar Ahora"
+msgstr "Reiniciar Ahora"#TODO
 
 #: pkg/docker/index.html:539
 msgid "Restart Policy"
-msgstr "Normativa de reinicios"
+msgstr "Normativa de reinicios"#TODO
 
 #: pkg/docker/index.html:172
 msgid "Restart Policy:"
-msgstr "Normativa de reinicios:"
+msgstr "Normativa de reinicios:"#TODO
 
 #: pkg/packagekit/updates.jsx:498 pkg/packagekit/updates.jsx:915
 msgid "Restart Recommended"
-msgstr "Reinicio Recomendado"
+msgstr "Reinicio Recomendado"#TODO
 
 #: pkg/packagekit/updates.jsx:927
 msgid "Restarting"
-msgstr "Reiniciando"
+msgstr "Reiniciando"#TODO
 
 #: pkg/networkmanager/index.html:39
 msgid "Restoring connection"
-msgstr "Restableciendo la conexión"
+msgstr "Restableciendo la conexión"#TODO
 
 #: pkg/machines/components/vm/vmActions.jsx:84
 msgid "Resume"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:555
 msgid "Retries:"
-msgstr "Reintentos:"
+msgstr "Reintentos:"#TODO
 
 #: src/ws/login.html:59
 msgid "Reuse my password for privileged tasks"
-msgstr "Reutilizar mi contraseña para tareas privilegiadas"
+msgstr "Reutilizar mi contraseña para tareas privilegiadas"#TODO
 
 #: pkg/shell/index.html:176
 msgid ""
 "Reuse my password for privileged tasks and to connect to other machines"
 msgstr ""
 "Reutilizar mi contraseña para tareas con privilegios y para conectar con "
-"otras máquinas"
+"otras máquinas"#TODO
 
 #: pkg/users/index.html:94
 msgid "Roles"
-msgstr "Roles"
+msgstr "Roles"#TODO
 
 #: pkg/networkmanager/interfaces.js:1962 pkg/networkmanager/interfaces.js:1979
 msgid "Round Robin"
-msgstr "Round Robin"
+msgstr "Round Robin"#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:98
 msgid "Route to $0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:100
 msgid "Routed Network"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3310
 msgid "Routes"
-msgstr "Rutas"
+msgstr "Rutas"#TODO
 
 #: pkg/docker/index.html:253 pkg/docker/index.html:566
 #: pkg/systemd/services.html:295 pkg/machines/components/vm/vmActions.jsx:91
 msgid "Run"
-msgstr "Ejecutar"
+msgstr "Ejecutar"#TODO
 
 #: pkg/docker/index.html:427
 msgid "Run Image"
-msgstr "Ejecutar imagen"
+msgstr "Ejecutar imagen"#TODO
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:93
 #: pkg/machines/components/vmOverviewTabLibvirt.jsx:134
 msgid "Run when host boots"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:335
 msgid "Runner"
-msgstr "Ejecutor"
+msgstr "Ejecutor"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:336 pkg/systemd/service-details.jsx:354
 msgid "Running"
-msgstr "Corriendo"
+msgstr "Corriendo"#TODO
 
 #: pkg/selinux/manifest.json.in
 msgid "SELinux"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:369
 msgid "SELinux Access Control Errors"
-msgstr "Errores de control de acceso de SELinux"
+msgstr "Errores de control de acceso de SELinux"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:296
 msgid "SELinux Policy"
-msgstr "Normativa de SELinux"
+msgstr "Normativa de SELinux"#TODO
 
 #: pkg/selinux/setroubleshoot.html:23
 msgid "SELinux Troubleshoot"
-msgstr "Solución de problemas de SELinux"
+msgstr "Solución de problemas de SELinux"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:360
 msgid "SELinux is disabled on the system"
-msgstr "Se ha desactivado SELinux en el sistema"
+msgstr "Se ha desactivado SELinux en el sistema"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:280
 msgid "SELinux is disabled on the system."
-msgstr "Se ha desactivado SELinux en el sistema."
+msgstr "Se ha desactivado SELinux en el sistema."#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:272
 msgid "SELinux system status is unknown."
-msgstr "Se desconoce el estado de sistema de SELinux."
+msgstr "Se desconoce el estado de sistema de SELinux."#TODO
 
 #: pkg/storaged/jobs-panel.jsx:35
 msgid "SMART self-test of $target"
-msgstr "SMART auto-diagnóstico de $target"
+msgstr "SMART auto-diagnóstico de $target"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:187
 msgid "SPICE"
-msgstr "SPICE"
+msgstr "SPICE"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:156
 msgid "SPICE Address:"
-msgstr "Dirección SPICE:"
+msgstr "Dirección SPICE:"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:162
 msgid "SPICE Port:"
-msgstr "Puerto SPICE:"
+msgstr "Puerto SPICE:"#TODO
 
 #: pkg/machines/components/desktopConsole.jsx:165
 msgid "SPICE TLS Port:"
-msgstr "Puerto SPICE TLS:"
+msgstr "Puerto SPICE TLS:"#TODO
 
 #: pkg/networkmanager/index.html:235
 msgid "STP Forward delay"
-msgstr "Retardo del reenvío STP"
+msgstr "Retardo del reenvío STP"#TODO
 
 #: pkg/networkmanager/index.html:239
 msgid "STP Hello time"
-msgstr "Tiempo de saludo STP"
+msgstr "Tiempo de saludo STP"#TODO
 
 #: pkg/networkmanager/index.html:243
 msgid "STP Maximum message age"
-msgstr "Edad máxima del mensaje STP"
+msgstr "Edad máxima del mensaje STP"#TODO
 
 #: pkg/networkmanager/index.html:231
 msgid "STP Priority"
-msgstr "Prioridad STP"
+msgstr "Prioridad STP"#TODO
 
 #: pkg/shell/index.html:434
 msgid ""
 "Safari users need to import and trust the certificate of the self-signing "
 "CA:"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:131
 msgid "Saturday"
-msgstr "Sábado"
+msgstr "Sábado"#TODO
 
 #: pkg/packagekit/autoupdates.jsx:326
 msgid "Saturdays"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:377 pkg/machines/components/diskEdit.jsx:176
 #: pkg/machines/components/nicEdit.jsx:179
@@ -6179,19 +6179,19 @@ msgstr ""
 #: pkg/machines/components/vm/memoryModal.jsx:158
 #: pkg/storaged/crypto-keyslots.jsx:266 pkg/storaged/crypto-keyslots.jsx:285
 msgid "Save"
-msgstr "Guardar"
+msgstr "Guardar"#TODO
 
 #: pkg/systemd/hwinfo.jsx:226
 msgid "Save and reboot"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/vdos-panel.jsx:121
 msgid "Save space by compressing individual blocks with LZ4"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/vdos-panel.jsx:125
 msgid "Save space by storing identical data blocks just once"
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -6201,40 +6201,40 @@ msgid ""
 "current disk passphrase."
 msgstr ""
 "Para guardar una nueva frase de acceso hay que desbloquear el disco. Por "
-"favor indique una frase de acceso actual."
+"favor indique una frase de acceso actual."#TODO
 
 #: pkg/lib/machine-info.js:90
 msgid "Sealed-case PC"
-msgstr "PC de Caja Sellada"
+msgstr "PC de Caja Sellada"#TODO
 
 #: pkg/shell/index.html:389
 msgid "Search"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.html:313 pkg/systemd/services.html:317
 #: pkg/systemd/init.js:973
 msgid "Seconds"
-msgstr "Segundos"
+msgstr "Segundos"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:377
 msgid "Secure Shell keys"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/jobs-panel.jsx:56
 msgid "Securely erasing $target"
-msgstr "Borrando de forma segura $target"
+msgstr "Borrando de forma segura $target"#TODO
 
 #: pkg/docker/containers-view.jsx:506 pkg/docker/containers-view.jsx:649
 msgid "Security"
-msgstr "Seguridad"
+msgstr "Seguridad"#TODO
 
 #: pkg/packagekit/updates.jsx:849
 msgid "Security Updates Available"
-msgstr "Actualizaciones de Seguridad Disponibles"
+msgstr "Actualizaciones de Seguridad Disponibles"#TODO
 
 #: pkg/shell/index.html:124
 msgid "Select"
-msgstr "Seleccionar"
+msgstr "Seleccionar"#TODO
 
 #: pkg/lib/machine-sync-users.html:8
 msgid ""
@@ -6242,233 +6242,233 @@ msgid ""
 "{{#strong}}{{host}}{{/strong}}"
 msgstr ""
 "Seleccione el usuario con el que le gustaría sincronizar  "
-"{{#strong}}{{host}}{{/strong}}"
+"{{#strong}}{{host}}{{/strong}}"#TODO
 
 #: pkg/systemd/reporting.jsx:245
 msgid "Send"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/vm/vmActions.jsx:66
 msgid "Send Non-Maskable Interrupt"
-msgstr "Enviar Interrupción no Enmascarable"
+msgstr "Enviar Interrupción no Enmascarable"#TODO
 
 #: pkg/machines/components/vnc.jsx:108
 msgid "Send key"
-msgstr "Tecla Enviar"
+msgstr "Tecla Enviar"#TODO
 
 #: pkg/networkmanager/index.html:86 pkg/networkmanager/index.html:127
 #: pkg/networkmanager/index.html:145 pkg/networkmanager/index.html:422
 #: pkg/networkmanager/index.html:455
 msgid "Sending"
-msgstr "Enviando"
+msgstr "Enviando"#TODO
 
 #: pkg/machines/components/consoles.jsx:69
 msgid "Serial Console"
-msgstr "Consola Serie"
+msgstr "Consola Serie"#TODO
 
 #: src/ws/login.html:92 pkg/kdump/kdump-view.jsx:116
 #: pkg/storaged/nfs-details.jsx:316 pkg/storaged/nfs-panel.jsx:102
 msgid "Server"
-msgstr "Servidor"
+msgstr "Servidor"#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:44 pkg/storaged/nfs-details.jsx:139
 msgid "Server Address"
-msgstr "Dirección del Servidor"
+msgstr "Dirección del Servidor"#TODO
 
 #: pkg/users/local.js:764 pkg/users/local.js:765
-msgid "Server Administrator"
+msgid "Server Administrator"#TODO
 msgstr "Administrador del Servidor"
 
 #: pkg/realmd/operation.html:17
 msgid "Server Software"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:45
 msgid "Server address cannot be empty."
-msgstr "La dirección del servidor no puede estar vacía."
+msgstr "La dirección del servidor no puede estar vacía."#TODO
 
 #: pkg/storaged/nfs-details.jsx:144
 msgid "Server cannot be empty."
-msgstr "Servidor no puede estar vacío."
+msgstr "Servidor no puede estar vacío."#TODO
 
 #: src/base1/cockpit.js:4050
 msgid "Server has closed the connection."
-msgstr "El server a cerrado la conexión"
+msgstr "El server a cerrado la conexión"#TODO
 
 #: pkg/dashboard/index.html:86
 msgid "Servers"
-msgstr "Servidores"
+msgstr "Servidores"#TODO
 
 #: pkg/systemd/logs.html:66 pkg/networkmanager/firewall.jsx:169
 #: pkg/storaged/dialog.jsx:1034
 msgid "Service"
-msgstr "Servicio"
+msgstr "Servicio"#TODO
 
 #: pkg/systemd/services.html:228
 msgid "Service Logs"
-msgstr "Bitácoras del Servicio"
+msgstr "Bitácoras del Servicio"#TODO
 
 #: pkg/kdump/kdump-view.jsx:445
 msgid "Service has an error"
-msgstr "El servicio tiene un error"
+msgstr "El servicio tiene un error"#TODO
 
 #: pkg/kdump/kdump-view.jsx:441
 msgid "Service is running"
-msgstr "Se está ejecutando el servicio"
+msgstr "Se está ejecutando el servicio"#TODO
 
 #: pkg/kdump/kdump-view.jsx:447
 msgid "Service is starting"
-msgstr "Se está iniciando el servicio"
+msgstr "Se está iniciando el servicio"#TODO
 
 #: pkg/kdump/kdump-view.jsx:443
 msgid "Service is stopped"
-msgstr "Se ha detenido el servicio"
+msgstr "Se ha detenido el servicio"#TODO
 
 #: pkg/kdump/kdump-view.jsx:449
 msgid "Service is stopping"
-msgstr "Se está deteniendo el servicio"
+msgstr "Se está deteniendo el servicio"#TODO
 
 #: pkg/systemd/services.html:253
 msgid "Service name"
-msgstr "Nombre de servicio"
+msgstr "Nombre de servicio"#TODO
 
 #: pkg/systemd/services.html:4 pkg/systemd/services.html:221
 #: pkg/networkmanager/firewall.jsx:507 pkg/systemd/manifest.json.in
 msgid "Services"
-msgstr "Servicios"
+msgstr "Servicios"#TODO
 
 #: pkg/machines/components/machinesConnectionSelector.jsx:50
 #: pkg/machines/helpers.js:192 pkg/storaged/dialog.jsx:1030
 msgid "Session"
-msgstr "Sesión"
+msgstr "Sesión"#TODO
 
 #: pkg/shell/index.html:134
 msgid "Session is about to expire"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/dashboard/index.html:176 pkg/users/index.html:238
 msgid "Set"
-msgstr "Establecer"
+msgstr "Establecer"#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:217
 msgid "Set DHCP Range"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:330
 msgid "Set Hostname"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/users/index.html:121 pkg/users/index.html:211
 msgid "Set Password"
-msgstr "Establecer contraseña"
+msgstr "Establecer contraseña"#TODO
 
 #: pkg/systemd/index.html:91
 msgid "Set Time"
-msgstr "Ajustar Hora"
+msgstr "Ajustar Hora"#TODO
 
 #: pkg/docker/index.html:532
 msgid "Set container environment variables"
-msgstr "Ajustar variables de entorno del contenedor"
+msgstr "Ajustar variables de entorno del contenedor"#TODO
 
 #: pkg/machines/components/nicAdd.jsx:60
 msgid "Set manually"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/index.html:190
 msgid "Set to"
-msgstr "Ajustar a"
+msgstr "Ajustar a"#TODO
 
 #: pkg/packagekit/updates.jsx:62
 msgid "Set up"
-msgstr "Preparar"
+msgstr "Preparar"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:289
 msgid ""
 "Setting deviates from the configured state and will revert on the next boot."
 msgstr ""
 "Los ajustes se desvían del estado configurado y serán revertidos en el "
-"próximo arranque."
+"próximo arranque."#TODO
 
 #: pkg/packagekit/updates.jsx:54
 msgid "Setting up"
-msgstr "Configurar"
+msgstr "Configurar"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:51
 msgid "Setting up loop device $target"
-msgstr "Configurando dispositivo de retorno $target"
+msgstr "Configurando dispositivo de retorno $target"#TODO
 
 #: pkg/systemd/logs.html:48 pkg/packagekit/updates.jsx:386
 msgid "Severity"
-msgstr "Severidad"
+msgstr "Severidad"#TODO
 
 #: pkg/packagekit/updates.jsx:314
 msgid "Severity:"
-msgstr "Severidad:"
+msgstr "Severidad:"#TODO
 
 #: pkg/networkmanager/interfaces.js:1947
 msgid "Shared"
-msgstr "Compartido"
+msgstr "Compartido"#TODO
 
 #: pkg/lib/cockpit-components-modifications.jsx:76
 msgid "Shell Script"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/lib/cockpit-components-context-menu.jsx:108
 msgid "Shift+Insert"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/diskAdd.jsx:167
 msgid "Show Performance Options"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/overview.jsx:52
 msgid "Show all"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/things-panel.jsx:82
 msgid "Show all $0 devices"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/drives-panel.jsx:104
 msgid "Show all $0 drives"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:128
 msgid "Show all containers"
-msgstr "Mostrar todos los contenedores"
+msgstr "Mostrar todos los contenedores"#TODO
 
 #: pkg/docker/index.html:249
 msgid "Show all images"
-msgstr "Mostrar todas las imágenes"
+msgstr "Mostrar todas las imágenes"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:380
 msgid "Show fingerprints"
-msgstr "Mostrar huellas dactilares"
+msgstr "Mostrar huellas dactilares"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:325 pkg/storaged/lvol-tabs.jsx:407
 msgid "Shrink"
-msgstr "Encogimiento"
+msgstr "Encogimiento"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:321
 msgid "Shrink Logical Volume"
-msgstr "Encoger Volumen Lógico"
+msgstr "Encoger Volumen Lógico"#TODO
 
 #: pkg/storaged/lvol-tabs.jsx:421
 msgid "Shrink Volume"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/vm/vmActions.jsx:56 pkg/systemd/shutdown.js:96
 #: pkg/systemd/shutdown.js:97
 msgid "Shut Down"
-msgstr "Apagar"
+msgstr "Apagar"#TODO
 
 #: pkg/systemd/overview.jsx:104
 msgid "Shutdown"
-msgstr "Apagar"
+msgstr "Apagar"#TODO
 
 #: pkg/lib/machine-info.js:245
 msgid "Single Rank"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/containers-view.jsx:687
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:470
@@ -6482,77 +6482,77 @@ msgstr ""
 #: pkg/storaged/nfs-details.jsx:322 pkg/storaged/nfs-panel.jsx:104
 #: pkg/storaged/part-tab.jsx:36 pkg/systemd/hwinfo.jsx:271
 msgid "Size"
-msgstr "Tamaño"
+msgstr "Tamaño"#TODO
 
 #: pkg/storaged/dialog.jsx:898
 msgid "Size cannot be negative"
-msgstr "El tamaño no puede ser negativo"
+msgstr "El tamaño no puede ser negativo"#TODO
 
 #: pkg/storaged/dialog.jsx:896
 msgid "Size cannot be zero"
-msgstr "El tamaño no puede ser cero"
+msgstr "El tamaño no puede ser cero"#TODO
 
 #: pkg/storaged/dialog.jsx:900
 msgid "Size is too large"
-msgstr "Tamaño es muy grande"
+msgstr "Tamaño es muy grande"#TODO
 
 #: pkg/storaged/dialog.jsx:894
 msgid "Size must be a number"
-msgstr "Tamaña debe ser un número"
+msgstr "Tamaña debe ser un número"#TODO
 
 #: pkg/storaged/dialog.jsx:902
 msgid "Size must be at least $0"
-msgstr "El tamaño debe ser al menos $0"
+msgstr "El tamaño debe ser al menos $0"#TODO
 
 #: pkg/systemd/hwinfo.jsx:260
 msgid "Slot"
-msgstr "Espacio"
+msgstr "Espacio"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:544
 msgid "Slot $0"
-msgstr "Espacio $0"
+msgstr "Espacio $0"#TODO
 
 #: pkg/machines/components/vcpuModal.jsx:220 pkg/systemd/services.jsx:51
 msgid "Sockets"
-msgstr "Sockets"
+msgstr "Sockets"#TODO
 
 #: pkg/packagekit/index.html:23 pkg/packagekit/manifest.json.in
 msgid "Software Updates"
-msgstr "Actualizaciones de Software"
+msgstr "Actualizaciones de Software"#TODO
 
 #: pkg/systemd/hwinfo.jsx:212
 msgid ""
 "Software-based workarounds help prevent CPU security issues. These "
 "mitigations have the side effect of reducing performance. Change these "
 "settings at your own risk."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/storage.jsx:167
 msgid "Solid-State Disk"
-msgstr "Disco de Estado Sólido"
+msgstr "Disco de Estado Sólido"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:95
 msgid "Solution applied successfully"
-msgstr "Solución aplicada con éxito"
+msgstr "Solución aplicada con éxito"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:101
 msgid "Solution failed"
-msgstr "Fallo en la solución"
+msgstr "Fallo en la solución"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:414
 msgid "Solutions"
-msgstr "Soluciones"
+msgstr "Soluciones"#TODO
 
 #: pkg/packagekit/updates.jsx:41
 msgid ""
 "Some other program is currently using the package manager, please wait..."
 msgstr ""
 "Algún otro programa está usando actualmente el gestor de paquetes, por favor"
-" espere..."
+" espere..."#TODO
 
 #: pkg/networkmanager/firewall.jsx:677
 msgid "Sorted from least trusted to most trusted"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/diskAdd.jsx:469
 #: pkg/machines/components/nicBody.jsx:146
@@ -6560,109 +6560,109 @@ msgstr ""
 #: pkg/machines/components/vmDisksTab.jsx:117
 #: pkg/machines/components/vmnetworktab.jsx:179
 msgid "Source"
-msgstr "Fuente"
+msgstr "Fuente"#TODO
 
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:57
 msgid "Source Format"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:207
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:234
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:42
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:47
 msgid "Source Path"
-msgstr "Dirección de origen"
+msgstr "Dirección de origen"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:272
 msgid "Source Volume Group"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:224
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:245
 msgid "Source path should not be empty"
-msgstr "La ruta de origen no debe estar vacía"
+msgstr "La ruta de origen no debe estar vacía"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:147
 msgid "Source should start with http, ftp or nfs protocol"
-msgstr "La fuente debería empezar con http, ftp o protocolo nfs"
+msgstr "La fuente debería empezar con http, ftp o protocolo nfs"#TODO
 
 #: pkg/lib/machine-info.js:81
 msgid "Space-saving Computer"
-msgstr "Ordenador que Ahorra Espacio"
+msgstr "Ordenador que Ahorra Espacio"#TODO
 
 #: pkg/networkmanager/interfaces.js:2839
 msgid "Spanning Tree Protocol"
-msgstr "Spanning Tree Protocol"
+msgstr "Spanning Tree Protocol"#TODO
 
 #: pkg/networkmanager/index.html:225
 msgid "Spanning Tree Protocol (STP)"
-msgstr "Spanning Tree Protocol (STP)"
+msgstr "Spanning Tree Protocol (STP)"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:96
 msgid "Spare"
-msgstr "Libre"
+msgstr "Libre"#TODO
 
 #: pkg/systemd/index.html:194
 msgid "Specific Time"
-msgstr "Hora Específica"
+msgstr "Hora Específica"#TODO
 
 #: pkg/systemd/hwinfo.jsx:271
 msgid "Speed"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/networkmanager/interfaces.js:3622
 msgid "Stable"
-msgstr "Estable"
+msgstr "Estable"#TODO
 
 #: pkg/docker/index.html:136 pkg/docker/containers-view.jsx:312
 #: pkg/machines/components/networks/createNetworkDialog.jsx:223
 #: pkg/storaged/mdraid-details.jsx:313 pkg/storaged/swap-tab.jsx:77
 #: pkg/storaged/vdo-details.jsx:258 pkg/systemd/service-details.jsx:177
 msgid "Start"
-msgstr "Iniciar"
+msgstr "Iniciar"#TODO
 
 #: pkg/docker/index.html:68
 msgid "Start Docker"
-msgstr "Iniciar a Docker"
+msgstr "Iniciar a Docker"#TODO
 
 #: pkg/storaged/multipath.jsx:69
 msgid "Start Multipath"
-msgstr "Inicio multitrayecto"
+msgstr "Inicio multitrayecto"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/networkmanager/index.html:48 pkg/systemd/service-details.jsx:344
 msgid "Start Service"
-msgstr "Iniciar servicio"
+msgstr "Iniciar servicio"#TODO
 
 #: pkg/systemd/service-details.jsx:414
 msgid "Start and Enable"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/libvirtSlate.jsx:118
 msgid "Start libvirt"
-msgstr "Inicar libvirt"
+msgstr "Inicar libvirt"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:304
 msgid "Start pool when host boots"
-msgstr "Empezar el pool cuando el host arranque."
+msgstr "Empezar el pool cuando el host arranque."#TODO
 
 #: pkg/machines/components/networks/createNetworkDialog.jsx:56
 #: pkg/machines/components/networks/createNetworkDialog.jsx:84
 msgid "Start should not be empty"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/jobs-panel.jsx:59
 msgid "Starting RAID Device $target"
-msgstr "Iniciando dispositivo RAID $target"
+msgstr "Iniciando dispositivo RAID $target"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:41
 msgid "Starting swapspace $target"
-msgstr "Iniciando espacio de swap $target"
+msgstr "Iniciando espacio de swap $target"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:297
 msgid "Startup"
-msgstr "Puesta en marcha"
+msgstr "Puesta en marcha"#TODO
 
 #: pkg/docker/containers-view.jsx:133 pkg/docker/containers-view.jsx:359
 #: pkg/machines/components/networks/networkList.jsx:55
@@ -6671,186 +6671,186 @@ msgstr "Puesta en marcha"
 #: pkg/machines/hostvmslist.jsx:83 pkg/systemd/hwinfo.jsx:271
 #: pkg/systemd/init.js:312
 msgid "State"
-msgstr "Estado"
+msgstr "Estado"#TODO
 
 #: pkg/docker/index.html:168
 msgid "State:"
-msgstr "Estado:"
+msgstr "Estado:"#TODO
 
 #: pkg/systemd/services.html:67 pkg/systemd/init.js:219
 #: pkg/systemd/service-details.jsx:372
 msgid "Static"
-msgstr "Estático"
+msgstr "Estático"#TODO
 
 #: pkg/networkmanager/interfaces.js:2595 pkg/systemd/service-details.jsx:477
 msgid "Status"
-msgstr "Estado"
+msgstr "Estado"#TODO
 
 #: pkg/lib/machine-info.js:102
 msgid "Stick PC"
-msgstr "Stick PC"
+msgstr "Stick PC"#TODO
 
 #: pkg/networkmanager/index.html:374
 msgid "Sticky"
-msgstr "Pegajoso"
+msgstr "Pegajoso"#TODO
 
 #: pkg/docker/index.html:137 pkg/docker/containers-view.jsx:310
 #: pkg/storaged/mdraid-details.jsx:312 pkg/storaged/swap-tab.jsx:76
 #: pkg/storaged/vdo-details.jsx:140 pkg/storaged/vdo-details.jsx:257
 #: pkg/systemd/service-details.jsx:173
 msgid "Stop"
-msgstr "Detener"
+msgstr "Detener"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:242
 msgid "Stop Device"
-msgstr "Para Dispositivo"
+msgstr "Para Dispositivo"#TODO
 
 #: pkg/systemd/service-details.jsx:414
 msgid "Stop and Disable"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:260
 msgid "Stop and Unmount"
-msgstr "Parar y Desmontar"
+msgstr "Parar y Desmontar"#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/docker/util.js:639
 msgid "Stop and delete"
-msgstr "Parar y borrar"
+msgstr "Parar y borrar"#TODO
 
 #: pkg/storaged/nfs-details.jsx:285
 msgid "Stop and remove"
-msgstr "Parar y quitar"
+msgstr "Parar y quitar"#TODO
 
 #: pkg/docker/util.js:231
 msgid "Stopped"
-msgstr "Detenido"
+msgstr "Detenido"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:58
 msgid "Stopping RAID Device $target"
-msgstr "Deteniendo dispositivo RAID $target"
+msgstr "Deteniendo dispositivo RAID $target"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:42
 msgid "Stopping swapspace $target"
-msgstr "Deteniendo espacio de swap $target"
+msgstr "Deteniendo espacio de swap $target"#TODO
 
 #: pkg/docker/index.html:290 pkg/storaged/index.html:23
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:433
 #: pkg/storaged/details.jsx:127 pkg/storaged/manifest.json.in
 msgid "Storage"
-msgstr "Almacenamiento"
+msgstr "Almacenamiento"#TODO
 
 #: pkg/storaged/logs-panel.jsx:37
 msgid "Storage Logs"
-msgstr "Bitácoras de Almacenamiento"
+msgstr "Bitácoras de Almacenamiento"#TODO
 
 #: pkg/machines/components/aggregateStatusCards.jsx:47
 msgid "Storage Pool"
 msgid_plural "Storage Pools"
-msgstr[0] ""
+msgstr[0] ""#TODO
 
 #: pkg/machines/components/storagePools/storagePool.jsx:139
 msgid "Storage Pool $0 failed to get activated"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/storagePool.jsx:153
 msgid "Storage Pool $0 failed to get deactivated"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:47
 msgid "Storage Pool Name"
-msgstr "Nombre del grupo de almacenamiento"
+msgstr "Nombre del grupo de almacenamiento"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:461
 msgid "Storage Pool failed to be created"
-msgstr "No se pudo crear la agrupación de almacenamiento"
+msgstr "No se pudo crear la agrupación de almacenamiento"#TODO
 
 #: pkg/machines/components/storagePools/storagePoolList.jsx:49
 #: pkg/machines/components/storagePools/storagePoolList.jsx:53
 msgid "Storage Pools"
-msgstr "Piscinas de almacenamiento"
+msgstr "Piscinas de almacenamiento"#TODO
 
 #: pkg/machines/components/diskEdit.jsx:40
 msgid "Storage Volume"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/storagePools/storagePool.jsx:88
 msgid "Storage Volumes"
-msgstr "Volúmenes de almacenamiento"
+msgstr "Volúmenes de almacenamiento"#TODO
 
 #: pkg/machines/components/storagePools/storageVolumeDelete.jsx:48
 msgid "Storage Volumes could not be deleted"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/devices.jsx:76
 msgid "Storage can not be managed on this system."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:304
 msgid "Storage pool"
-msgstr "Grupo de almacenamiento"
+msgstr "Grupo de almacenamiento"#TODO
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:172
 msgid "Storage size must not be 0"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:386
 msgid "Store metrics"
-msgstr "Métricas de la tienda"
+msgstr "Métricas de la tienda"#TODO
 
 #: pkg/storaged/format-dialog.jsx:69
 msgid "Store passphrase"
-msgstr "Guardar palabra de paso"
+msgstr "Guardar palabra de paso"#TODO
 
 #: pkg/storaged/crypto-tab.jsx:68 pkg/storaged/crypto-tab.jsx:70
 msgid "Stored Passphrase"
-msgstr "Frase de paso guardada"
+msgstr "Frase de paso guardada"#TODO
 
 #: pkg/storaged/crypto-tab.jsx:127
 msgid "Stored passphrase"
-msgstr "Frase de paso almacenada"
+msgstr "Frase de paso almacenada"#TODO
 
 #: pkg/lib/machine-info.js:85
 msgid "Sub Chassis"
-msgstr "Sub Chasis"
+msgstr "Sub Chasis"#TODO
 
 #: pkg/lib/machine-info.js:80
 msgid "Sub Notebook"
-msgstr "Sub Portátil"
+msgstr "Sub Portátil"#TODO
 
 #: pkg/systemd/services.html:132
 msgid "Sunday"
-msgstr "Domingo"
+msgstr "Domingo"#TODO
 
 #: pkg/packagekit/autoupdates.jsx:327
 msgid "Sundays"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/optional-panel.jsx:98
 msgid "Support is installed."
-msgstr "El soporte está instalado."
+msgstr "El soporte está instalado."#TODO
 
 #: pkg/storaged/content-views.jsx:164
 msgid "Swap"
-msgstr "Intercambio"
+msgstr "Intercambio"#TODO
 
 #: pkg/storaged/content-views.jsx:373
 msgctxt "storage-id-desc"
 msgid "Swap Space"
-msgstr "Espacio de intercambio"
+msgstr "Espacio de intercambio"#TODO
 
 #: pkg/systemd/graphs.html:157 pkg/systemd/graphs.js:411
 msgid "Swap Used"
-msgstr "Swap utilizada"
+msgstr "Swap utilizada"#TODO
 
 #: pkg/networkmanager/interfaces.js:2475 pkg/networkmanager/interfaces.js:3022
 msgid "Switch off $0"
-msgstr "Apagar $0"
+msgstr "Apagar $0"#TODO
 
 #: pkg/networkmanager/interfaces.js:2450 pkg/networkmanager/interfaces.js:3010
 msgid "Switch on $0"
-msgstr "Encender $0"
+msgstr "Encender $0"#TODO
 
 #: pkg/networkmanager/interfaces.js:2474
 msgid ""
@@ -6858,7 +6858,7 @@ msgid ""
 "make the administration UI unavailable."
 msgstr ""
 "Apagando <b>$0</b>  romperá la conexión al servidor y hará la administración"
-" de UI no disponible."
+" de UI no disponible."#TODO
 
 #: pkg/networkmanager/interfaces.js:3021
 msgid ""
@@ -6866,7 +6866,7 @@ msgid ""
 "make the administration UI unavailable."
 msgstr ""
 "Apagando <b>$0</b>  romperá la conexión al servidor y hará la administración"
-" de UI no disponible."
+" de UI no disponible."#TODO
 
 #: pkg/networkmanager/interfaces.js:2449 pkg/networkmanager/interfaces.js:3009
 msgid ""
@@ -6874,223 +6874,223 @@ msgid ""
 "make the administration UI unavailable."
 msgstr ""
 "Apagando <b>$0</b>  romperá la conexión al servidor y hará la administración"
-" de UI no disponible."
+" de UI no disponible."#TODO
 
 #: pkg/lib/machine-sync-users.html:77
 msgid "Synchronize"
-msgstr "Sincronizar"
+msgstr "Sincronizar"#TODO
 
 #: pkg/dashboard/index.html:174 pkg/lib/machine-sync-users.html:4
 msgid "Synchronize users"
-msgstr "Sincronizar usuarios"
+msgstr "Sincronizar usuarios"#TODO
 
 #: pkg/systemd/index.html:42
 msgid "Synchronized"
-msgstr "Sincronizado"
+msgstr "Sincronizado"#TODO
 
 #: pkg/systemd/index.html:39
 msgid "Synchronized with {{Server}}"
-msgstr "Sincronizado con {{Server}}"
+msgstr "Sincronizado con {{Server}}"#TODO
 
 #: pkg/storaged/jobs-panel.jsx:66
 msgid "Synchronizing RAID Device $target"
-msgstr "Sincronizando el Dispositivo RAID $target"
+msgstr "Sincronizando el Dispositivo RAID $target"#TODO
 
 #: pkg/machines/components/machinesConnectionSelector.jsx:43
 #: pkg/machines/helpers.js:191
 msgid "System"
-msgstr "Sistema"
+msgstr "Sistema"#TODO
 
 #: pkg/systemd/hwinfo.jsx:286
 msgid "System Information"
-msgstr "Información del Sistema"
+msgstr "Información del Sistema"#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:462
 msgid "System Modifications"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/systemd/services.jsx:49
 msgid "System Services"
-msgstr "Servicios de Sistema"
+msgstr "Servicios de Sistema"#TODO
 
 #: pkg/systemd/overview-cards/systemInformationCard.jsx:87
 msgid "System information"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/packagekit/updates.jsx:934 pkg/packagekit/updates.jsx:947
 msgid "System is up to date"
-msgstr "El sistema está actualizado"
+msgstr "El sistema está actualizado"#TODO
 
 #: pkg/systemd/overview-cards/configurationCard.jsx:357
 msgid "System time"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/index.html:329 pkg/docker/index.html:333
 #: pkg/networkmanager/firewall.jsx:169
 msgid "TCP"
 msgstr ""
 "TCP: Protocolo de Control de Transmisión, por sus siglas en ingles "
-"(Transmission Control Protocol)"
+"(Transmission Control Protocol)"#TODO
 
 #: pkg/lib/machine-info.js:96
 msgid "Tablet"
-msgstr "Tableta"
+msgstr "Tableta"#TODO
 
 #: pkg/docker/index.html:696
 msgid "Tag"
-msgstr "Etiquetas"
+msgstr "Etiquetas"#TODO
 
 #: pkg/docker/containers-view.jsx:409
 msgid "Tags"
-msgstr "Etiquetas"
+msgstr "Etiquetas"#TODO
 
 #: pkg/storaged/crypto-keyslots.jsx:210
 msgid "Tang keyserver"
-msgstr "Tang keyserver"
+msgstr "Tang keyserver"#TODO
 
 #: pkg/machines/components/vm/bootOrderModal.jsx:133
 msgid "Target"
-msgstr "Objetivo"
+msgstr "Objetivo"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:111
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:62
 msgid "Target Path"
-msgstr "Ruta de destino"
+msgstr "Ruta de destino"#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:120
 msgid "Target path should not be empty"
-msgstr "La ruta de destino no debe estar vacía"
+msgstr "La ruta de destino no debe estar vacía"#TODO
 
 #: pkg/systemd/services.jsx:50
 msgid "Targets"
-msgstr "Objetivos"
+msgstr "Objetivos"#TODO
 
 #: pkg/networkmanager/interfaces.js:2495 pkg/networkmanager/interfaces.js:2507
 #: pkg/networkmanager/interfaces.js:2796
 msgid "Team"
-msgstr "Equipo"
+msgstr "Equipo"#TODO
 
 #: pkg/networkmanager/interfaces.js:2824
 msgid "Team Port"
-msgstr "Puerto de Equipo"
+msgstr "Puerto de Equipo"#TODO
 
 #: pkg/networkmanager/index.html:551
 msgid "Team Port Settings"
-msgstr "Ajustes de Puerto de Equipo"
+msgstr "Ajustes de Puerto de Equipo"#TODO
 
 #: pkg/networkmanager/index.html:525
 msgid "Team Settings"
-msgstr "Ajustes de Equipo"
+msgstr "Ajustes de Equipo"#TODO
 
 #: pkg/systemd/terminal.html:4 pkg/systemd/manifest.json.in
 msgid "Terminal"
-msgstr "Terminal"
+msgstr "Terminal"#TODO
 
 #: pkg/users/index.html:78
 msgid "Terminate Session"
-msgstr "Terminar sesión"
+msgstr "Terminar sesión"#TODO
 
 #: pkg/kdump/kdump-view.jsx:479 pkg/kdump/kdump-view.jsx:487
 msgid "Test Configuration"
-msgstr "Comprobar la configuración"
+msgstr "Comprobar la configuración"#TODO
 
 #: pkg/kdump/kdump-view.jsx:483
 msgid "Test is only available while the kdump service is running."
 msgstr ""
-"Las pruebas solo están disponibles cuando el servicio kdump está corriendo."
+"Las pruebas solo están disponibles cuando el servicio kdump está corriendo."#TODO
 
 #: pkg/kdump/kdump-view.jsx:293
 msgid "Test kdump settings"
-msgstr "Ajustes de prueba kdump"
+msgstr "Ajustes de prueba kdump"#TODO
 
 #: pkg/networkmanager/index.html:38
 msgid "Testing connection"
-msgstr "Probando conexión"
+msgstr "Probando conexión"#TODO
 
 #: pkg/machines/components/deleteResource.jsx:46
 msgid "The $0 could not be deleted"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/vdos-panel.jsx:45
 msgid "The $0 package must be installed to create VDO devices."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/docker/storage.jsx:523
 msgid "The Docker storage pool cannot be managed on this system."
 msgstr ""
-"El grupo del almacenamiento Docker no se puede administrar en este sistema."
+"El grupo del almacenamiento Docker no se puede administrar en este sistema."#TODO
 
 #: pkg/lib/machine-dialogs.js:390
 msgid "The IP address or host name cannot contain whitespace."
 msgstr ""
-"La dirección IP o el nombre de dominio no puede tener espacios en blanco"
+"La dirección IP o el nombre de dominio no puede tener espacios en blanco"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:212
 msgid "The RAID Array is in a degraded state"
-msgstr "El Array RAID está en estado degradado"
+msgstr "El Array RAID está en estado degradado"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:143
 msgid "The RAID device must be running in order to add spare disks."
 msgstr ""
 "El dispositivo RAID debe estar corriendo con el objetivo de añadir discos de"
-" repuesto."
+" repuesto."#TODO
 
 #: pkg/storaged/mdraid-details.jsx:110
 msgid "The RAID device must be running in order to remove disks."
 msgstr ""
-"El dispositivo RAID debe estar corriendo con el objetivo de quitar discos."
+"El dispositivo RAID debe estar corriendo con el objetivo de quitar discos."#TODO
 
 #: pkg/machines/components/storagePools/storagePoolDelete.jsx:125
 #: pkg/machines/components/storagePools/storagePoolDelete.jsx:129
 msgid "The Storage Pool could not be deleted"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:40
 msgid "The VM crashed."
-msgstr "El VM se ha roto."
+msgstr "El VM se ha roto."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:39
 msgid "The VM is down."
-msgstr "El VM está abajo."
+msgstr "El VM está abajo."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:38
 msgid "The VM is going down."
-msgstr "El VM está cayendo."
+msgstr "El VM está cayendo."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:36
 msgid "The VM is idle."
-msgstr "La VM está ocioso."
+msgstr "La VM está ocioso."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:43
 msgid "The VM is in process of dying (shut down or crash is not completed)."
-msgstr "La VM está moribundo (el apagado o la caída no se ha completado)."
+msgstr "La VM está moribundo (el apagado o la caída no se ha completado)."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:37
 msgid "The VM is paused."
-msgstr "La VM está pausado."
+msgstr "La VM está pausado."#TODO
 
 #: pkg/machines/components/deleteDialog.jsx:64
 msgid "The VM is running and will be forced off before deletion."
-msgstr "La VM está corriendo y se forzará antes de la eliminación."
+msgstr "La VM está corriendo y se forzará antes de la eliminación."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:35
 msgid "The VM is running."
-msgstr "La VM está corriendo."
+msgstr "La VM está corriendo."#TODO
 
 #: pkg/machines/components/vm/stateIcon.jsx:47
 msgid "The VM is suspended by guest power management."
 msgstr ""
-"La VM está suspendida por la administración de energía de los invitados."
+"La VM está suspendida por la administración de energía de los invitados."#TODO
 
 #: pkg/machines/components/vmDisksTab.jsx:176
 #: pkg/machines/components/vmnetworktab.jsx:230
 msgid "The VM needs to be running or shut off to detach this device"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/users/local.js:1356
 msgid "The account '$0' will be forced to change their password on next login"
 msgstr ""
-"Se forzará a la cuenta '$0' a cambiar su contraseña en el próximo acceso"
+"Se forzará a la cuenta '$0' a cambiar su contraseña en el próximo acceso"#TODO
 
 #: pkg/lib/machine-unknown-hostkey.html:6
 msgid ""
@@ -7098,46 +7098,46 @@ msgid ""
 "established. Are you sure you want to continue connecting?"
 msgstr ""
 "La autenticidad del host {{#strong}}{{host}}{{/strong}} no se ha podido "
-"establecer.¿Está seguro que desea continuar con la conexión?"
+"establecer.¿Está seguro que desea continuar con la conexión?"#TODO
 
 #: pkg/networkmanager/firewall.jsx:703
 msgid "The cockpit service is automatically included"
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/sosreport/index.html:35
 msgid "The collected information will be stored locally on the system."
-msgstr "La información recolectada será almacenada localmente en el sistema."
+msgstr "La información recolectada será almacenada localmente en el sistema."#TODO
 
 #: pkg/selinux/setroubleshoot-view.jsx:287
 msgid "The configured state is unknown, it might change on the next boot."
 msgstr ""
-"El estado configurado es desconocido, podría cambiar en el próximo arranque."
+"El estado configurado es desconocido, podría cambiar en el próximo arranque."#TODO
 
 #: pkg/storaged/vdo-details.jsx:101
 msgid ""
 "The creation of this VDO device did not finish and the device can't be used."
 msgstr ""
 "La creación de este dispositivo VDO no ha finalizado y el dispositivo no "
-"podrá ser usado."
+"podrá ser usado."#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
 #: pkg/storaged/crypto-keyslots.jsx:529
 msgid ""
 "The currently logged in user is not permitted to see information about keys."
-msgstr "El usuario actual no tiene permitido ver información de claves."
+msgstr "El usuario actual no tiene permitido ver información de claves."#TODO
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:191
 msgid "The directory on the server being exported"
-msgstr "El directorio en el servidor que se está exportando."
+msgstr "El directorio en el servidor que se está exportando."#TODO
 
 #: pkg/storaged/fsys-tab.jsx:392
 msgid "The filesystem has no permanent mount point."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:256
 msgid "The filesystem is already mounted at $0.  Proceeding will unmount it."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:465
 msgid ""
@@ -7149,33 +7149,33 @@ msgstr ""
 msgid ""
 "The filesystem is currently mounted on $0 but will be mounted on $1 on the "
 "next boot."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:469
 msgid ""
 "The filesystem is currently mounted on $0 but will not be mounted after the "
 "next boot."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/fsys-tab.jsx:461
 msgid ""
 "The filesystem is currently not mounted but will be mounted on the next "
 "boot."
-msgstr ""
+msgstr ""#TODO
 
 #: pkg/storaged/dialog.jsx:999
 msgid ""
 "The filesystem is in use by login sessions and system services. Proceeding "
 "will stop these."
-msgstr ""
+msgstr ""#TODO
 "El sistema de archivos está en uso por sesiones de inicio de sesión y "
-"servicios del sistema. Procediendo detendrá estos."
+"servicios del sistema. Procediendo detendrá estos."#TODO
 
 #: pkg/storaged/dialog.jsx:1001
 msgid ""
 "The filesystem is in use by login sessions. Proceeding will stop these."
 msgstr ""
-"El sistema de archivos está en uso por sesiones de inicio de sesión. "
+"El sistema de archivos está en uso por sesiones de inicio de sesión. "#TODO
 "Procediendo detendrá estos."
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
@@ -7185,11 +7185,11 @@ msgid ""
 "The filesystem is in use by system services. Proceeding will stop these."
 msgstr ""
 "Hay servicios del sistema usando el sistema de archivos. Si continúa se "
-"pararán."
+"pararán."#TODO
 
 #: pkg/storaged/fsys-tab.jsx:394
 msgid "The filesystem is not mounted."
-msgstr ""
+msgstr ""#TODO
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -7197,7 +7197,7 @@ msgstr ""
 msgid ""
 "The following containers depend on this image and will become unusable."
 msgstr ""
-"Los siguientes contenedores dependen de esta imagen y no podrán usarse."
+"Los siguientes contenedores dependen de esta imagen y no podrán usarse."#TODO
 
 #: pkg/sosreport/index.html:51
 msgid ""
