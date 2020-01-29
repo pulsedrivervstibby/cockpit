@@ -954,7 +954,7 @@ msgstr "Aplicaciones"#TODO
 #: pkg/storaged/crypto-tab.jsx:108 pkg/storaged/fsys-tab.jsx:270
 #: pkg/storaged/fsys-tab.jsx:347 pkg/storaged/nfs-details.jsx:191
 msgid "Apply"
-msgstr "Aplicar"#TODO
+msgstr "Aplicar"
 
 #: pkg/packagekit/autoupdates.jsx:311
 msgid "Apply all updates"
@@ -1240,7 +1240,7 @@ msgstr "Chasis de Expansión de Bus"#TODO
 #: pkg/dashboard/index.html:70 pkg/docker/index.html:272
 #: pkg/docker/containers-view.jsx:359 pkg/systemd/hwinfo.jsx:99
 msgid "CPU"
-msgstr "CPU"#TODO
+msgstr "CPU"
 
 #: pkg/systemd/graphs.js:491
 msgid "CPU Graph"
@@ -1701,7 +1701,7 @@ msgstr "Comprimir volcado de errores para ahorrar espacio"#TODO
 #: pkg/kdump/kdump-view.jsx:156 pkg/storaged/vdo-details.jsx:303
 #: pkg/storaged/vdos-panel.jsx:120
 msgid "Compression"
-msgstr "Compresión"#TODO
+msgstr "Compresión"
 
 #: pkg/realmd/operation.html:44
 msgid "Computer OU"
@@ -1887,7 +1887,7 @@ msgstr "Contenedor:"#TODO
 #: pkg/docker/index.html:23 pkg/docker/index.html:289
 #: pkg/docker/containers-view.jsx:375
 msgid "Containers"
-msgstr "Contenedores"#TODO
+msgstr "Contenedores"
 
 #: pkg/docker/details.js:46
 msgctxt "page-title"
@@ -2004,7 +2004,7 @@ msgstr ""#TODO
 
 #: pkg/storaged/content-views.jsx:680
 msgid "Create Logical Volume"
-msgstr "Crear un volumen logico"#TODO
+msgstr "Crear volumen lógico"
 
 # auto translated by TM merge from project: Cockpit, version: rhel-7.6, DocId:
 # cockpit
@@ -2071,7 +2071,7 @@ msgstr "Crear Temporizadores"#TODO
 
 #: pkg/storaged/things-panel.jsx:69 pkg/storaged/vdos-panel.jsx:80
 msgid "Create VDO Device"
-msgstr "Crear Dispositivo VDO"#TODO
+msgstr "Crear dispositivo VDO"
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:884
 msgid "Create VM"
@@ -2102,7 +2102,7 @@ msgstr "Crearlo"#TODO
 
 #: pkg/storaged/content-views.jsx:755
 msgid "Create new Logical Volume"
-msgstr "Crear un nuevo Volumen Lógico"#TODO
+msgstr "Crear nuevo volumen lógico"
 
 #: pkg/lib/cockpit-components-modifications.jsx:87
 msgid "Create new task file with this content."
@@ -2111,7 +2111,7 @@ msgstr ""#TODO
 #: pkg/docker/containers-view.jsx:129 pkg/docker/containers-view.jsx:412
 #: pkg/docker/containers-view.jsx:687
 msgid "Created"
-msgstr "Creado"#TODO
+msgstr "Creada"
 
 #: pkg/docker/index.html:153
 msgid "Created:"
@@ -2478,7 +2478,7 @@ msgstr ""#TODO
 
 #: pkg/storaged/vdos-panel.jsx:90
 msgid "Disk"
-msgstr "Disco"#TODO
+msgstr "Disco"
 
 #: pkg/machines/components/vmDisksTab.jsx:162
 msgid "Disk $0 fail to get detached from VM $1"
@@ -2486,7 +2486,7 @@ msgstr ""#TODO
 
 #: pkg/dashboard/index.html:73 pkg/systemd/graphs.js:74
 msgid "Disk I/O"
-msgstr "Disco I/O"#TODO
+msgstr "E/S de disco"
 
 #: pkg/machines/components/diskAdd.jsx:437
 msgid "Disk failed to be attached"
@@ -2617,7 +2617,7 @@ msgstr "Disco"#TODO
 
 #: pkg/storaged/drives-panel.jsx:102
 msgid "Drives"
-msgstr "Discos"#TODO
+msgstr "Discos"
 
 #: pkg/lib/machine-info.js:247
 msgid "Dual Rank"
@@ -2987,7 +2987,7 @@ msgstr "Nombre de Sistema de archivos"#TODO
 
 #: pkg/storaged/fsys-panel.jsx:87 pkg/storaged/fsys-panel.jsx:90
 msgid "Filesystems"
-msgstr "Archivos del sistema"#TODO
+msgstr "Sistema de archivos"
 
 #: pkg/networkmanager/firewall.jsx:515
 msgid "Filter Services"
@@ -3124,7 +3124,7 @@ msgstr "Generando reporte"#TODO
 
 #: pkg/docker/containers-view.jsx:683
 msgid "Get new image"
-msgstr "Obtener nueva imagen"#TODO
+msgstr "Obtener nueva imagen"
 
 #: pkg/machines/components/memorySelectRow.jsx:87
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:98
@@ -3270,7 +3270,7 @@ msgstr "ID"
 #: pkg/networkmanager/index.html:126 pkg/networkmanager/index.html:144
 #: pkg/machines/components/vmnetworktab.jsx:162
 msgid "IP Address"
-msgstr "Dirección IP"#TODO
+msgstr "Dirección IP"
 
 #: pkg/docker/index.html:176
 msgid "IP Address:"
@@ -3370,7 +3370,7 @@ msgstr "Ignorar"#TODO
 #: pkg/docker/index.html:270 pkg/docker/index.html:433
 #: pkg/docker/containers-view.jsx:131 pkg/docker/containers-view.jsx:359
 msgid "Image"
-msgstr "Imagén"#TODO
+msgstr "Imagen"
 
 #: pkg/docker/image.js:73
 msgid "Image $0"
@@ -3392,7 +3392,7 @@ msgstr "Imagen:"#TODO
 
 #: pkg/docker/containers-view.jsx:715
 msgid "Images"
-msgstr "Imágenes"#TODO
+msgstr "Imágenes"
 
 #: pkg/docker/image.js:40
 msgctxt "page-title"
@@ -3401,11 +3401,11 @@ msgstr "Imágenes"#TODO
 
 #: pkg/docker/containers-view.jsx:109
 msgid "Images and running containers"
-msgstr "Imágenes y contenedores corriendo"#TODO
+msgstr "Imágenes y contenedores ejecutados"
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:799
 msgid "Immediately Start VM"
-msgstr "Iniciar inmediatamente VM"
+msgstr "Iniciar VM inmediatamente"
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:884
 msgid "Import VM"
@@ -3550,7 +3550,7 @@ msgstr "Tipo de interfaz"
 #: pkg/networkmanager/firewall.jsx:162 pkg/networkmanager/firewall.jsx:706
 #: pkg/networkmanager/interfaces.js:2968
 msgid "Interfaces"
-msgstr "Interfaces"#TODO
+msgstr "Interfaces"
 
 #: src/ws/login.js:667
 msgid "Internal Error: Invalid challenge header"
@@ -3971,7 +3971,7 @@ msgstr "Logico"#TODO
 
 #: pkg/storaged/vdo-details.jsx:218 pkg/storaged/vdos-panel.jsx:99
 msgid "Logical Size"
-msgstr "Tamaño Lógico"#TODO
+msgstr "Tamaño lógico"
 
 #: pkg/storaged/utils.js:198
 msgid "Logical Volume"
@@ -4034,7 +4034,7 @@ msgstr "MAC"#TODO
 #: pkg/machines/components/nicEdit.jsx:43
 #: pkg/machines/components/vmnetworktab.jsx:160
 msgid "MAC Address"
-msgstr "Dirección MAC"#TODO
+msgstr "Dirección MAC"
 
 #: pkg/docker/index.html:188
 msgid "MAC Address:"
@@ -4247,7 +4247,7 @@ msgstr "Modelo"
 
 #: pkg/machines/components/vmnetworktab.jsx:150
 msgid "Model type"
-msgstr "Modelo tipo"#TODO
+msgstr "Modelo"
 
 #: pkg/storaged/jobs-panel.jsx:39 pkg/storaged/jobs-panel.jsx:45
 #: pkg/storaged/jobs-panel.jsx:52
@@ -4305,7 +4305,7 @@ msgstr "Opciones de Montaje"#TODO
 #: pkg/storaged/fsys-tab.jsx:228 pkg/storaged/fsys-tab.jsx:496
 #: pkg/storaged/nfs-details.jsx:319 pkg/storaged/nfs-panel.jsx:103
 msgid "Mount Point"
-msgstr "Punto de Montaje"#TODO
+msgstr "Punto de montaje"
 
 #: pkg/storaged/fsys-tab.jsx:466
 msgid "Mount also automatically on boot"
@@ -4366,11 +4366,11 @@ msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:136
 msgid "NFS Mount"
-msgstr "Montar NFS"#TODO
+msgstr "Montar NFS"
 
 #: pkg/storaged/nfs-panel.jsx:90 pkg/storaged/nfs-panel.jsx:97
 msgid "NFS Mounts"
-msgstr "Montajes NFS"#TODO
+msgstr "Soportes NFS"
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -4474,7 +4474,7 @@ msgstr[0] "Red"#TODO
 #: pkg/dashboard/index.html:72
 msgctxt "label"
 msgid "Network"
-msgstr ""#TODO
+msgstr "Red"
 
 #: pkg/machines/components/networks/network.jsx:119
 msgid "Network $0 failed to get activated"
@@ -4535,7 +4535,7 @@ msgstr "Redes"#TODO
 
 #: pkg/networkmanager/index.html:155
 msgid "Networking Logs"
-msgstr "Registros de redes"#TODO
+msgstr "Registros de red"#TODO
 
 #: pkg/machines/components/networks/networkList.jsx:50
 #: pkg/machines/components/networks/networkList.jsx:54
@@ -4610,7 +4610,7 @@ msgstr "Ningún Sistema de Archivos"#TODO
 
 #: pkg/storaged/content-views.jsx:762
 msgid "No Logical Volumes"
-msgstr "No hay ningún volumen lógico"#TODO
+msgstr "No hay volúmenes lógicos"
 
 #: pkg/systemd/logs.js:159 pkg/systemd/logs.js:181 pkg/systemd/logs.js:345
 msgid "No Logs Found"
@@ -4622,7 +4622,7 @@ msgstr ""#TODO
 
 #: pkg/storaged/nfs-panel.jsx:100
 msgid "No NFS mounts set up"
-msgstr "Sin ajustes de montaje NFS"#TODO
+msgstr "No hay soportes NFS configurados"
 
 #: pkg/machines/components/nicBody.jsx:114
 msgid "No Network Devices"
@@ -4743,7 +4743,7 @@ msgstr "No se encontró ninguna clave de anfitrión."#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:269
 msgid "No iSCSI targets set up"
-msgstr "Sin objetivos iSCSI ajustados"#TODO
+msgstr "No hay objetos iSCSI configurados"
 
 #: pkg/docker/containers-view.jsx:709
 msgid "No images"
@@ -5040,7 +5040,7 @@ msgstr "Disco Óptico"#TODO
 
 #: pkg/storaged/crypto-tab.jsx:131 pkg/storaged/vdos-panel.jsx:116
 msgid "Options"
-msgstr "Opciones"#TODO
+msgstr "Opciones"
 
 #: src/ws/login.html:123
 msgid "Or use a bundled browser"
@@ -5286,7 +5286,7 @@ msgstr "Volumen físico"#TODO
 
 #: pkg/storaged/vgroup-details.jsx:127
 msgid "Physical Volumes"
-msgstr "Volúmenea Físicos"#TODO
+msgstr "Volúmenes físicos"
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:197
 msgid "Physical disk device on host"
@@ -5361,7 +5361,7 @@ msgstr "Pruebe con otro término"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:236
 msgid "Plug"
-msgstr "Enchufe"#TODO
+msgstr "Conectar"
 
 #: pkg/machines/components/deleteDialog.jsx:53
 #: pkg/machines/components/diskAdd.jsx:128
@@ -5862,7 +5862,7 @@ msgstr ""#TODO
 #: pkg/storaged/lvol-tabs.jsx:39 pkg/storaged/vgroup-details.jsx:182
 #: pkg/storaged/vgroup-details.jsx:231
 msgid "Rename"
-msgstr "Renombrar"#TODO
+msgstr "Renombrar"
 
 #: pkg/storaged/lvol-tabs.jsx:33
 msgid "Rename Logical Volume"
@@ -6093,7 +6093,7 @@ msgstr "Ejecutor"#TODO
 
 #: pkg/storaged/mdraid-details.jsx:336 pkg/systemd/service-details.jsx:354
 msgid "Running"
-msgstr "Corriendo"#TODO
+msgstr "Ejecutando"
 
 #: pkg/selinux/manifest.json.in
 msgid "SELinux"
@@ -6297,7 +6297,7 @@ msgstr "El server a cerrado la conexión"#TODO
 
 #: pkg/dashboard/index.html:86
 msgid "Servers"
-msgstr "Servidores"#TODO
+msgstr "Servidores"
 
 #: pkg/systemd/logs.html:66 pkg/networkmanager/firewall.jsx:169
 #: pkg/storaged/dialog.jsx:1034
@@ -6560,7 +6560,7 @@ msgstr ""#TODO
 #: pkg/machines/components/vmDisksTab.jsx:117
 #: pkg/machines/components/vmnetworktab.jsx:179
 msgid "Source"
-msgstr "Fuente"
+msgstr "Medio"
 
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:57
 msgid "Source Format"
@@ -6743,7 +6743,7 @@ msgstr "Almacenamiento"
 
 #: pkg/storaged/logs-panel.jsx:37
 msgid "Storage Logs"
-msgstr "Bitácoras de Almacenamiento"#TODO
+msgstr "Registros de almacenamiento"
 
 #: pkg/machines/components/aggregateStatusCards.jsx:47
 msgid "Storage Pool"
@@ -7720,7 +7720,7 @@ msgstr "Introduzca una contraseña"#TODO
 
 #: pkg/docker/containers-view.jsx:115
 msgid "Type to filter…"
-msgstr "Escribir para filtrar..."#TODO
+msgstr "Escriba para filtrar..."
 
 #: pkg/docker/index.html:334 pkg/networkmanager/firewall.jsx:169
 msgid "UDP"
@@ -7909,7 +7909,7 @@ msgstr "Sin nombre"#TODO
 
 #: pkg/machines/components/vmnetworktab.jsx:236
 msgid "Unplug"
-msgstr "Desenchufar"#TODO
+msgstr "Desconectar"
 
 #: pkg/storaged/content-views.jsx:167
 msgid "Unrecognized Data"
@@ -8245,7 +8245,7 @@ msgstr "Volumen"#TODO
 
 #: pkg/storaged/pvol-tabs.jsx:35 pkg/storaged/vgroups-panel.jsx:40
 msgid "Volume Group"
-msgstr "Grupo de Volúmenes"#TODO
+msgstr "Grupo de volúmenes"#TODO
 
 #: pkg/storaged/utils.js:248 pkg/storaged/vgroup-details.jsx:229
 msgid "Volume Group $0"
@@ -8725,7 +8725,7 @@ msgstr ""#TODO
 
 #: pkg/storaged/iscsi-panel.jsx:268
 msgid "iSCSI Targets"
-msgstr "Objetivos iSCSI"#TODO
+msgstr "Objetos iSCSI"
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:70
 msgid "iSCSI direct Target"
