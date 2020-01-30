@@ -663,7 +663,7 @@ msgstr "Equilibrio de carga de transmisión adaptativa"#TODO
 #: pkg/storaged/mdraid-details.jsx:59 pkg/storaged/nfs-details.jsx:191
 #: pkg/storaged/vgroup-details.jsx:65
 msgid "Add"
-msgstr "Añadir"#TODO
+msgstr "Añadir"
 
 #: pkg/networkmanager/interfaces.js:3088
 msgid "Add $0"
@@ -686,7 +686,7 @@ msgstr "Añadir puente"#TODO
 #: pkg/machines/components/diskAdd.jsx:517
 #: pkg/machines/components/vmDisksTab.jsx:93
 msgid "Add Disk"
-msgstr "Añadir disco"#TODO
+msgstr "Añadir disco"
 
 #: pkg/storaged/mdraid-details.jsx:46 pkg/storaged/vgroup-details.jsx:52
 msgid "Add Disks"
@@ -926,7 +926,7 @@ msgstr "Siempre"#TODO
 #: pkg/machines/components/diskAdd.jsx:118
 #: pkg/machines/components/nicAdd.jsx:86
 msgid "Always attach"
-msgstr ""#TODO
+msgstr "Añadir siempre"
 
 #: pkg/lib/cockpit-components-modifications.jsx:81
 msgid "Ansible"
@@ -943,7 +943,7 @@ msgstr ""#TODO
 #: pkg/apps/index.html:23 pkg/apps/application-list.jsx:148
 #: pkg/apps/application.jsx:143 pkg/apps/manifest.json.in
 msgid "Applications"
-msgstr "Aplicaciones"#TODO
+msgstr "Aplicaciones"
 
 #: pkg/networkmanager/index.html:487 pkg/networkmanager/index.html:513
 #: pkg/networkmanager/index.html:539 pkg/networkmanager/index.html:565
@@ -1274,7 +1274,7 @@ msgstr "Utilización de CPU:"#TODO
 #: pkg/machines/components/diskAdd.jsx:175
 #: pkg/machines/components/vmDiskColumns.jsx:75
 msgid "Cache"
-msgstr ""#TODO
+msgstr "Caché"
 
 #: pkg/systemd/graphs.html:161 pkg/systemd/graphs.js:394
 msgid "Cached"
@@ -2010,7 +2010,7 @@ msgstr "Crear volumen lógico"
 # cockpit
 #: pkg/machines/components/diskAdd.jsx:480
 msgid "Create New"
-msgstr "Crear nuevo"#TODO
+msgstr "Crear nuevo"
 
 #: pkg/users/index.html:52 pkg/users/index.html:163
 msgid "Create New Account"
@@ -2208,7 +2208,7 @@ msgstr "Opciones de encriptación personalizadas"#TODO
 #: pkg/storaged/format-dialog.jsx:247 pkg/storaged/fsys-tab.jsx:241
 #: pkg/storaged/nfs-details.jsx:176
 msgid "Custom mount options"
-msgstr "Opciones de montaje personalizadas"#TODO
+msgstr "Opciones de montaje personalizadas"
 
 #: pkg/networkmanager/firewall.jsx:686
 msgid "Custom zones"
@@ -3047,7 +3047,7 @@ msgstr "Forzar la eliminación de la contraseña en $0"#TODO
 #: pkg/storaged/content-views.jsx:330 pkg/storaged/content-views.jsx:332
 #: pkg/storaged/content-views.jsx:569 pkg/storaged/format-dialog.jsx:263
 msgid "Format"
-msgstr "Formato"#TODO
+msgstr "Formato"
 
 #: pkg/storaged/format-dialog.jsx:134
 msgid "Format $0"
@@ -3213,7 +3213,7 @@ msgstr "Tiempo de saludo $hello_time"#TODO
 
 #: pkg/machines/components/diskAdd.jsx:167
 msgid "Hide Performance Options"
-msgstr ""#TODO
+msgstr "Ocultar opciones de rendimiento"
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:137
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:35
@@ -3475,7 +3475,7 @@ msgstr ""#TODO
 #: pkg/lib/cockpit-components-install-dialog.jsx:118
 #: pkg/machines/components/vm/vmActions.jsx:98
 msgid "Install"
-msgstr "Instalar"#TODO
+msgstr "Instalar"
 
 #: pkg/packagekit/updates.jsx:838
 msgid "Install All Updates"
@@ -3914,7 +3914,7 @@ msgstr "Medio de instalación local"
 
 #: pkg/storaged/nfs-details.jsx:160
 msgid "Local Mount Point"
-msgstr "Punto de Montaje Local"#TODO
+msgstr "Punto de montaje local"
 
 #: pkg/kdump/kdump-view.jsx:145
 msgid "Location"
@@ -4299,7 +4299,7 @@ msgstr ""#TODO
 #: pkg/storaged/format-dialog.jsx:236 pkg/storaged/fsys-tab.jsx:233
 #: pkg/storaged/nfs-details.jsx:171
 msgid "Mount Options"
-msgstr "Opciones de Montaje"#TODO
+msgstr "Opciones de montaje"
 
 #: pkg/storaged/format-dialog.jsx:230 pkg/storaged/fsys-panel.jsx:95
 #: pkg/storaged/fsys-tab.jsx:228 pkg/storaged/fsys-tab.jsx:496
@@ -4313,7 +4313,7 @@ msgstr ""#TODO
 
 #: pkg/storaged/nfs-details.jsx:174
 msgid "Mount at boot"
-msgstr "Montar en el arranque"#TODO
+msgstr "Montar en el arranque"
 
 #: pkg/storaged/fsys-tab.jsx:458 pkg/storaged/fsys-tab.jsx:470
 msgid "Mount automatically on $0 on boot"
@@ -4350,7 +4350,7 @@ msgstr "El punto de montaje debe empezar con \"/\"."#TODO
 #: pkg/storaged/format-dialog.jsx:246 pkg/storaged/fsys-tab.jsx:240
 #: pkg/storaged/nfs-details.jsx:175
 msgid "Mount read only"
-msgstr "Montar en sólo lectura"#TODO
+msgstr "Montaje de solo lectura"
 
 #: pkg/storaged/jobs-panel.jsx:43
 msgid "Mounting $target"
@@ -4566,7 +4566,7 @@ msgstr "Nueva contraseña"#TODO
 # cockpit
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:39
 msgid "New Volume Name"
-msgstr "Nuevo nombre de volumen"#TODO
+msgstr "Nuevo nombre de volumen"
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -5212,7 +5212,7 @@ msgstr "Costo de trayecto $path_cost"#TODO
 
 #: pkg/storaged/nfs-details.jsx:148
 msgid "Path on Server"
-msgstr "Ruta sobre el Servidor"#TODO
+msgstr "Ruta en servidor"
 
 #: pkg/machines/components/storagePools/createStoragePoolDialog.jsx:116
 msgid "Path on host's filesystem"
@@ -5265,7 +5265,7 @@ msgstr ""#TODO
 #: pkg/machines/components/diskAdd.jsx:112
 #: pkg/machines/components/nicAdd.jsx:80
 msgid "Persistence"
-msgstr ""#TODO
+msgstr "Persistente"
 
 #: pkg/machines/components/networks/networkOverviewTab.jsx:83
 #: pkg/machines/components/storagePools/storagePoolOverviewTab.jsx:66
@@ -5369,7 +5369,7 @@ msgstr "Conectar"
 #: pkg/machines/components/vmDiskColumns.jsx:45
 #: pkg/storaged/content-views.jsx:138
 msgid "Pool"
-msgstr "Grupo"#TODO
+msgstr "Grupo"
 
 #: pkg/storaged/utils.js:192
 msgid "Pool for Thin Logical Volumes"
@@ -6273,7 +6273,7 @@ msgstr "Servidor"
 
 #: pkg/storaged/iscsi-panel.jsx:44 pkg/storaged/nfs-details.jsx:139
 msgid "Server Address"
-msgstr "Dirección del Servidor"#TODO
+msgstr "Dirección de servidor"
 
 #: pkg/users/local.js:764 pkg/users/local.js:765
 msgid "Server Administrator"#TODO
@@ -6419,7 +6419,7 @@ msgstr ""#TODO
 
 #: pkg/machines/components/diskAdd.jsx:167
 msgid "Show Performance Options"
-msgstr ""#TODO
+msgstr "Mostrar opciones de rendimiento"
 
 #: pkg/storaged/overview.jsx:52
 msgid "Show all"
@@ -8003,7 +8003,7 @@ msgstr "Usar emulación de 512 Byte"#TODO
 # cockpit
 #: pkg/machines/components/diskAdd.jsx:489
 msgid "Use Existing"
-msgstr "Usar existente"#TODO
+msgstr "Usar existente"
 
 #: pkg/shell/index.html:185
 msgid "Use the following keys to authenticate against other systems"
@@ -8241,7 +8241,7 @@ msgstr "El Servicio de Virtualización Está Disponible"#TODO
 #: pkg/machines/components/vmDiskColumns.jsx:46
 #: pkg/storaged/content-views.jsx:141
 msgid "Volume"
-msgstr "Volumen"#TODO
+msgstr "Volumen"
 
 #: pkg/storaged/pvol-tabs.jsx:35 pkg/storaged/vgroups-panel.jsx:40
 msgid "Volume Group"
