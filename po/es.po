@@ -1630,7 +1630,7 @@ msgid ""
 msgstr ""
 "Cockpit no ha podido iniciar sesión en {{#strong}}{{host}}{{/strong}}. Puede cambiar "
 "sus credenciales de autenticación más abajo. {{#can_sync}}Puede que desee "
-"{{#sync_link}}sincronizar cuentas y contraseñas{{/sync_link}}.{{/can_sync}}"#TODO was unable es correcto
+"{{#sync_link}}sincronizar cuentas y contraseñas{{/sync_link}}.{{/can_sync}}"
 
 #: pkg/dashboard/index.html:157 pkg/lib/machine-add.html:27
 msgid "Color"
@@ -2756,7 +2756,7 @@ msgstr "Ingrese la dirección IP o el nombre del host"#TODO
 
 #: pkg/lib/machine-change-auth.html:79
 msgid "Enter passphrase to add identity to ssh-agent"
-msgstr ""#TODO
+msgstr "Introducir frase de contraseña para añadir identidad a ssh-agent"
 
 #: pkg/lib/machine-change-auth.html:57
 msgid ""#TODO
@@ -3951,7 +3951,7 @@ msgstr "Salir"#TODO
 
 #: pkg/lib/machine-change-auth.html:4
 msgid "Log in to {{host}}"
-msgstr "Iniciar sesión en {{host}}"#TODO
+msgstr "Iniciar sesión en {{host}}"
 
 #: src/ws/login.js:542
 msgid "Log in with your server user account."
@@ -4188,7 +4188,7 @@ msgstr ""#TODO
 
 #: pkg/docker/index.html:454 pkg/docker/index.html:626
 msgid "Memory limit"
-msgstr "Límite de memoria"#TODO
+msgstr "Límite de memoria"
 
 #: pkg/machines/components/create-vm-dialog/createVmDialog.jsx:156
 msgid "Memory must not be 0"
@@ -4214,7 +4214,7 @@ msgstr "Metadatos en uso"#TODO
 #: pkg/machines/components/memorySelectRow.jsx:84
 #: pkg/machines/components/storagePools/storageVolumeCreateBody.jsx:95
 msgid "MiB"
-msgstr "MiB"#TODO
+msgstr "MiB"
 
 #: pkg/lib/machine-info.js:101
 msgid "Mini PC"
@@ -5413,7 +5413,7 @@ msgstr "Portable"#TODO
 #: pkg/networkmanager/index.html:330 pkg/docker/containers-view.jsx:414
 #: pkg/networkmanager/interfaces.js:2968
 msgid "Ports"
-msgstr "Puertos"#TODO
+msgstr "Puertos"
 
 #: pkg/docker/index.html:192
 msgid "Ports:"
@@ -5653,7 +5653,7 @@ msgstr "SoloLectura"#TODO
 
 #: pkg/docker/index.html:364
 msgid "ReadWrite"
-msgstr "LecturaEscritura"#TODO
+msgstr "LecturaEscritura"
 
 #: pkg/storaged/plot.jsx:312
 msgid "Reading"
@@ -6076,7 +6076,7 @@ msgstr "Rutas"#TODO
 #: pkg/docker/index.html:253 pkg/docker/index.html:566
 #: pkg/systemd/services.html:295 pkg/machines/components/vm/vmActions.jsx:91
 msgid "Run"
-msgstr "Ejecutar"#TODO
+msgstr "Ejecutar"
 
 #: pkg/docker/index.html:427
 msgid "Run Image"
@@ -6773,7 +6773,7 @@ msgstr "Piscinas de almacenamiento"#TODO
 
 #: pkg/machines/components/diskEdit.jsx:40
 msgid "Storage Volume"
-msgstr ""#TODO
+msgstr "Volumen de almacenamiento"
 
 #: pkg/machines/components/storagePools/storagePool.jsx:88
 msgid "Storage Volumes"
@@ -7978,7 +7978,7 @@ msgstr ""#TODO
 
 #: pkg/machines/components/diskEdit.jsx:38
 msgid "Url"
-msgstr ""#TODO
+msgstr "Url"
 
 #: pkg/machines/components/vm/vm.jsx:50 pkg/storaged/unrecognized-tab.jsx:30
 #: pkg/systemd/overview-cards/usageCard.jsx:73
@@ -8055,7 +8055,7 @@ msgstr "Nombre de Usuario"#TODO
 
 #: pkg/lib/machine-change-auth.html:44
 msgid "Using available credentials"
-msgstr "Usando credenciales disponibles"#TODO
+msgstr "Usar credenciales disponibles"
 
 #: pkg/machines/components/vcpuModal.jsx:165
 msgid "VCPU settings could not be saved"
@@ -8269,7 +8269,7 @@ msgstr ""#TODO
 
 #: pkg/docker/index.html:517
 msgid "Volumes"
-msgstr "Volúmenes"#TODO
+msgstr "Volúmenes"
 
 # auto translated by TM merge from project: Cockpit, version: rhel-8.0, DocId:
 # cockpit
@@ -8348,7 +8348,7 @@ msgstr ""#TODO
 
 #: pkg/docker/index.html:488
 msgid "With terminal"
-msgstr "Con terminal"#TODO
+msgstr "Con terminal"
 
 #: pkg/storaged/mdraid-details.jsx:97
 msgid "Write-mostly"
@@ -8357,12 +8357,12 @@ msgstr "Escribir casi todo"#TODO
 #: pkg/machines/components/diskEdit.jsx:82
 #: pkg/machines/components/vmDisksTab.jsx:144
 msgid "Writeable"
-msgstr ""#TODO
+msgstr "Escritura"
 
 #: pkg/machines/components/diskEdit.jsx:95
 #: pkg/machines/components/vmDisksTab.jsx:144
 msgid "Writeable and shared"
-msgstr ""#TODO
+msgstr "Escritura y compartido"
 
 #: pkg/storaged/plot.jsx:315
 msgid "Writing"
@@ -8568,7 +8568,7 @@ msgstr ""#TODO
 
 #: pkg/systemd/manifest.json.in
 msgid "cpu"
-msgstr ""#TODO
+msgstr "cpu"
 
 #: pkg/kdump/manifest.json.in pkg/systemd/manifest.json.in
 msgid "crash"
@@ -8881,7 +8881,7 @@ msgstr "ninguno"#TODO
 msgid "of $0 CPU core"
 msgid_plural "of $0 CPU cores"
 msgstr[0] "de $0 núcleo de CPU"
-msgstr[1] "de $0 núcleos de CPU"#TODO
+msgstr[1] "de $0 núcleos de CPU"
 
 #: pkg/systemd/manifest.json.in
 msgid "operating system"
